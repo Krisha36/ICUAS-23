@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /root/uav_ws/devel/.private/ardupilot_gazebo/setup.sh

@@ -1,0 +1,48 @@
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_general/nodes/VelocityEstimationNode_ConstAcc.cpp: In lambda function:
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_general/nodes/VelocityEstimationNode_ConstAcc.cpp:52:36: warning: narrowing conversion of ‘poseMsg.geometry_msgs::PoseStamped_<std::allocator<void> >::pose.geometry_msgs::Pose_<std::allocator<void> >::position.geometry_msgs::Point_<std::allocator<void> >::x’ from ‘geometry_msgs::Point_<std::allocator<void> >::_x_type’ {aka ‘double’} to ‘float’ [-Wnarrowing]
+   52 |         dt, {poseMsg.pose.position.x, myImuMsg.linear_acceleration.x},
+      |              ~~~~~~~~~~~~~~~~~~~~~~^
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_general/nodes/VelocityEstimationNode_ConstAcc.cpp:52:68: warning: narrowing conversion of ‘myImuMsg.sensor_msgs::Imu_<std::allocator<void> >::linear_acceleration.geometry_msgs::Vector3_<std::allocator<void> >::x’ from ‘geometry_msgs::Vector3_<std::allocator<void> >::_x_type’ {aka ‘double’} to ‘float’ [-Wnarrowing]
+   52 |         dt, {poseMsg.pose.position.x, myImuMsg.linear_acceleration.x},
+      |                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_general/nodes/VelocityEstimationNode_ConstAcc.cpp:55:36: warning: narrowing conversion of ‘poseMsg.geometry_msgs::PoseStamped_<std::allocator<void> >::pose.geometry_msgs::Pose_<std::allocator<void> >::position.geometry_msgs::Point_<std::allocator<void> >::y’ from ‘geometry_msgs::Point_<std::allocator<void> >::_y_type’ {aka ‘double’} to ‘float’ [-Wnarrowing]
+   55 |         dt, {poseMsg.pose.position.y, myImuMsg.linear_acceleration.y},
+      |              ~~~~~~~~~~~~~~~~~~~~~~^
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_general/nodes/VelocityEstimationNode_ConstAcc.cpp:55:68: warning: narrowing conversion of ‘myImuMsg.sensor_msgs::Imu_<std::allocator<void> >::linear_acceleration.geometry_msgs::Vector3_<std::allocator<void> >::y’ from ‘geometry_msgs::Vector3_<std::allocator<void> >::_y_type’ {aka ‘double’} to ‘float’ [-Wnarrowing]
+   55 |         dt, {poseMsg.pose.position.y, myImuMsg.linear_acceleration.y},
+      |                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_general/nodes/VelocityEstimationNode_ConstAcc.cpp:59:32: warning: narrowing conversion of ‘poseMsg.geometry_msgs::PoseStamped_<std::allocator<void> >::pose.geometry_msgs::Pose_<std::allocator<void> >::position.geometry_msgs::Point_<std::allocator<void> >::z’ from ‘geometry_msgs::Point_<std::allocator<void> >::_z_type’ {aka ‘double’} to ‘float’ [-Wnarrowing]
+   59 |         {poseMsg.pose.position.z, (myImuMsg.linear_acceleration.z - 9.80689)},
+      |          ~~~~~~~~~~~~~~~~~~~~~~^
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_general/nodes/VelocityEstimationNode_ConstAcc.cpp:59:67: warning: narrowing conversion of ‘(myImuMsg.sensor_msgs::Imu_<std::allocator<void> >::linear_acceleration.geometry_msgs::Vector3_<std::allocator<void> >::z - 9.8068899999999992e+0)’ from ‘geometry_msgs::Vector3_<std::allocator<void> >::_z_type’ {aka ‘double’} to ‘float’ [-Wnarrowing]
+   59 |         {poseMsg.pose.position.z, (myImuMsg.linear_acceleration.z - 9.80689)},
+      |                                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_general/nodes/VelocityEstimationNode_ConstAccUKF.cpp: In lambda function:
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_general/nodes/VelocityEstimationNode_ConstAccUKF.cpp:53:36: warning: narrowing conversion of ‘poseMsg.geometry_msgs::PoseStamped_<std::allocator<void> >::pose.geometry_msgs::Pose_<std::allocator<void> >::position.geometry_msgs::Point_<std::allocator<void> >::x’ from ‘geometry_msgs::Point_<std::allocator<void> >::_x_type’ {aka ‘double’} to ‘float’ [-Wnarrowing]
+   53 |         dt, {poseMsg.pose.position.x, myImuMsg.linear_acceleration.x},
+      |              ~~~~~~~~~~~~~~~~~~~~~~^
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_general/nodes/VelocityEstimationNode_ConstAccUKF.cpp:53:68: warning: narrowing conversion of ‘myImuMsg.sensor_msgs::Imu_<std::allocator<void> >::linear_acceleration.geometry_msgs::Vector3_<std::allocator<void> >::x’ from ‘geometry_msgs::Vector3_<std::allocator<void> >::_x_type’ {aka ‘double’} to ‘float’ [-Wnarrowing]
+   53 |         dt, {poseMsg.pose.position.x, myImuMsg.linear_acceleration.x},
+      |                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_general/nodes/VelocityEstimationNode_ConstAccUKF.cpp:56:36: warning: narrowing conversion of ‘poseMsg.geometry_msgs::PoseStamped_<std::allocator<void> >::pose.geometry_msgs::Pose_<std::allocator<void> >::position.geometry_msgs::Point_<std::allocator<void> >::y’ from ‘geometry_msgs::Point_<std::allocator<void> >::_y_type’ {aka ‘double’} to ‘float’ [-Wnarrowing]
+   56 |         dt, {poseMsg.pose.position.y, myImuMsg.linear_acceleration.y},
+      |              ~~~~~~~~~~~~~~~~~~~~~~^
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_general/nodes/VelocityEstimationNode_ConstAccUKF.cpp:56:68: warning: narrowing conversion of ‘myImuMsg.sensor_msgs::Imu_<std::allocator<void> >::linear_acceleration.geometry_msgs::Vector3_<std::allocator<void> >::y’ from ‘geometry_msgs::Vector3_<std::allocator<void> >::_y_type’ {aka ‘double’} to ‘float’ [-Wnarrowing]
+   56 |         dt, {poseMsg.pose.position.y, myImuMsg.linear_acceleration.y},
+      |                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_general/nodes/VelocityEstimationNode_ConstAccUKF.cpp:60:32: warning: narrowing conversion of ‘poseMsg.geometry_msgs::PoseStamped_<std::allocator<void> >::pose.geometry_msgs::Pose_<std::allocator<void> >::position.geometry_msgs::Point_<std::allocator<void> >::z’ from ‘geometry_msgs::Point_<std::allocator<void> >::_z_type’ {aka ‘double’} to ‘float’ [-Wnarrowing]
+   60 |         {poseMsg.pose.position.z, (myImuMsg.linear_acceleration.z - 9.80689)},
+      |          ~~~~~~~~~~~~~~~~~~~~~~^
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_general/nodes/VelocityEstimationNode_ConstAccUKF.cpp:60:67: warning: narrowing conversion of ‘(myImuMsg.sensor_msgs::Imu_<std::allocator<void> >::linear_acceleration.geometry_msgs::Vector3_<std::allocator<void> >::z - 9.8068899999999992e+0)’ from ‘geometry_msgs::Vector3_<std::allocator<void> >::_z_type’ {aka ‘double’} to ‘float’ [-Wnarrowing]
+   60 |         {poseMsg.pose.position.z, (myImuMsg.linear_acceleration.z - 9.80689)},
+      |                                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_general/nodes/VelocityEstimationNode.cpp: In lambda function:
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_general/nodes/VelocityEstimationNode.cpp:29:59: warning: narrowing conversion of ‘poseMsg.geometry_msgs::PoseStamped_<std::allocator<void> >::pose.geometry_msgs::Pose_<std::allocator<void> >::position.geometry_msgs::Point_<std::allocator<void> >::x’ from ‘geometry_msgs::Point_<std::allocator<void> >::_x_type’ {aka ‘double’} to ‘float’ [-Wnarrowing]
+   29 |     kWrapperXPos.estimateState(dt, {poseMsg.pose.position.x}, newMeasurementFlag);
+      |                                     ~~~~~~~~~~~~~~~~~~~~~~^
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_general/nodes/VelocityEstimationNode.cpp:30:59: warning: narrowing conversion of ‘poseMsg.geometry_msgs::PoseStamped_<std::allocator<void> >::pose.geometry_msgs::Pose_<std::allocator<void> >::position.geometry_msgs::Point_<std::allocator<void> >::y’ from ‘geometry_msgs::Point_<std::allocator<void> >::_y_type’ {aka ‘double’} to ‘float’ [-Wnarrowing]
+   30 |     kWrapperYPos.estimateState(dt, {poseMsg.pose.position.y}, newMeasurementFlag);
+      |                                     ~~~~~~~~~~~~~~~~~~~~~~^
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_general/nodes/VelocityEstimationNode.cpp:31:59: warning: narrowing conversion of ‘poseMsg.geometry_msgs::PoseStamped_<std::allocator<void> >::pose.geometry_msgs::Pose_<std::allocator<void> >::position.geometry_msgs::Point_<std::allocator<void> >::z’ from ‘geometry_msgs::Point_<std::allocator<void> >::_z_type’ {aka ‘double’} to ‘float’ [-Wnarrowing]
+   31 |     kWrapperZPos.estimateState(dt, {poseMsg.pose.position.z}, newMeasurementFlag);
+      |                                     ~~~~~~~~~~~~~~~~~~~~~~^

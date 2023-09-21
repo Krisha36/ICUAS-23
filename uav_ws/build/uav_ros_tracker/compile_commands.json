@@ -1,0 +1,67 @@
+[
+{
+  "directory": "/root/uav_ws/build/uav_ros_tracker",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"uav_ros_tracker\\\" -Dwaypoint_manager_nodelet_EXPORTS -I/root/uav_ws/devel/.private/uav_ros_tracker/include -I/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_tracker/include -I/root/uav_ws/devel/.private/uav_ros_lib/include -I/root/uav_ws/devel/.private/uav_ros_msgs/include -I/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/cmake/cfgbuild.cmake  -std=c++17 -std=c++17 -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/waypoint_manager_nodelet.dir/nodes/waypoint_manager_nodelet.cpp.o -c /root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_tracker/nodes/waypoint_manager_nodelet.cpp",
+  "file": "/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_tracker/nodes/waypoint_manager_nodelet.cpp"
+},
+{
+  "directory": "/root/uav_ws/build/uav_ros_tracker",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"uav_ros_tracker\\\" -Dwaypoint_publisher_EXPORTS -I/root/uav_ws/devel/.private/uav_ros_tracker/include -I/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_tracker/include -I/root/uav_ws/devel/.private/uav_ros_lib/include -I/root/uav_ws/devel/.private/uav_ros_msgs/include -I/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/cmake/cfgbuild.cmake  -std=c++17 -std=c++17 -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/waypoint_publisher.dir/src/waypoint_publisher.cpp.o -c /root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_tracker/src/waypoint_publisher.cpp",
+  "file": "/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_tracker/src/waypoint_publisher.cpp"
+},
+{
+  "directory": "/root/uav_ws/build/uav_ros_tracker",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"uav_ros_tracker\\\" -I/root/uav_ws/devel/.private/uav_ros_tracker/include -I/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_tracker/include -I/root/uav_ws/devel/.private/uav_ros_lib/include -I/root/uav_ws/devel/.private/uav_ros_msgs/include -I/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/cmake/cfgbuild.cmake  -std=c++17 -std=c++17 -O2 -g -DNDEBUG   -o CMakeFiles/mpc_tracker.dir/src/mpc_tracker.cpp.o -c /root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_tracker/src/mpc_tracker.cpp",
+  "file": "/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_tracker/src/mpc_tracker.cpp"
+},
+{
+  "directory": "/root/uav_ws/build/uav_ros_tracker",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"uav_ros_tracker\\\" -I/root/uav_ws/devel/.private/uav_ros_tracker/include -I/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_tracker/include -I/root/uav_ws/devel/.private/uav_ros_lib/include -I/root/uav_ws/devel/.private/uav_ros_msgs/include -I/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/cmake/cfgbuild.cmake  -std=c++17 -std=c++17 -O2 -g -DNDEBUG   -o CMakeFiles/mpc_tracker.dir/nodes/mpc_tracker_node.cpp.o -c /root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_tracker/nodes/mpc_tracker_node.cpp",
+  "file": "/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_tracker/nodes/mpc_tracker_node.cpp"
+},
+{
+  "directory": "/root/uav_ws/build/uav_ros_tracker",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"uav_ros_tracker\\\" -Dmpc_wrapper_EXPORTS -I/root/uav_ws/devel/.private/uav_ros_tracker/include -I/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_tracker/include -I/root/uav_ws/devel/.private/uav_ros_lib/include -I/root/uav_ws/devel/.private/uav_ros_msgs/include -I/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/cmake/cfgbuild.cmake  -std=c++17 -std=c++17 -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/mpc_wrapper.dir/src/cvx_wrapper.cpp.o -c /root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_tracker/src/cvx_wrapper.cpp",
+  "file": "/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_tracker/src/cvx_wrapper.cpp"
+},
+{
+  "directory": "/root/uav_ws/build/uav_ros_tracker",
+  "command": "/usr/bin/cc -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"uav_ros_tracker\\\" -Dmpc_cvxgen_EXPORTS -I/root/uav_ws/devel/.private/uav_ros_tracker/include -I/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_tracker/include -I/root/uav_ws/devel/.private/uav_ros_lib/include -I/root/uav_ws/devel/.private/uav_ros_msgs/include -I/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/cmake/cfgbuild.cmake  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/mpc_cvxgen.dir/src/cvxgen/ldl.c.o   -c /root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_tracker/src/cvxgen/ldl.c",
+  "file": "/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_tracker/src/cvxgen/ldl.c"
+},
+{
+  "directory": "/root/uav_ws/build/uav_ros_tracker",
+  "command": "/usr/bin/cc -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"uav_ros_tracker\\\" -Dmpc_cvxgen_EXPORTS -I/root/uav_ws/devel/.private/uav_ros_tracker/include -I/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_tracker/include -I/root/uav_ws/devel/.private/uav_ros_lib/include -I/root/uav_ws/devel/.private/uav_ros_msgs/include -I/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/cmake/cfgbuild.cmake  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/mpc_cvxgen.dir/src/cvxgen/matrix_support.c.o   -c /root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_tracker/src/cvxgen/matrix_support.c",
+  "file": "/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_tracker/src/cvxgen/matrix_support.c"
+},
+{
+  "directory": "/root/uav_ws/build/uav_ros_tracker",
+  "command": "/usr/bin/cc -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"uav_ros_tracker\\\" -Dmpc_cvxgen_EXPORTS -I/root/uav_ws/devel/.private/uav_ros_tracker/include -I/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_tracker/include -I/root/uav_ws/devel/.private/uav_ros_lib/include -I/root/uav_ws/devel/.private/uav_ros_msgs/include -I/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/cmake/cfgbuild.cmake  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/mpc_cvxgen.dir/src/cvxgen/solver.c.o   -c /root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_tracker/src/cvxgen/solver.c",
+  "file": "/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_tracker/src/cvxgen/solver.c"
+},
+{
+  "directory": "/root/uav_ws/build/uav_ros_tracker",
+  "command": "/usr/bin/cc -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"uav_ros_tracker\\\" -Dmpc_cvxgen_EXPORTS -I/root/uav_ws/devel/.private/uav_ros_tracker/include -I/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_tracker/include -I/root/uav_ws/devel/.private/uav_ros_lib/include -I/root/uav_ws/devel/.private/uav_ros_msgs/include -I/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/cmake/cfgbuild.cmake  -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/mpc_cvxgen.dir/src/cvxgen/util.c.o   -c /root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_tracker/src/cvxgen/util.c",
+  "file": "/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_tracker/src/cvxgen/util.c"
+},
+{
+  "directory": "/root/uav_ws/build/uav_ros_tracker/gtest/googlemock",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -isystem /usr/src/googletest/googlemock/include -isystem /usr/src/googletest/googlemock -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -std=c++17 -O2 -g -DNDEBUG -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /usr/src/googletest/googlemock/src/gmock_main.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/root/uav_ws/build/uav_ros_tracker/gtest/googlemock",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -std=c++17 -O2 -g -DNDEBUG -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /usr/src/googletest/googlemock/src/gmock-all.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/root/uav_ws/build/uav_ros_tracker/gtest/googletest",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_main_EXPORTS -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -std=c++17 -O2 -g -DNDEBUG -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /usr/src/googletest/googletest/src/gtest_main.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/root/uav_ws/build/uav_ros_tracker/gtest/googletest",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_EXPORTS -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -std=c++17 -O2 -g -DNDEBUG -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+}
+]

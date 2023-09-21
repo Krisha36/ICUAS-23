@@ -1,0 +1,1 @@
+/root/uav_ws/devel/.private/planning_msgs/share/gennodejs/ros/planning_msgs/srv/PlannerService.js

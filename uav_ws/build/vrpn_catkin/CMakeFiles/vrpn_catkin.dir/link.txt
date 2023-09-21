@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -std=c++17 -O2 -g -DNDEBUG  -shared -Wl,-soname,libvrpn_catkin.so -o /root/uav_ws/devel/.private/vrpn_catkin/lib/libvrpn_catkin.so CMakeFiles/vrpn_catkin.dir/src/dependency_tracker.cc.o  /root/uav_ws/devel/.private/vrpn_catkin/lib/libvrpn.a /root/uav_ws/devel/.private/vrpn_catkin/lib/libquat.a 

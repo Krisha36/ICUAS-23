@@ -1,0 +1,1 @@
+/root/uav_ws/devel/.private/icuas23_competition/share/common-lisp/ros/icuas23_competition/msg/poi.lisp

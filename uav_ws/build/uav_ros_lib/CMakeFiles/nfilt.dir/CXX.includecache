@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include/uav_ros_lib/nonlinear_filters.hpp
+iostream
+-
+
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/src/nonlinear_filters.cpp
+uav_ros_lib/nonlinear_filters.hpp
+-
+iostream
+-
+cmath
+-
+

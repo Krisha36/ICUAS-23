@@ -1,0 +1,17 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~device" : \b [str] Serial device for the gimbal connection min: , default: , max: 
+- \b "~baudrate" : \b [int] Baudrate for the gimbal connection min: -2147483648, default: 0, max: 2147483647
+- \b "~state_poll_rate" : \b [double] Rate in which the gimbal data is polled and published min: 0.0, default: 0, max: 300.0
+- \b "~goal_push_rate" : \b [double] Rate in which the gimbal are pushed to the gimbal min: 0.0, default: 0, max: 300.0
+- \b "~gimbal_mode" : \b [int] Control mode of the gimbal min: 0, default: 0, max: 2
+- \b "~tilt_axis_input_mode" : \b [int] Input mode of the gimbals tilt axis min: 0, default: 0, max: 2
+- \b "~tilt_axis_stabilize" : \b [bool] Input mode of the gimbals tilt axis min: False, default: False, max: True
+- \b "~roll_axis_input_mode" : \b [int] Input mode of the gimbals tilt roll min: 0, default: 0, max: 2
+- \b "~roll_axis_stabilize" : \b [bool] Input mode of the gimbals tilt roll min: False, default: False, max: True
+- \b "~pan_axis_input_mode" : \b [int] Input mode of the gimbals tilt pan min: 0, default: 0, max: 2
+- \b "~pan_axis_stabilize" : \b [bool] Input mode of the gimbals tilt pan min: False, default: False, max: True
+- \b "~lock_yaw_to_vehicle" : \b [bool] Uses the yaw relative to the gimbal mount to prevent drift issues. Only a light stabilization is applied. min: False, default: False, max: True
+

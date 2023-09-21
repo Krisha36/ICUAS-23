@@ -1,0 +1,27 @@
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target _uav_ros_msgs_generate_messages_check_deps_VisualServoProcessValues
+[  0%] Built target _uav_ros_msgs_generate_messages_check_deps_Waypoint
+[  0%] Built target _uav_ros_msgs_generate_messages_check_deps_Land
+[  0%] Built target _uav_ros_msgs_generate_messages_check_deps_TakeOff
+[  0%] Built target _uav_ros_msgs_generate_messages_check_deps_Waypoints
+[  0%] Built target _uav_ros_msgs_generate_messages_check_deps_Task
+[  0%] Built target _uav_ros_msgs_generate_messages_check_deps_WaypointStatus
+[  0%] Built target _uav_ros_msgs_generate_messages_check_deps_ArmAndTakeoff
+[  0%] Built target _uav_ros_msgs_generate_messages_check_deps_PIDController
+[  0%] Built target _uav_ros_msgs_generate_messages_check_deps_GeoBrickApproach
+[  0%] Built target _uav_ros_msgs_generate_messages_check_deps_MapInfo
+[ 62%] Built target uav_ros_msgs_generate_messages_eus
+[ 62%] Built target uav_ros_msgs_generate_messages_cpp
+[ 62%] Built target uav_ros_msgs_generate_messages_py
+[100%] Built target uav_ros_msgs_generate_messages_nodejs
+[100%] Built target uav_ros_msgs_generate_messages_lisp
+[100%] Built target uav_ros_msgs_generate_messages

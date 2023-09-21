@@ -1,0 +1,1 @@
+/root/uav_ws/devel/.private/velodyne_msgs/share/roseus/ros/velodyne_msgs/msg/VelodyneScan.l

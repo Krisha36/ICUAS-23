@@ -1,0 +1,2 @@
+uav_ros_simulation/ros_packages/ardupilot_gazebo
+/root/uav_ws/devel/.private/ardupilot_gazebo/cmake.lock /root/uav_ws/devel/./cmake.lock

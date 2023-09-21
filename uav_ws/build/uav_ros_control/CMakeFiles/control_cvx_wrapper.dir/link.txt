@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -std=c++17 -O2 -g -DNDEBUG  -shared -Wl,-soname,libcontrol_cvx_wrapper.so -o /root/uav_ws/devel/.private/uav_ros_control/lib/libcontrol_cvx_wrapper.so CMakeFiles/control_cvx_wrapper.dir/src/control/cvx_wrapper.cpp.o  -Wl,-rpath,/root/uav_ws/devel/.private/uav_ros_control/lib /root/uav_ws/devel/.private/uav_ros_control/lib/libcontrol_mpc_cvxgen.so 

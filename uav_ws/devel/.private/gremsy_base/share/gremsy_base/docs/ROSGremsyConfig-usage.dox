@@ -1,0 +1,18 @@
+\subsubsection usage Usage
+\verbatim
+<node name="gremsy_base" pkg="gremsy_base" type="gremsy_base">
+  <param name="device" type="str" value="" />
+  <param name="baudrate" type="int" value="0" />
+  <param name="state_poll_rate" type="double" value="0" />
+  <param name="goal_push_rate" type="double" value="0" />
+  <param name="gimbal_mode" type="int" value="0" />
+  <param name="tilt_axis_input_mode" type="int" value="0" />
+  <param name="tilt_axis_stabilize" type="bool" value="False" />
+  <param name="roll_axis_input_mode" type="int" value="0" />
+  <param name="roll_axis_stabilize" type="bool" value="False" />
+  <param name="pan_axis_input_mode" type="int" value="0" />
+  <param name="pan_axis_stabilize" type="bool" value="False" />
+  <param name="lock_yaw_to_vehicle" type="bool" value="False" />
+</node>
+\endverbatim
+

@@ -1,0 +1,3 @@
+Symlinking /root/uav_ws/devel/lib/pkgconfig/glog_catkin.pc
+Symlinking /root/uav_ws/devel/share/glog_catkin/cmake/glog_catkinConfig.cmake
+Symlinking /root/uav_ws/devel/share/glog_catkin/cmake/glog_catkinConfig-version.cmake

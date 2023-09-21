@@ -1,0 +1,153 @@
+CMake Warning (dev) at /usr/share/cmake-3.16/Modules/FindOpenGL.cmake:275 (message):
+  Policy CMP0072 is not set: FindOpenGL prefers GLVND by default when
+  available.  Run "cmake --help-policy CMP0072" for policy details.  Use the
+  cmake_policy command to set the policy and suppress this warning.
+
+  FindOpenGL found both a legacy GL library:
+
+    OPENGL_gl_LIBRARY: /usr/lib/x86_64-linux-gnu/libGL.so
+
+  and GLVND libraries for OpenGL and GLX:
+
+    OPENGL_opengl_LIBRARY: /usr/lib/x86_64-linux-gnu/libOpenGL.so
+    OPENGL_glx_LIBRARY: /usr/lib/x86_64-linux-gnu/libGLX.so
+
+  OpenGL_GL_PREFERENCE has not been set to "GLVND" or "LEGACY", so for
+  compatibility with CMake 3.10 and below the legacy GL library will be used.
+Call Stack (most recent call first):
+  client_src/CMakeLists.txt:26 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+make[3]: warning: -j8 forced in submake: resetting jobserver mode.
+In file included from /usr/include/string.h:495,
+                 from /root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Mutex.C:2:
+In function ‘char* strncpy(char*, const char*, size_t)’,
+    inlined from ‘void vrpn_PeerMutex::init(const char*)’ at /root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Mutex.C:1393:12:
+/usr/include/x86_64-linux-gnu/bits/string_fortified.h:106:34: warning: ‘char* __builtin_strncpy(char*, const char*, long unsigned int)’ specified bound depends on the length of the source argument [-Wstringop-overflow=]
+  106 |   return __builtin___strncpy_chk (__dest, __src, __len, __bos (__dest));
+      |          ~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Mutex.C: In member function ‘void vrpn_PeerMutex::init(const char*)’:
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Mutex.C:1393:12: note: length computed here
+ 1393 |     strncpy(d_mutexName, name, strlen(name));
+      |     ~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+In file included from /usr/include/string.h:495,
+                 from /root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Mutex.C:2:
+In function ‘char* strncpy(char*, const char*, size_t)’,
+    inlined from ‘void vrpn_PeerMutex::init(const char*)’ at /root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Mutex.C:1393:12:
+/usr/include/x86_64-linux-gnu/bits/string_fortified.h:106:34: warning: ‘char* __builtin_strncpy(char*, const char*, long unsigned int)’ specified bound depends on the length of the source argument [-Wstringop-overflow=]
+  106 |   return __builtin___strncpy_chk (__dest, __src, __len, __bos (__dest));
+      |          ~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Mutex.C: In member function ‘void vrpn_PeerMutex::init(const char*)’:
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Mutex.C:1393:12: note: length computed here
+ 1393 |     strncpy(d_mutexName, name, strlen(name));
+      |     ~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/client_src/sound_client.C: In function ‘int main(int, char**)’:
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/client_src/sound_client.C:78:7: warning: ignoring return value of ‘int scanf(const char*, ...)’, declared with attribute warn_unused_result [-Wunused-result]
+   78 |  scanf("%s", server);
+      |  ~~~~~^~~~~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/client_src/sound_client.C:80:7: warning: ignoring return value of ‘int scanf(const char*, ...)’, declared with attribute warn_unused_result [-Wunused-result]
+   80 |  scanf("%s", device);
+      |  ~~~~~^~~~~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/client_src/sound_client.C:117:8: warning: ignoring return value of ‘int scanf(const char*, ...)’, declared with attribute warn_unused_result [-Wunused-result]
+  117 |   scanf("%d", &command);
+      |   ~~~~~^~~~~~~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/client_src/sound_client.C:123:10: warning: ignoring return value of ‘int scanf(const char*, ...)’, declared with attribute warn_unused_result [-Wunused-result]
+  123 |     scanf("%s", dummy);
+      |     ~~~~~^~~~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/client_src/sound_client.C:132:9: warning: ignoring return value of ‘int scanf(const char*, ...)’, declared with attribute warn_unused_result [-Wunused-result]
+  132 |    scanf("%d", &id);
+      |    ~~~~~^~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/client_src/sound_client.C:140:9: warning: ignoring return value of ‘int scanf(const char*, ...)’, declared with attribute warn_unused_result [-Wunused-result]
+  140 |    scanf("%d", &id);
+      |    ~~~~~^~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/client_src/sound_client.C:142:9: warning: ignoring return value of ‘int scanf(const char*, ...)’, declared with attribute warn_unused_result [-Wunused-result]
+  142 |    scanf("%d", &repeat);
+      |    ~~~~~^~~~~~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/client_src/sound_client.C:148:9: warning: ignoring return value of ‘int scanf(const char*, ...)’, declared with attribute warn_unused_result [-Wunused-result]
+  148 |    scanf("%d", &id);
+      |    ~~~~~^~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/client_src/sound_client.C:154:9: warning: ignoring return value of ‘int scanf(const char*, ...)’, declared with attribute warn_unused_result [-Wunused-result]
+  154 |    scanf("%d", &id);
+      |    ~~~~~^~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/client_src/sound_client.C:156:9: warning: ignoring return value of ‘int scanf(const char*, ...)’, declared with attribute warn_unused_result [-Wunused-result]
+  156 |    scanf("%d", &volume);
+      |    ~~~~~^~~~~~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/client_src/sound_client.C:162:9: warning: ignoring return value of ‘int scanf(const char*, ...)’, declared with attribute warn_unused_result [-Wunused-result]
+  162 |    scanf("%d", &id);
+      |    ~~~~~^~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/client_src/sound_client.C:164:9: warning: ignoring return value of ‘int scanf(const char*, ...)’, declared with attribute warn_unused_result [-Wunused-result]
+  164 |    scanf("%lf %lf %lf", &position[0], &position[1], &position[2]);
+      |    ~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/client_src/sound_client.C:170:9: warning: ignoring return value of ‘int scanf(const char*, ...)’, declared with attribute warn_unused_result [-Wunused-result]
+  170 |    scanf("%d", &id);
+      |    ~~~~~^~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/client_src/sound_client.C:172:9: warning: ignoring return value of ‘int scanf(const char*, ...)’, declared with attribute warn_unused_result [-Wunused-result]
+  172 |    scanf("%lf %lf %lf %lf", &orientation[0], &orientation[1], &orientation[2], &orientation[3]);
+      |    ~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/client_src/sound_client.C:178:9: warning: ignoring return value of ‘int scanf(const char*, ...)’, declared with attribute warn_unused_result [-Wunused-result]
+  178 |    scanf("%d", &id);
+      |    ~~~~~^~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/client_src/sound_client.C:180:9: warning: ignoring return value of ‘int scanf(const char*, ...)’, declared with attribute warn_unused_result [-Wunused-result]
+  180 |    scanf("%lf %lf %lf %lf", &velocity[0], &velocity[1], &velocity[2], &velocity[3]);
+      |    ~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/client_src/sound_client.C:186:9: warning: ignoring return value of ‘int scanf(const char*, ...)’, declared with attribute warn_unused_result [-Wunused-result]
+  186 |    scanf("%lf %lf %lf", &Lposition[0], &Lposition[1], &Lposition[2]);
+      |    ~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/client_src/sound_client.C:192:9: warning: ignoring return value of ‘int scanf(const char*, ...)’, declared with attribute warn_unused_result [-Wunused-result]
+  192 |    scanf("%lf %lf %lf %lf", &Lorientation[0], &Lorientation[1], &Lorientation[2], &Lorientation[3]);
+      |    ~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/client_src/sound_client.C:198:9: warning: ignoring return value of ‘int scanf(const char*, ...)’, declared with attribute warn_unused_result [-Wunused-result]
+  198 |    scanf("%lf %lf %lf %lf", &Lvelocity[0], &Lvelocity[1], &Lvelocity[2], &Lvelocity[3]);
+      |    ~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/client_src/sound_client.C:204:9: warning: ignoring return value of ‘int scanf(const char*, ...)’, declared with attribute warn_unused_result [-Wunused-result]
+  204 |    scanf("%d", &id);
+      |    ~~~~~^~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Poser_Tek4662.C: In member function ‘void vrpn_Poser_Tek4662::reset()’:
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Poser_Tek4662.C:180:51: warning: ‘strlen’ argument missing terminating nul [-Wstringop-overflow=]
+  180 |   vrpn_write_characters( d_serial_fd, GIN, strlen((const char*)GIN) );
+      |                                                   ^~~~~~~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Poser_Tek4662.C:42:21: note: referenced argument declared here
+   42 | const unsigned char GIN[] = { ESC, DEVICE, 'M' };
+      |                     ^~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Poser_Tek4662.C: In member function ‘void vrpn_Poser_Tek4662::run()’:
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Poser_Tek4662.C:256:52: warning: ‘strlen’ argument missing terminating nul [-Wstringop-overflow=]
+  256 |     vrpn_write_characters(d_serial_fd, GIN, strlen((const char*)GIN) );
+      |                                                    ^~~~~~~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Poser_Tek4662.C:42:21: note: referenced argument declared here
+   42 | const unsigned char GIN[] = { ESC, DEVICE, 'M' };
+      |                     ^~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Poser_Tek4662.C:341:54: warning: ‘strlen’ argument missing terminating nul [-Wstringop-overflow=]
+  341 |       vrpn_write_characters(d_serial_fd, GIN, strlen((const char*)GIN) );
+      |                                                      ^~~~~~~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Poser_Tek4662.C:42:21: note: referenced argument declared here
+   42 | const unsigned char GIN[] = { ESC, DEVICE, 'M' };
+      |                     ^~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Poser_Tek4662.C: In member function ‘void vrpn_Poser_Tek4662::reset()’:
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Poser_Tek4662.C:180:64: warning: ‘strlen’ argument missing terminating nul [-Wstringop-overflow=]
+  180 |   vrpn_write_characters( d_serial_fd, GIN, strlen((const char*)GIN) );
+      |                                                                ^~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Poser_Tek4662.C:42:21: note: referenced argument declared here
+   42 | const unsigned char GIN[] = { ESC, DEVICE, 'M' };
+      |                     ^~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Poser_Tek4662.C: In member function ‘void vrpn_Poser_Tek4662::run()’:
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Poser_Tek4662.C:256:65: warning: ‘strlen’ argument missing terminating nul [-Wstringop-overflow=]
+  256 |     vrpn_write_characters(d_serial_fd, GIN, strlen((const char*)GIN) );
+      |                                                                 ^~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Poser_Tek4662.C:42:21: note: referenced argument declared here
+   42 | const unsigned char GIN[] = { ESC, DEVICE, 'M' };
+      |                     ^~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Poser_Tek4662.C:341:67: warning: ‘strlen’ argument missing terminating nul [-Wstringop-overflow=]
+  341 |       vrpn_write_characters(d_serial_fd, GIN, strlen((const char*)GIN) );
+      |                                                                   ^~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Poser_Tek4662.C:42:21: note: referenced argument declared here
+   42 | const unsigned char GIN[] = { ESC, DEVICE, 'M' };
+      |                     ^~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Tracker_JsonNet.C: In member function ‘bool vrpn_Tracker_JsonNet::_parse(const char*, int)’:
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Tracker_JsonNet.C:135:47: warning: ‘std::string Json::Reader::getFormatedErrorMessages() const’ is deprecated: Use getFormattedErrorMessages() instead. [-Wdeprecated-declarations]
+  135 |        _pJsonReader->getFormatedErrorMessages().c_str());
+      |                                               ^
+In file included from /usr/include/jsoncpp/json/json.h:11,
+                 from /root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Tracker_JsonNet.C:19:
+/usr/include/jsoncpp/json/reader.h:114:18: note: declared here
+  114 |   JSONCPP_STRING getFormatedErrorMessages() const;
+      |                  ^~~~~~~~~~~~~~~~~~~~~~~~

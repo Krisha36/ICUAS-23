@@ -1,0 +1,13 @@
+# Target labels
+ vrpn_src
+# Source files and their labels
+/root/uav_ws/build/vrpn_catkin/CMakeFiles/vrpn_src
+/root/uav_ws/build/vrpn_catkin/CMakeFiles/vrpn_src.rule
+/root/uav_ws/build/vrpn_catkin/CMakeFiles/vrpn_src-complete.rule
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src-stamp/vrpn_src-install.rule
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src-stamp/vrpn_src-mkdir.rule
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src-stamp/vrpn_src-download.rule
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src-stamp/vrpn_src-update.rule
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src-stamp/vrpn_src-patch.rule
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src-stamp/vrpn_src-configure.rule
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src-stamp/vrpn_src-build.rule

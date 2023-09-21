@@ -1,0 +1,8 @@
+prefix=/root/uav_ws/devel/.private/topp_ros
+
+Name: topp_ros
+Description: Description of topp_ros
+Version: 1.0.0
+Cflags: -I/root/uav_ws/devel/.private/topp_ros/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs trajectory_msgs geometry_msgs

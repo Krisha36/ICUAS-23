@@ -1,0 +1,1 @@
+/root/uav_ws/devel/.private/pozyx_ros/share/pozyx_ros/cmake/pozyx_rosConfig-version.cmake

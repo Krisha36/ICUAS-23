@@ -1,0 +1,1 @@
+/root/uav_ws/devel/.private/zed_cpu_ros/lib/pkgconfig/zed_cpu_ros.pc

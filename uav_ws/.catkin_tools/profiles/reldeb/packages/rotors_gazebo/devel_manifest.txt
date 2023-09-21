@@ -1,0 +1,8 @@
+uav_ros_simulation/ros_packages/rotors_simulator/rotors_gazebo
+/root/uav_ws/devel/.private/rotors_gazebo/cmake.lock /root/uav_ws/devel/./cmake.lock
+/root/uav_ws/devel/.private/rotors_gazebo/lib/pkgconfig/rotors_gazebo.pc /root/uav_ws/devel/lib/pkgconfig/rotors_gazebo.pc
+/root/uav_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/hovering_example /root/uav_ws/devel/lib/rotors_gazebo/hovering_example
+/root/uav_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/waypoint_publisher_file /root/uav_ws/devel/lib/rotors_gazebo/waypoint_publisher_file
+/root/uav_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/waypoint_publisher /root/uav_ws/devel/lib/rotors_gazebo/waypoint_publisher
+/root/uav_ws/devel/.private/rotors_gazebo/share/rotors_gazebo/cmake/rotors_gazeboConfig.cmake /root/uav_ws/devel/share/rotors_gazebo/cmake/rotors_gazeboConfig.cmake
+/root/uav_ws/devel/.private/rotors_gazebo/share/rotors_gazebo/cmake/rotors_gazeboConfig-version.cmake /root/uav_ws/devel/share/rotors_gazebo/cmake/rotors_gazeboConfig-version.cmake

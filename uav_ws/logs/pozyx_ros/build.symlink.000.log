@@ -1,0 +1,5 @@
+Symlinking /root/uav_ws/devel/lib/libKalmanFilter.so
+Symlinking /root/uav_ws/devel/lib/pkgconfig/pozyx_ros.pc
+Symlinking /root/uav_ws/devel/lib/pozyx_ros/pozyx_estimator_node
+Symlinking /root/uav_ws/devel/share/pozyx_ros/cmake/pozyx_rosConfig-version.cmake
+Symlinking /root/uav_ws/devel/share/pozyx_ros/cmake/pozyx_rosConfig.cmake

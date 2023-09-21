@@ -1,0 +1,8 @@
+prefix=/root/uav_ws/install
+
+Name: uav_ros_control
+Description: Description of uav_ros_control
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -luav_pid -luav_util
+Requires: uav_ros_msgs

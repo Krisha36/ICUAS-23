@@ -1,0 +1,15 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~k_p_dist" : \b [double] Distance controller proportional gain min: 0.0, default: 5.0, max: 10.0
+- \b "~k_i_dist" : \b [double] Distance controller integrator gain min: 0.0, default: 5.0, max: 10.0
+- \b "~k_d_dist" : \b [double] Distance controller derivator gain min: 0.0, default: 5.0, max: 10.0
+- \b "~lim_high_dist" : \b [double] Distance controller limit - high min: 0.0, default: 0.5, max: 5.0
+- \b "~lim_low_dist" : \b [double] Distance controller limit - low min: -5.0, default: -0.5, max: 0.0
+- \b "~k_p_vdist" : \b [double] Distance velocity controller proportional gain min: 0.0, default: 5.0, max: 10.0
+- \b "~k_i_vdist" : \b [double] Distance velocity controller integrator gain min: 0.0, default: 5.0, max: 10.0
+- \b "~k_d_vdist" : \b [double] Distance velocity controller derivator gain min: 0.0, default: 5.0, max: 10.0
+- \b "~lim_high_vdist" : \b [double] Distance velocity controller limit - high min: 0.0, default: 0.5, max: 5.0
+- \b "~lim_low_vdist" : \b [double] Distance velocity controller limit - low min: -5.0, default: -0.5, max: 0.0
+

@@ -1,0 +1,197 @@
+Scanning dependencies of target sensor_msgs_generate_messages_nodejs
+Scanning dependencies of target uav_ros_msgs_generate_messages_eus
+Scanning dependencies of target uav_ros_msgs_generate_messages_py
+Scanning dependencies of target trajectory_msgs_generate_messages_nodejs
+Scanning dependencies of target uav_ros_tracker_gencfg
+Scanning dependencies of target trajectory_msgs_generate_messages_lisp
+Scanning dependencies of target uav_ros_msgs_generate_messages_nodejs
+Scanning dependencies of target uav_ros_msgs_generate_messages_cpp
+Scanning dependencies of target actionlib_generate_messages_nodejs
+Scanning dependencies of target trajectory_msgs_generate_messages_cpp
+Scanning dependencies of target actionlib_generate_messages_cpp
+Scanning dependencies of target tf2_msgs_generate_messages_nodejs
+Scanning dependencies of target nav_msgs_generate_messages_lisp
+Scanning dependencies of target tf2_msgs_generate_messages_lisp
+Scanning dependencies of target nav_msgs_generate_messages_py
+Scanning dependencies of target actionlib_msgs_generate_messages_cpp
+[  6%] Built target trajectory_msgs_generate_messages_nodejs
+[  6%] Built target sensor_msgs_generate_messages_nodejs
+[  6%] Built target uav_ros_msgs_generate_messages_py
+[  6%] Generating dynamic reconfigure files from cfg/MPCTrackerParameters.cfg: /root/uav_ws/devel/.private/uav_ros_tracker/include/uav_ros_tracker/MPCTrackerParametersConfig.h /root/uav_ws/devel/.private/uav_ros_tracker/lib/python3/dist-packages/uav_ros_tracker/cfg/MPCTrackerParametersConfig.py
+[  6%] Built target uav_ros_msgs_generate_messages_nodejs
+[  6%] Built target uav_ros_msgs_generate_messages_cpp
+[  6%] Built target trajectory_msgs_generate_messages_lisp
+[  6%] Built target uav_ros_msgs_generate_messages_eus
+[  6%] Built target trajectory_msgs_generate_messages_cpp
+[  6%] Built target actionlib_generate_messages_nodejs
+[  6%] Built target tf2_msgs_generate_messages_nodejs
+[  6%] Built target actionlib_generate_messages_cpp
+[  6%] Built target nav_msgs_generate_messages_lisp
+[  6%] Built target tf2_msgs_generate_messages_lisp
+[  6%] Built target nav_msgs_generate_messages_py
+[  6%] Built target actionlib_msgs_generate_messages_cpp
+Scanning dependencies of target dynamic_reconfigure_gencfg
+Scanning dependencies of target std_msgs_generate_messages_cpp
+Scanning dependencies of target dynamic_reconfigure_generate_messages_py
+Scanning dependencies of target tf2_msgs_generate_messages_cpp
+Scanning dependencies of target dynamic_reconfigure_generate_messages_lisp
+Scanning dependencies of target std_msgs_generate_messages_lisp
+Scanning dependencies of target geographic_msgs_generate_messages_nodejs
+Scanning dependencies of target uav_ros_msgs_generate_messages_lisp
+Scanning dependencies of target actionlib_msgs_generate_messages_eus
+Scanning dependencies of target diagnostic_msgs_generate_messages_eus
+Scanning dependencies of target std_msgs_generate_messages_py
+Scanning dependencies of target sensor_msgs_generate_messages_cpp
+Scanning dependencies of target diagnostic_msgs_generate_messages_py
+Scanning dependencies of target nav_msgs_generate_messages_nodejs
+Scanning dependencies of target std_msgs_generate_messages_nodejs
+[  6%] Built target std_msgs_generate_messages_cpp
+[  6%] Built target dynamic_reconfigure_generate_messages_py
+[  6%] Built target dynamic_reconfigure_gencfg
+[  6%] Built target actionlib_msgs_generate_messages_eus
+[  6%] Built target tf2_msgs_generate_messages_cpp
+[  6%] Built target std_msgs_generate_messages_lisp
+[  6%] Built target geographic_msgs_generate_messages_nodejs
+[  6%] Built target dynamic_reconfigure_generate_messages_lisp
+[  6%] Built target uav_ros_msgs_generate_messages_lisp
+[  6%] Built target sensor_msgs_generate_messages_cpp
+[  6%] Built target diagnostic_msgs_generate_messages_eus
+[  6%] Built target std_msgs_generate_messages_py
+[  6%] Built target std_msgs_generate_messages_nodejs
+[  6%] Built target nav_msgs_generate_messages_nodejs
+Scanning dependencies of target actionlib_generate_messages_lisp
+[  6%] Built target diagnostic_msgs_generate_messages_py
+Scanning dependencies of target diagnostic_msgs_generate_messages_cpp
+Scanning dependencies of target geometry_msgs_generate_messages_eus
+Scanning dependencies of target roscpp_generate_messages_lisp
+Scanning dependencies of target rosgraph_msgs_generate_messages_lisp
+Scanning dependencies of target rosgraph_msgs_generate_messages_py
+Scanning dependencies of target actionlib_generate_messages_eus
+Scanning dependencies of target trajectory_msgs_generate_messages_py
+Scanning dependencies of target rosgraph_msgs_generate_messages_cpp
+Scanning dependencies of target roscpp_generate_messages_cpp
+Scanning dependencies of target trajectory_msgs_generate_messages_eus
+Scanning dependencies of target uav_ros_lib_gencfg
+[  6%] Built target actionlib_generate_messages_lisp
+Scanning dependencies of target roscpp_generate_messages_py
+[  6%] Built target diagnostic_msgs_generate_messages_cpp
+Scanning dependencies of target dynamic_reconfigure_generate_messages_cpp
+[  6%] Built target rosgraph_msgs_generate_messages_lisp
+[  6%] Built target rosgraph_msgs_generate_messages_py
+[  6%] Built target geometry_msgs_generate_messages_eus
+[  6%] Built target roscpp_generate_messages_lisp
+Scanning dependencies of target actionlib_msgs_generate_messages_py
+[  6%] Built target actionlib_generate_messages_eus
+[  6%] Built target trajectory_msgs_generate_messages_py
+[  6%] Built target roscpp_generate_messages_py
+[  6%] Built target roscpp_generate_messages_cpp
+[  6%] Built target trajectory_msgs_generate_messages_eus
+[  6%] Built target rosgraph_msgs_generate_messages_cpp
+[  6%] Built target uav_ros_lib_gencfg
+Scanning dependencies of target actionlib_msgs_generate_messages_nodejs
+Scanning dependencies of target mavros_msgs_generate_messages_lisp
+Scanning dependencies of target std_msgs_generate_messages_eus
+[  6%] Built target dynamic_reconfigure_generate_messages_cpp
+Scanning dependencies of target actionlib_msgs_generate_messages_lisp
+Scanning dependencies of target roscpp_generate_messages_eus
+Scanning dependencies of target uuid_msgs_generate_messages_cpp
+[  6%] Built target actionlib_msgs_generate_messages_py
+Scanning dependencies of target uuid_msgs_generate_messages_eus
+Scanning dependencies of target roscpp_generate_messages_nodejs
+Scanning dependencies of target mavros_msgs_generate_messages_py
+Scanning dependencies of target rosgraph_msgs_generate_messages_eus
+Scanning dependencies of target actionlib_generate_messages_py
+Scanning dependencies of target nav_msgs_generate_messages_cpp
+Scanning dependencies of target diagnostic_msgs_generate_messages_lisp
+Scanning dependencies of target geographic_msgs_generate_messages_lisp
+[  6%] Built target mavros_msgs_generate_messages_lisp
+[  6%] Built target actionlib_msgs_generate_messages_lisp
+[  6%] Built target roscpp_generate_messages_eus
+[  6%] Built target std_msgs_generate_messages_eus
+[  6%] Built target actionlib_msgs_generate_messages_nodejs
+[  6%] Built target uuid_msgs_generate_messages_cpp
+Scanning dependencies of target nav_msgs_generate_messages_eus
+[  6%] Built target uuid_msgs_generate_messages_eus
+[  6%] Built target rosgraph_msgs_generate_messages_eus
+[  6%] Built target actionlib_generate_messages_py
+[  6%] Built target roscpp_generate_messages_nodejs
+[  6%] Built target nav_msgs_generate_messages_cpp
+[  6%] Built target mavros_msgs_generate_messages_py
+[  6%] Built target diagnostic_msgs_generate_messages_lisp
+[  6%] Built target geographic_msgs_generate_messages_lisp
+Scanning dependencies of target diagnostic_msgs_generate_messages_nodejs
+Scanning dependencies of target uuid_msgs_generate_messages_lisp
+Scanning dependencies of target geometry_msgs_generate_messages_cpp
+Scanning dependencies of target mavros_msgs_generate_messages_eus
+Scanning dependencies of target geometry_msgs_generate_messages_lisp
+Scanning dependencies of target dynamic_reconfigure_generate_messages_eus
+Generating reconfiguration files for MPCTrackerParameters in uav_ros_tracker
+[  6%] Built target nav_msgs_generate_messages_eus
+Wrote header file in /root/uav_ws/devel/.private/uav_ros_tracker/include/uav_ros_tracker/MPCTrackerParametersConfig.h
+Scanning dependencies of target tf2_msgs_generate_messages_eus
+Scanning dependencies of target geometry_msgs_generate_messages_nodejs
+Scanning dependencies of target sensor_msgs_generate_messages_py
+Scanning dependencies of target geometry_msgs_generate_messages_py
+Scanning dependencies of target rosgraph_msgs_generate_messages_nodejs
+Scanning dependencies of target geographic_msgs_generate_messages_cpp
+[  6%] Built target diagnostic_msgs_generate_messages_nodejs
+[  6%] Built target uuid_msgs_generate_messages_lisp
+Scanning dependencies of target geographic_msgs_generate_messages_py
+Scanning dependencies of target geographic_msgs_generate_messages_eus
+[  6%] Built target geometry_msgs_generate_messages_cpp
+[  6%] Built target mavros_msgs_generate_messages_eus
+[  6%] Built target tf2_msgs_generate_messages_eus
+Scanning dependencies of target sensor_msgs_generate_messages_eus
+[  6%] Built target geometry_msgs_generate_messages_lisp
+[  6%] Built target dynamic_reconfigure_generate_messages_eus
+[  6%] Built target geometry_msgs_generate_messages_nodejs
+[  6%] Built target sensor_msgs_generate_messages_py
+[  6%] Built target geometry_msgs_generate_messages_py
+[  6%] Built target rosgraph_msgs_generate_messages_nodejs
+[  6%] Built target geographic_msgs_generate_messages_cpp
+[  6%] Built target geographic_msgs_generate_messages_py
+Scanning dependencies of target uuid_msgs_generate_messages_nodejs
+[  6%] Built target geographic_msgs_generate_messages_eus
+Scanning dependencies of target sensor_msgs_generate_messages_lisp
+Scanning dependencies of target mavros_msgs_generate_messages_cpp
+Scanning dependencies of target uuid_msgs_generate_messages_py
+Scanning dependencies of target tf2_msgs_generate_messages_py
+Scanning dependencies of target dynamic_reconfigure_generate_messages_nodejs
+Scanning dependencies of target mpc_cvxgen
+[  6%] Built target sensor_msgs_generate_messages_eus
+Scanning dependencies of target mavros_msgs_generate_messages_nodejs
+[  6%] Built target uuid_msgs_generate_messages_py
+[  6%] Built target sensor_msgs_generate_messages_lisp
+[  6%] Built target uuid_msgs_generate_messages_nodejs
+[  6%] Built target mavros_msgs_generate_messages_cpp
+[  6%] Built target dynamic_reconfigure_generate_messages_nodejs
+[  6%] Built target tf2_msgs_generate_messages_py
+[  6%] Built target mavros_msgs_generate_messages_nodejs
+[  6%] Built target uav_ros_tracker_gencfg
+[ 20%] Building C object CMakeFiles/mpc_cvxgen.dir/src/cvxgen/ldl.c.o
+[ 20%] Building C object CMakeFiles/mpc_cvxgen.dir/src/cvxgen/solver.c.o
+[ 26%] Building C object CMakeFiles/mpc_cvxgen.dir/src/cvxgen/matrix_support.c.o
+[ 33%] Building C object CMakeFiles/mpc_cvxgen.dir/src/cvxgen/util.c.o
+Scanning dependencies of target waypoint_manager_nodelet
+Scanning dependencies of target waypoint_publisher
+[ 40%] Building CXX object CMakeFiles/waypoint_publisher.dir/src/waypoint_publisher.cpp.o
+[ 46%] Building CXX object CMakeFiles/waypoint_manager_nodelet.dir/nodes/waypoint_manager_nodelet.cpp.o
+[ 53%] Linking CXX shared library /root/uav_ws/devel/.private/uav_ros_tracker/lib/libwaypoint_publisher.so
+[ 53%] Built target waypoint_publisher
+[ 60%] Linking CXX shared library /root/uav_ws/devel/.private/uav_ros_tracker/lib/libwaypoint_manager_nodelet.so
+[ 60%] Built target waypoint_manager_nodelet
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_tracker/src/cvxgen/ldl.c: In function ‘ldl_factor’:
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_tracker/src/cvxgen/ldl.c:4528:6: note: variable tracking size limit exceeded with ‘-fvar-tracking-assignments’, retrying without
+ 4528 | void ldl_factor(void) {
+      |      ^~~~~~~~~~
+[ 66%] Linking C shared library /root/uav_ws/devel/.private/uav_ros_tracker/lib/libmpc_cvxgen.so
+[ 66%] Built target mpc_cvxgen
+Scanning dependencies of target mpc_wrapper
+[ 73%] Building CXX object CMakeFiles/mpc_wrapper.dir/src/cvx_wrapper.cpp.o
+[ 80%] Linking CXX shared library /root/uav_ws/devel/.private/uav_ros_tracker/lib/libmpc_wrapper.so
+[ 80%] Built target mpc_wrapper
+Scanning dependencies of target mpc_tracker
+[ 93%] Building CXX object CMakeFiles/mpc_tracker.dir/nodes/mpc_tracker_node.cpp.o
+[ 93%] Building CXX object CMakeFiles/mpc_tracker.dir/src/mpc_tracker.cpp.o
+[100%] Linking CXX executable /root/uav_ws/devel/.private/uav_ros_tracker/lib/uav_ros_tracker/mpc_tracker
+[100%] Built target mpc_tracker

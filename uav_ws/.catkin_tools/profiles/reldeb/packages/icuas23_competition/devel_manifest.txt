@@ -1,0 +1,20 @@
+icuas23_competition
+/root/uav_ws/devel/.private/icuas23_competition/cmake.lock /root/uav_ws/devel/./cmake.lock
+/root/uav_ws/devel/.private/icuas23_competition/lib/pkgconfig/icuas23_competition.pc /root/uav_ws/devel/lib/pkgconfig/icuas23_competition.pc
+/root/uav_ws/devel/.private/icuas23_competition/lib/python3/dist-packages/icuas23_competition/__init__.py /root/uav_ws/devel/lib/python3/dist-packages/icuas23_competition/__init__.py
+/root/uav_ws/devel/.private/icuas23_competition/lib/python3/dist-packages/icuas23_competition/msg/__init__.py /root/uav_ws/devel/lib/python3/dist-packages/icuas23_competition/msg/__init__.py
+/root/uav_ws/devel/.private/icuas23_competition/lib/python3/dist-packages/icuas23_competition/msg/_poi.py /root/uav_ws/devel/lib/python3/dist-packages/icuas23_competition/msg/_poi.py
+/root/uav_ws/devel/.private/icuas23_competition/share/gennodejs/ros/icuas23_competition/_index.js /root/uav_ws/devel/share/gennodejs/ros/icuas23_competition/_index.js
+/root/uav_ws/devel/.private/icuas23_competition/share/gennodejs/ros/icuas23_competition/msg/poi.js /root/uav_ws/devel/share/gennodejs/ros/icuas23_competition/msg/poi.js
+/root/uav_ws/devel/.private/icuas23_competition/share/gennodejs/ros/icuas23_competition/msg/_index.js /root/uav_ws/devel/share/gennodejs/ros/icuas23_competition/msg/_index.js
+/root/uav_ws/devel/.private/icuas23_competition/share/icuas23_competition/cmake/icuas23_competitionConfig.cmake /root/uav_ws/devel/share/icuas23_competition/cmake/icuas23_competitionConfig.cmake
+/root/uav_ws/devel/.private/icuas23_competition/share/icuas23_competition/cmake/icuas23_competition-msg-paths.cmake /root/uav_ws/devel/share/icuas23_competition/cmake/icuas23_competition-msg-paths.cmake
+/root/uav_ws/devel/.private/icuas23_competition/share/icuas23_competition/cmake/icuas23_competition-msg-extras.cmake /root/uav_ws/devel/share/icuas23_competition/cmake/icuas23_competition-msg-extras.cmake
+/root/uav_ws/devel/.private/icuas23_competition/share/icuas23_competition/cmake/icuas23_competitionConfig-version.cmake /root/uav_ws/devel/share/icuas23_competition/cmake/icuas23_competitionConfig-version.cmake
+/root/uav_ws/devel/.private/icuas23_competition/share/common-lisp/ros/icuas23_competition/msg/poi.lisp /root/uav_ws/devel/share/common-lisp/ros/icuas23_competition/msg/poi.lisp
+/root/uav_ws/devel/.private/icuas23_competition/share/common-lisp/ros/icuas23_competition/msg/_package.lisp /root/uav_ws/devel/share/common-lisp/ros/icuas23_competition/msg/_package.lisp
+/root/uav_ws/devel/.private/icuas23_competition/share/common-lisp/ros/icuas23_competition/msg/_package_poi.lisp /root/uav_ws/devel/share/common-lisp/ros/icuas23_competition/msg/_package_poi.lisp
+/root/uav_ws/devel/.private/icuas23_competition/share/common-lisp/ros/icuas23_competition/msg/icuas23_competition-msg.asd /root/uav_ws/devel/share/common-lisp/ros/icuas23_competition/msg/icuas23_competition-msg.asd
+/root/uav_ws/devel/.private/icuas23_competition/share/roseus/ros/icuas23_competition/manifest.l /root/uav_ws/devel/share/roseus/ros/icuas23_competition/manifest.l
+/root/uav_ws/devel/.private/icuas23_competition/share/roseus/ros/icuas23_competition/msg/poi.l /root/uav_ws/devel/share/roseus/ros/icuas23_competition/msg/poi.l
+/root/uav_ws/devel/.private/icuas23_competition/include/icuas23_competition/poi.h /root/uav_ws/devel/include/icuas23_competition/poi.h

@@ -1,0 +1,8 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~noise_mv" : \b [double] Kalman Filter measured value noise min: 0.0, default: 1.0, max: 500.0
+- \b "~noise_pos" : \b [double] Kalman Filter distance noise min: 0.0, default: 1.0, max: 500.0
+- \b "~noise_vel" : \b [double] Kalman Filter distance rate noise min: 0.0, default: 1.0, max: 500.0
+

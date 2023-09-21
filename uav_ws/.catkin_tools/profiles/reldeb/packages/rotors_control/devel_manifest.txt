@@ -1,0 +1,9 @@
+uav_ros_simulation/ros_packages/rotors_simulator/rotors_control
+/root/uav_ws/devel/.private/rotors_control/cmake.lock /root/uav_ws/devel/./cmake.lock
+/root/uav_ws/devel/.private/rotors_control/lib/liblee_position_controller.so /root/uav_ws/devel/lib/liblee_position_controller.so
+/root/uav_ws/devel/.private/rotors_control/lib/libroll_pitch_yawrate_thrust_controller.so /root/uav_ws/devel/lib/libroll_pitch_yawrate_thrust_controller.so
+/root/uav_ws/devel/.private/rotors_control/lib/pkgconfig/rotors_control.pc /root/uav_ws/devel/lib/pkgconfig/rotors_control.pc
+/root/uav_ws/devel/.private/rotors_control/lib/rotors_control/lee_position_controller_node /root/uav_ws/devel/lib/rotors_control/lee_position_controller_node
+/root/uav_ws/devel/.private/rotors_control/lib/rotors_control/roll_pitch_yawrate_thrust_controller_node /root/uav_ws/devel/lib/rotors_control/roll_pitch_yawrate_thrust_controller_node
+/root/uav_ws/devel/.private/rotors_control/share/rotors_control/cmake/rotors_controlConfig-version.cmake /root/uav_ws/devel/share/rotors_control/cmake/rotors_controlConfig-version.cmake
+/root/uav_ws/devel/.private/rotors_control/share/rotors_control/cmake/rotors_controlConfig.cmake /root/uav_ws/devel/share/rotors_control/cmake/rotors_controlConfig.cmake

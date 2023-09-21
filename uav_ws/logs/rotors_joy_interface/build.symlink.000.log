@@ -1,0 +1,4 @@
+Symlinking /root/uav_ws/devel/lib/pkgconfig/rotors_joy_interface.pc
+Symlinking /root/uav_ws/devel/lib/rotors_joy_interface/rotors_joy_interface
+Symlinking /root/uav_ws/devel/share/rotors_joy_interface/cmake/rotors_joy_interfaceConfig-version.cmake
+Symlinking /root/uav_ws/devel/share/rotors_joy_interface/cmake/rotors_joy_interfaceConfig.cmake

@@ -1,0 +1,13 @@
+uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_drivers/ros_packages/ros_gremsy/gremsy_base
+/root/uav_ws/devel/.private/gremsy_base/cmake.lock /root/uav_ws/devel/./cmake.lock
+/root/uav_ws/devel/.private/gremsy_base/lib/pkgconfig/gremsy_base.pc /root/uav_ws/devel/lib/pkgconfig/gremsy_base.pc
+/root/uav_ws/devel/.private/gremsy_base/lib/gremsy_base/GimbalNode /root/uav_ws/devel/lib/gremsy_base/GimbalNode
+/root/uav_ws/devel/.private/gremsy_base/lib/python3/dist-packages/gremsy_base/__init__.py /root/uav_ws/devel/lib/python3/dist-packages/gremsy_base/__init__.py
+/root/uav_ws/devel/.private/gremsy_base/lib/python3/dist-packages/gremsy_base/cfg/__init__.py /root/uav_ws/devel/lib/python3/dist-packages/gremsy_base/cfg/__init__.py
+/root/uav_ws/devel/.private/gremsy_base/lib/python3/dist-packages/gremsy_base/cfg/ROSGremsyConfig.py /root/uav_ws/devel/lib/python3/dist-packages/gremsy_base/cfg/ROSGremsyConfig.py
+/root/uav_ws/devel/.private/gremsy_base/share/gremsy_base/cmake/gremsy_baseConfig.cmake /root/uav_ws/devel/share/gremsy_base/cmake/gremsy_baseConfig.cmake
+/root/uav_ws/devel/.private/gremsy_base/share/gremsy_base/cmake/gremsy_baseConfig-version.cmake /root/uav_ws/devel/share/gremsy_base/cmake/gremsy_baseConfig-version.cmake
+/root/uav_ws/devel/.private/gremsy_base/share/gremsy_base/docs/ROSGremsyConfig-usage.dox /root/uav_ws/devel/share/gremsy_base/docs/ROSGremsyConfig-usage.dox
+/root/uav_ws/devel/.private/gremsy_base/share/gremsy_base/docs/ROSGremsyConfig.wikidoc /root/uav_ws/devel/share/gremsy_base/docs/ROSGremsyConfig.wikidoc
+/root/uav_ws/devel/.private/gremsy_base/share/gremsy_base/docs/ROSGremsyConfig.dox /root/uav_ws/devel/share/gremsy_base/docs/ROSGremsyConfig.dox
+/root/uav_ws/devel/.private/gremsy_base/include/gremsy_base/ROSGremsyConfig.h /root/uav_ws/devel/include/gremsy_base/ROSGremsyConfig.h

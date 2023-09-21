@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package>
+  <name>ardupilot_gazebo</name>
+  <version>0.1.1</version>
+  <description>Ardupilot and Gazebo SITL simulation package</description>
+
+  <maintainer email="lovro.markovic@fer.hr">Lovro Markovic</maintainer>
+  <license>BSD</license>
+
+  <author email="lovro.markovic@fer.hr">Lovro Markovic</author>
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>mav_msgs</build_depend>
+  <build_depend>rotors_gazebo_plugins</build_depend>
+  <build_depend>rotors_description</build_depend>
+
+  <run_depend>mav_msgs</run_depend>
+  <run_depend>rotors_gazebo_plugins</run_depend>
+  <run_depend>rotors_description</run_depend>
+
+</package>

@@ -1,0 +1,19 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~xy_velocity" : \b [double] XY-axis velocity constraint min: 0.0, default: 0.0, max: 100.0
+- \b "~xy_acceleration" : \b [double] XY-axis acceleration constraint min: 0.0, default: 0.0, max: 100.0
+- \b "~xy_jerk" : \b [double] XY-axis jerk constraint min: 0.0, default: 0.0, max: 10000.0
+- \b "~xy_snap" : \b [double] XY-axis snap constraint min: 0.0, default: 0.0, max: 10000.0
+- \b "~z_velocity" : \b [double] Z-axis velocity constraint min: 0.0, default: 0.0, max: 100.0
+- \b "~z_acceleration" : \b [double] Z-axis acceleration constraint min: 0.0, default: 0.0, max: 100.0
+- \b "~z_jerk" : \b [double] Z-axis jerk constraint min: 0.0, default: 0.0, max: 10000.0
+- \b "~z_snap" : \b [double] Z-axis snap constraint min: 0.0, default: 0.0, max: 10000.0
+- \b "~heading_velocity" : \b [double] Heading velocity constraint min: 0.0, default: 0.0, max: 100.0
+- \b "~heading_acceleration" : \b [double] Heading acceleration constraint min: 0.0, default: 0.0, max: 100.0
+- \b "~heading_jerk" : \b [double] Heading jerk constraint min: 0.0, default: 0.0, max: 100.0
+- \b "~heading_snap" : \b [double] Heading snap constraint min: 0.0, default: 0.0, max: 100.0
+- \b "~enable_breaking" : \b [bool] Enable breaking min: False, default: True, max: True
+- \b "~Q_vel_breaking" : \b [double] Q for breaking min: 0.0, default: 0.0, max: 10000.0
+

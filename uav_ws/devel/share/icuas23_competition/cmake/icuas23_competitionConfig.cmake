@@ -1,0 +1,1 @@
+/root/uav_ws/devel/.private/icuas23_competition/share/icuas23_competition/cmake/icuas23_competitionConfig.cmake

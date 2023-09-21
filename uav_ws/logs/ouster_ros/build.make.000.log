@@ -1,0 +1,81 @@
+Scanning dependencies of target _ouster_ros_generate_messages_check_deps_OSConfigSrv
+Scanning dependencies of target std_msgs_generate_messages_cpp
+Scanning dependencies of target sensor_msgs_generate_messages_cpp
+Scanning dependencies of target std_msgs_generate_messages_nodejs
+Scanning dependencies of target _ouster_ros_generate_messages_check_deps_PacketMsg
+Scanning dependencies of target geometry_msgs_generate_messages_lisp
+Scanning dependencies of target geometry_msgs_generate_messages_cpp
+Scanning dependencies of target geometry_msgs_generate_messages_nodejs
+Scanning dependencies of target std_msgs_generate_messages_eus
+Scanning dependencies of target std_msgs_generate_messages_lisp
+Scanning dependencies of target sensor_msgs_generate_messages_nodejs
+Scanning dependencies of target sensor_msgs_generate_messages_eus
+Scanning dependencies of target sensor_msgs_generate_messages_lisp
+Scanning dependencies of target std_msgs_generate_messages_py
+Scanning dependencies of target sensor_msgs_generate_messages_py
+Scanning dependencies of target geometry_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_py
+Scanning dependencies of target geometry_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target _ouster_ros_generate_messages_check_deps_PacketMsg
+[  0%] Built target _ouster_ros_generate_messages_check_deps_OSConfigSrv
+Scanning dependencies of target ouster_ros_generate_messages_py
+Scanning dependencies of target ouster_ros_generate_messages_cpp
+Scanning dependencies of target ouster_ros_generate_messages_eus
+Scanning dependencies of target ouster_ros_generate_messages_lisp
+Scanning dependencies of target ouster_ros_generate_messages_nodejs
+[ 17%] Generating C++ code from ouster_ros/PacketMsg.msg
+[ 17%] Generating Javascript code from ouster_ros/OSConfigSrv.srv
+[ 17%] Generating Lisp code from ouster_ros/PacketMsg.msg
+[ 17%] Generating EusLisp manifest code for ouster_ros
+[ 21%] Generating Lisp code from ouster_ros/OSConfigSrv.srv
+[ 26%] Generating Javascript code from ouster_ros/PacketMsg.msg
+[ 30%] Generating EusLisp code from ouster_ros/PacketMsg.msg
+[ 34%] Generating C++ code from ouster_ros/OSConfigSrv.srv
+[ 43%] Generating Python code from SRV ouster_ros/OSConfigSrv
+[ 43%] Generating EusLisp code from ouster_ros/OSConfigSrv.srv
+[ 47%] Generating Python from MSG ouster_ros/PacketMsg
+[ 47%] Built target ouster_ros_generate_messages_lisp
+[ 47%] Built target ouster_ros_generate_messages_nodejs
+[ 56%] Generating Python msg __init__.py for ouster_ros
+[ 56%] Generating Python srv __init__.py for ouster_ros
+[ 56%] Built target ouster_ros_generate_messages_cpp
+Scanning dependencies of target ouster_ros_gencpp
+[ 56%] Built target ouster_ros_gencpp
+Scanning dependencies of target viz_node
+Scanning dependencies of target ouster_ros
+[ 56%] Built target ouster_ros_generate_messages_py
+[ 65%] Building CXX object CMakeFiles/viz_node.dir/src/viz_node.cpp.o
+[ 65%] Building CXX object CMakeFiles/ouster_ros.dir/src/ros.cpp.o
+[ 65%] Built target ouster_ros_generate_messages_eus
+Scanning dependencies of target ouster_ros_generate_messages
+[ 65%] Built target ouster_ros_generate_messages
+[ 69%] Linking CXX static library /root/uav_ws/devel/.private/ouster_ros/lib/libouster_ros.a
+[ 69%] Built target ouster_ros
+Scanning dependencies of target os_node
+Scanning dependencies of target os_cloud_node
+Scanning dependencies of target img_node
+[ 73%] Building CXX object CMakeFiles/os_node.dir/src/os_node.cpp.o
+[ 78%] Building CXX object CMakeFiles/os_cloud_node.dir/src/os_cloud_node.cpp.o
+[ 82%] Building CXX object CMakeFiles/img_node.dir/src/img_node.cpp.o
+[ 86%] Linking CXX executable /root/uav_ws/devel/.private/ouster_ros/lib/ouster_ros/os_node
+[ 86%] Built target os_node
+[ 91%] Linking CXX executable /root/uav_ws/devel/.private/ouster_ros/lib/ouster_ros/viz_node
+[ 95%] Linking CXX executable /root/uav_ws/devel/.private/ouster_ros/lib/ouster_ros/os_cloud_node
+[ 95%] Built target os_cloud_node
+[ 95%] Built target viz_node
+[100%] Linking CXX executable /root/uav_ws/devel/.private/ouster_ros/lib/ouster_ros/img_node
+[100%] Built target img_node

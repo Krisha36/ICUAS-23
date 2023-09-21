@@ -1,0 +1,2 @@
+uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_drivers/ros_packages/velodyne/velodyne
+/root/uav_ws/devel/.private/velodyne/cmake.lock /root/uav_ws/devel/./cmake.lock

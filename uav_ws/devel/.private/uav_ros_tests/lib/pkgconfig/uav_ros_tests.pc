@@ -1,0 +1,8 @@
+prefix=/root/uav_ws/devel/.private/uav_ros_tests
+
+Name: uav_ros_tests
+Description: Description of uav_ros_tests
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

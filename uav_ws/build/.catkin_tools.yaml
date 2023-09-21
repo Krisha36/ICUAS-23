@@ -1,0 +1,6 @@
+devel_space: /root/uav_ws/devel
+install: false
+install_space: /root/uav_ws/install
+profile: reldeb
+source_space: /root/uav_ws/src
+workspace: /root/uav_ws

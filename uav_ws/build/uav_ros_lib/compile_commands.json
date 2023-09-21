@@ -1,0 +1,77 @@
+[
+{
+  "directory": "/root/uav_ws/build/uav_ros_lib",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"uav_ros_lib\\\" -Dconstant_acceleration_lkf_EXPORTS -I/root/uav_ws/devel/.private/uav_ros_lib/include -I/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/cmake/cfgbuild.cmake  -std=c++17 -std=c++17 -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/constant_acceleration_lkf.dir/src/constant_acceleration_lkf.cpp.o -c /root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/src/constant_acceleration_lkf.cpp",
+  "file": "/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/src/constant_acceleration_lkf.cpp"
+},
+{
+  "directory": "/root/uav_ws/build/uav_ros_lib",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"uav_ros_lib\\\" -I/root/uav_ws/devel/.private/uav_ros_lib/include -I/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/cmake/cfgbuild.cmake  -std=c++17 -std=c++17 -O2 -g -DNDEBUG   -o CMakeFiles/attitude_converter_example.dir/examples/attitude_converter_example.cpp.o -c /root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/examples/attitude_converter_example.cpp",
+  "file": "/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/examples/attitude_converter_example.cpp"
+},
+{
+  "directory": "/root/uav_ws/build/uav_ros_lib",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"uav_ros_lib\\\" -Ddkf_vanilla_EXPORTS -I/root/uav_ws/devel/.private/uav_ros_lib/include -I/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/cmake/cfgbuild.cmake  -std=c++17 -std=c++17 -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/dkf_vanilla.dir/src/kalman_filter_vanilla.cpp.o -c /root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/src/kalman_filter_vanilla.cpp",
+  "file": "/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/src/kalman_filter_vanilla.cpp"
+},
+{
+  "directory": "/root/uav_ws/build/uav_ros_lib",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"uav_ros_lib\\\" -Dtrajectory_helper_EXPORTS -I/root/uav_ws/devel/.private/uav_ros_lib/include -I/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/cmake/cfgbuild.cmake  -std=c++17 -std=c++17 -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/trajectory_helper.dir/src/trajectory_helper.cpp.o -c /root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/src/trajectory_helper.cpp",
+  "file": "/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/src/trajectory_helper.cpp"
+},
+{
+  "directory": "/root/uav_ws/build/uav_ros_lib",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"uav_ros_lib\\\" -Dros_convert_EXPORTS -I/root/uav_ws/devel/.private/uav_ros_lib/include -I/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/cmake/cfgbuild.cmake  -std=c++17 -std=c++17 -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/ros_convert.dir/src/ros_convert.cpp.o -c /root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/src/ros_convert.cpp",
+  "file": "/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/src/ros_convert.cpp"
+},
+{
+  "directory": "/root/uav_ws/build/uav_ros_lib",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"uav_ros_lib\\\" -Dros_convert_EXPORTS -I/root/uav_ws/devel/.private/uav_ros_lib/include -I/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/cmake/cfgbuild.cmake  -std=c++17 -std=c++17 -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/ros_convert.dir/src/attitude_converter.cpp.o -c /root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/src/attitude_converter.cpp",
+  "file": "/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/src/attitude_converter.cpp"
+},
+{
+  "directory": "/root/uav_ws/build/uav_ros_lib",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"uav_ros_lib\\\" -Dnfilt_EXPORTS -I/root/uav_ws/devel/.private/uav_ros_lib/include -I/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/cmake/cfgbuild.cmake  -std=c++17 -std=c++17 -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/nfilt.dir/src/nonlinear_filters.cpp.o -c /root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/src/nonlinear_filters.cpp",
+  "file": "/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/src/nonlinear_filters.cpp"
+},
+{
+  "directory": "/root/uav_ws/build/uav_ros_lib",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"uav_ros_lib\\\" -Dconstant_acceleration_ukf_EXPORTS -I/root/uav_ws/devel/.private/uav_ros_lib/include -I/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/cmake/cfgbuild.cmake  -std=c++17 -std=c++17 -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/constant_acceleration_ukf.dir/src/constant_acceleration_ukf.cpp.o -c /root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/src/constant_acceleration_ukf.cpp",
+  "file": "/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/src/constant_acceleration_ukf.cpp"
+},
+{
+  "directory": "/root/uav_ws/build/uav_ros_lib",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"uav_ros_lib\\\" -Dparam_util_EXPORTS -I/root/uav_ws/devel/.private/uav_ros_lib/include -I/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/cmake/cfgbuild.cmake  -std=c++17 -std=c++17 -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/param_util.dir/src/param_util.cpp.o -c /root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/src/param_util.cpp",
+  "file": "/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/src/param_util.cpp"
+},
+{
+  "directory": "/root/uav_ws/build/uav_ros_lib",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"uav_ros_lib\\\" -Dglobal_to_local_EXPORTS -I/root/uav_ws/devel/.private/uav_ros_lib/include -I/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/cmake/cfgbuild.cmake  -std=c++17 -std=c++17 -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/global_to_local.dir/src/global_to_local.cpp.o -c /root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/src/global_to_local.cpp",
+  "file": "/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/src/global_to_local.cpp"
+},
+{
+  "directory": "/root/uav_ws/build/uav_ros_lib",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"uav_ros_lib\\\" -Dconstant_velocity_lkf_EXPORTS -I/root/uav_ws/devel/.private/uav_ros_lib/include -I/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/cmake/cfgbuild.cmake  -std=c++17 -std=c++17 -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/constant_velocity_lkf.dir/src/constant_velocity_lkf.cpp.o -c /root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/src/constant_velocity_lkf.cpp",
+  "file": "/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/src/constant_velocity_lkf.cpp"
+},
+{
+  "directory": "/root/uav_ws/build/uav_ros_lib/gtest/googlemock",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -isystem /usr/src/googletest/googlemock/include -isystem /usr/src/googletest/googlemock -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -std=c++17 -std=c++17 -O2 -g -DNDEBUG -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /usr/src/googletest/googlemock/src/gmock_main.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/root/uav_ws/build/uav_ros_lib/gtest/googlemock",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -std=c++17 -std=c++17 -O2 -g -DNDEBUG -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /usr/src/googletest/googlemock/src/gmock-all.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/root/uav_ws/build/uav_ros_lib/gtest/googletest",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_main_EXPORTS -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -std=c++17 -std=c++17 -O2 -g -DNDEBUG -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /usr/src/googletest/googletest/src/gtest_main.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/root/uav_ws/build/uav_ros_lib/gtest/googletest",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_EXPORTS -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -std=c++17 -std=c++17 -O2 -g -DNDEBUG -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+}
+]

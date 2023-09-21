@@ -1,0 +1,7 @@
+uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_tests
+/root/uav_ws/devel/.private/uav_ros_tests/cmake.lock /root/uav_ws/devel/./cmake.lock
+/root/uav_ws/devel/.private/uav_ros_tests/lib/libuav_test_controller.so /root/uav_ws/devel/lib/libuav_test_controller.so
+/root/uav_ws/devel/.private/uav_ros_tests/lib/pkgconfig/uav_ros_tests.pc /root/uav_ws/devel/lib/pkgconfig/uav_ros_tests.pc
+/root/uav_ws/devel/.private/uav_ros_tests/lib/uav_ros_tests/uav_test_controller_node /root/uav_ws/devel/lib/uav_ros_tests/uav_test_controller_node
+/root/uav_ws/devel/.private/uav_ros_tests/share/uav_ros_tests/cmake/uav_ros_testsConfig-version.cmake /root/uav_ws/devel/share/uav_ros_tests/cmake/uav_ros_testsConfig-version.cmake
+/root/uav_ws/devel/.private/uav_ros_tests/share/uav_ros_tests/cmake/uav_ros_testsConfig.cmake /root/uav_ws/devel/share/uav_ros_tests/cmake/uav_ros_testsConfig.cmake

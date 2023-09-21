@@ -1,0 +1,66 @@
+Scanning dependencies of target octomap_msgs_generate_messages_cpp
+Scanning dependencies of target std_msgs_generate_messages_cpp
+Scanning dependencies of target geometry_msgs_generate_messages_cpp
+Scanning dependencies of target _rotors_comm_generate_messages_check_deps_RecordRosbag
+Scanning dependencies of target _rotors_comm_generate_messages_check_deps_Octomap
+Scanning dependencies of target _rotors_comm_generate_messages_check_deps_WindSpeed
+Scanning dependencies of target geometry_msgs_generate_messages_py
+Scanning dependencies of target octomap_msgs_generate_messages_py
+Scanning dependencies of target octomap_msgs_generate_messages_nodejs
+Scanning dependencies of target std_msgs_generate_messages_py
+Scanning dependencies of target std_msgs_generate_messages_lisp
+Scanning dependencies of target std_msgs_generate_messages_nodejs
+Scanning dependencies of target octomap_msgs_generate_messages_eus
+Scanning dependencies of target octomap_msgs_generate_messages_lisp
+Scanning dependencies of target geometry_msgs_generate_messages_lisp
+Scanning dependencies of target geometry_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target octomap_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target octomap_msgs_generate_messages_py
+[  0%] Built target octomap_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target octomap_msgs_generate_messages_eus
+[  0%] Built target octomap_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+Scanning dependencies of target geometry_msgs_generate_messages_eus
+Scanning dependencies of target std_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target _rotors_comm_generate_messages_check_deps_Octomap
+[  0%] Built target _rotors_comm_generate_messages_check_deps_WindSpeed
+[  0%] Built target _rotors_comm_generate_messages_check_deps_RecordRosbag
+Scanning dependencies of target rotors_comm_generate_messages_nodejs
+Scanning dependencies of target rotors_comm_generate_messages_cpp
+Scanning dependencies of target rotors_comm_generate_messages_py
+Scanning dependencies of target rotors_comm_generate_messages_eus
+Scanning dependencies of target rotors_comm_generate_messages_lisp
+[ 16%] Generating Javascript code from rotors_comm/WindSpeed.msg
+[ 16%] Generating Javascript code from rotors_comm/Octomap.srv
+[ 22%] Generating Python from MSG rotors_comm/WindSpeed
+[ 22%] Generating C++ code from rotors_comm/WindSpeed.msg
+[ 33%] Generating Python code from SRV rotors_comm/Octomap
+[ 33%] Generating Javascript code from rotors_comm/RecordRosbag.srv
+[ 38%] Generating C++ code from rotors_comm/Octomap.srv
+[ 50%] Generating C++ code from rotors_comm/RecordRosbag.srv
+[ 50%] Generating Python code from SRV rotors_comm/RecordRosbag
+[ 55%] Generating EusLisp code from rotors_comm/WindSpeed.msg
+[ 66%] Generating Lisp code from rotors_comm/WindSpeed.msg
+[ 66%] Generating Lisp code from rotors_comm/Octomap.srv
+[ 72%] Generating EusLisp code from rotors_comm/Octomap.srv
+[ 83%] Generating EusLisp code from rotors_comm/RecordRosbag.srv
+[ 83%] Generating EusLisp manifest code for rotors_comm
+[ 88%] Generating Lisp code from rotors_comm/RecordRosbag.srv
+[ 88%] Built target rotors_comm_generate_messages_lisp
+[ 88%] Built target rotors_comm_generate_messages_nodejs
+[100%] Generating Python srv __init__.py for rotors_comm
+[100%] Generating Python msg __init__.py for rotors_comm
+[100%] Built target rotors_comm_generate_messages_cpp
+[100%] Built target rotors_comm_generate_messages_py
+[100%] Built target rotors_comm_generate_messages_eus
+Scanning dependencies of target rotors_comm_generate_messages
+[100%] Built target rotors_comm_generate_messages

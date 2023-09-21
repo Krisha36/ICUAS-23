@@ -1,0 +1,4 @@
+Symlinking /root/uav_ws/devel/lib/libouster_viz.so
+Symlinking /root/uav_ws/devel/lib/pkgconfig/ouster_viz.pc
+Symlinking /root/uav_ws/devel/share/ouster_viz/cmake/ouster_vizConfig-version.cmake
+Symlinking /root/uav_ws/devel/share/ouster_viz/cmake/ouster_vizConfig.cmake

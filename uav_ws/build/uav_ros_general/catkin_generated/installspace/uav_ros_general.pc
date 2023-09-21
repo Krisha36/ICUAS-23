@@ -1,0 +1,8 @@
+prefix=/root/uav_ws/install
+
+Name: uav_ros_general
+Description: Description of uav_ros_general
+Version: 0.0.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp roslib rospack

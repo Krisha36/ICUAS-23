@@ -1,0 +1,6 @@
+uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_drivers/ros_packages/ouster_os0_driver/ouster_viz
+/root/uav_ws/devel/.private/ouster_viz/cmake.lock /root/uav_ws/devel/./cmake.lock
+/root/uav_ws/devel/.private/ouster_viz/lib/libouster_viz.so /root/uav_ws/devel/lib/libouster_viz.so
+/root/uav_ws/devel/.private/ouster_viz/lib/pkgconfig/ouster_viz.pc /root/uav_ws/devel/lib/pkgconfig/ouster_viz.pc
+/root/uav_ws/devel/.private/ouster_viz/share/ouster_viz/cmake/ouster_vizConfig-version.cmake /root/uav_ws/devel/share/ouster_viz/cmake/ouster_vizConfig-version.cmake
+/root/uav_ws/devel/.private/ouster_viz/share/ouster_viz/cmake/ouster_vizConfig.cmake /root/uav_ws/devel/share/ouster_viz/cmake/ouster_vizConfig.cmake

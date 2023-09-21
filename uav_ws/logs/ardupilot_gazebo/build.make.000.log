@@ -1,0 +1,98 @@
+Scanning dependencies of target trajectory_msgs_generate_messages_eus
+Scanning dependencies of target trajectory_msgs_generate_messages_py
+Scanning dependencies of target trajectory_msgs_generate_messages_lisp
+Scanning dependencies of target dynamic_reconfigure_gencfg
+Scanning dependencies of target ArduPilotPlugin
+Scanning dependencies of target ArduCopterPlugin
+Scanning dependencies of target mav_msgs_generate_messages_py
+Scanning dependencies of target trajectory_msgs_generate_messages_nodejs
+Scanning dependencies of target trajectory_msgs_generate_messages_cpp
+Scanning dependencies of target geometry_msgs_generate_messages_cpp
+Scanning dependencies of target geometry_msgs_generate_messages_lisp
+Scanning dependencies of target geometry_msgs_generate_messages_py
+Scanning dependencies of target geometry_msgs_generate_messages_nodejs
+Scanning dependencies of target mav_msgs_generate_messages_cpp
+Scanning dependencies of target sensor_msgs_generate_messages_py
+Scanning dependencies of target sensor_msgs_generate_messages_nodejs
+[  0%] Built target trajectory_msgs_generate_messages_cpp
+[  0%] Built target dynamic_reconfigure_gencfg
+[  0%] Built target trajectory_msgs_generate_messages_py
+[  0%] Built target trajectory_msgs_generate_messages_lisp
+[  0%] Built target trajectory_msgs_generate_messages_eus
+[  0%] Built target trajectory_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target mav_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target mav_msgs_generate_messages_cpp
+Scanning dependencies of target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+Scanning dependencies of target rosgraph_msgs_generate_messages_eus
+Scanning dependencies of target roscpp_generate_messages_nodejs
+Scanning dependencies of target dynamic_reconfigure_generate_messages_cpp
+Scanning dependencies of target std_msgs_generate_messages_eus
+Scanning dependencies of target roscpp_generate_messages_eus
+Scanning dependencies of target sensor_msgs_generate_messages_lisp
+Scanning dependencies of target roscpp_generate_messages_cpp
+Scanning dependencies of target roscpp_generate_messages_lisp
+Scanning dependencies of target roscpp_generate_messages_py
+Scanning dependencies of target mav_msgs_generate_messages_nodejs
+Scanning dependencies of target rosgraph_msgs_generate_messages_py
+Scanning dependencies of target sensor_msgs_generate_messages_eus
+Scanning dependencies of target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target dynamic_reconfigure_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target mav_msgs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_py
+Scanning dependencies of target rosgraph_msgs_generate_messages_nodejs
+Scanning dependencies of target geometry_msgs_generate_messages_eus
+Scanning dependencies of target mav_msgs_generate_messages_eus
+Scanning dependencies of target dynamic_reconfigure_generate_messages_lisp
+Scanning dependencies of target mav_msgs_generate_messages_lisp
+Scanning dependencies of target std_msgs_generate_messages_cpp
+Scanning dependencies of target std_msgs_generate_messages_py
+Scanning dependencies of target std_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+Scanning dependencies of target dynamic_reconfigure_generate_messages_nodejs
+Scanning dependencies of target sensor_msgs_generate_messages_cpp
+Scanning dependencies of target dynamic_reconfigure_generate_messages_py
+Scanning dependencies of target std_msgs_generate_messages_lisp
+Scanning dependencies of target ArduCopterIRLockPlugin
+Scanning dependencies of target dynamic_reconfigure_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target mav_msgs_generate_messages_lisp
+[  0%] Built target dynamic_reconfigure_generate_messages_lisp
+[  0%] Built target mav_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target dynamic_reconfigure_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target dynamic_reconfigure_generate_messages_py
+[  0%] Built target dynamic_reconfigure_generate_messages_eus
+Scanning dependencies of target GazeboGimbalPlugin
+[ 25%] Building CXX object CMakeFiles/ArduCopterIRLockPlugin.dir/src/ArduCopterIRLockPlugin.cc.o
+[ 25%] Building CXX object CMakeFiles/ArduCopterPlugin.dir/src/ArduCopterPlugin.cc.o
+[ 37%] Building CXX object CMakeFiles/ArduPilotPlugin.dir/src/ArduPilotPlugin.cc.o
+[ 50%] Building CXX object CMakeFiles/GazeboGimbalPlugin.dir/src/GazeboGimbal.cpp.o
+[ 62%] Linking CXX shared library libArduCopterPlugin.so
+[ 75%] Linking CXX shared library libGazeboGimbalPlugin.so
+[ 75%] Built target ArduCopterPlugin
+[ 75%] Built target GazeboGimbalPlugin
+[ 87%] Linking CXX shared library libArduPilotPlugin.so
+[ 87%] Built target ArduPilotPlugin
+[100%] Linking CXX shared library libArduCopterIRLockPlugin.so
+[100%] Built target ArduCopterIRLockPlugin

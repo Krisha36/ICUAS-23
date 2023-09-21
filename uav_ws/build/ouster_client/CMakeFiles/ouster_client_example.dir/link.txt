@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -O2 -g -DNDEBUG  -rdynamic CMakeFiles/ouster_client_example.dir/src/main.cpp.o  -o /root/uav_ws/devel/.private/ouster_client/lib/ouster_client/ouster_client_example   -L/opt/ros/noetic/lib  -Wl,-rpath,/opt/ros/noetic/lib:/root/uav_ws/devel/.private/ouster_client/lib /root/uav_ws/devel/.private/ouster_client/lib/libouster_client.so -ljsoncpp 

@@ -1,0 +1,4 @@
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_tracker/src/cvxgen/ldl.c: In function ‘ldl_factor’:
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_tracker/src/cvxgen/ldl.c:4528:6: note: variable tracking size limit exceeded with ‘-fvar-tracking-assignments’, retrying without
+ 4528 | void ldl_factor(void) {
+      |      ^~~~~~~~~~

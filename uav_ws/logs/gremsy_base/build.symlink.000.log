@@ -1,0 +1,11 @@
+Symlinking /root/uav_ws/devel/lib/pkgconfig/gremsy_base.pc
+Symlinking /root/uav_ws/devel/lib/gremsy_base/GimbalNode
+Symlinking /root/uav_ws/devel/lib/python3/dist-packages/gremsy_base/__init__.py
+Symlinking /root/uav_ws/devel/lib/python3/dist-packages/gremsy_base/cfg/__init__.py
+Symlinking /root/uav_ws/devel/lib/python3/dist-packages/gremsy_base/cfg/ROSGremsyConfig.py
+Symlinking /root/uav_ws/devel/share/gremsy_base/cmake/gremsy_baseConfig.cmake
+Symlinking /root/uav_ws/devel/share/gremsy_base/cmake/gremsy_baseConfig-version.cmake
+Symlinking /root/uav_ws/devel/share/gremsy_base/docs/ROSGremsyConfig-usage.dox
+Symlinking /root/uav_ws/devel/share/gremsy_base/docs/ROSGremsyConfig.wikidoc
+Symlinking /root/uav_ws/devel/share/gremsy_base/docs/ROSGremsyConfig.dox
+Symlinking /root/uav_ws/devel/include/gremsy_base/ROSGremsyConfig.h

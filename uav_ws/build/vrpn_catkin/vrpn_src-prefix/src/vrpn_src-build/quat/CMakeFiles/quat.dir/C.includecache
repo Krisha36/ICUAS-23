@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/quat/matrix.c
+math.h
+-
+stdio.h
+-
+quat.h
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/quat/quat.h
+
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/quat/quat.c
+quat.h
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/quat/quat.h
+math.h
+-
+stdio.h
+-
+
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/quat/quat.h
+
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/quat/vector.c
+math.h
+-
+stdio.h
+-
+quat.h
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/quat/quat.h
+
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/quat/xyzquat.c
+quat.h
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/quat/quat.h
+

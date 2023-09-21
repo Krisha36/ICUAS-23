@@ -1,0 +1,1 @@
+/root/uav_ws/devel/.private/icuas23_competition/share/roseus/ros/icuas23_competition/manifest.l

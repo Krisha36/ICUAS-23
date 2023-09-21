@@ -1,0 +1,1 @@
+/root/uav_ws/devel/.private/icuas23_competition/include/icuas23_competition/poi.h

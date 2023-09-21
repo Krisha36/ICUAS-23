@@ -1,0 +1,15 @@
+Symlinking /root/uav_ws/devel/lib/libmpc_wrapper.so
+Symlinking /root/uav_ws/devel/lib/libmpc_cvxgen.so
+Symlinking /root/uav_ws/devel/lib/libwaypoint_publisher.so
+Symlinking /root/uav_ws/devel/lib/libwaypoint_manager_nodelet.so
+Symlinking /root/uav_ws/devel/lib/pkgconfig/uav_ros_tracker.pc
+Symlinking /root/uav_ws/devel/lib/uav_ros_tracker/mpc_tracker
+Symlinking /root/uav_ws/devel/lib/python3/dist-packages/uav_ros_tracker/__init__.py
+Symlinking /root/uav_ws/devel/lib/python3/dist-packages/uav_ros_tracker/cfg/__init__.py
+Symlinking /root/uav_ws/devel/lib/python3/dist-packages/uav_ros_tracker/cfg/MPCTrackerParametersConfig.py
+Symlinking /root/uav_ws/devel/share/uav_ros_tracker/cmake/uav_ros_trackerConfig-version.cmake
+Symlinking /root/uav_ws/devel/share/uav_ros_tracker/cmake/uav_ros_trackerConfig.cmake
+Symlinking /root/uav_ws/devel/share/uav_ros_tracker/docs/MPCTrackerParametersConfig.dox
+Symlinking /root/uav_ws/devel/share/uav_ros_tracker/docs/MPCTrackerParametersConfig-usage.dox
+Symlinking /root/uav_ws/devel/share/uav_ros_tracker/docs/MPCTrackerParametersConfig.wikidoc
+Symlinking /root/uav_ws/devel/include/uav_ros_tracker/MPCTrackerParametersConfig.h

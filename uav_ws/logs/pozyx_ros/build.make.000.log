@@ -1,0 +1,8 @@
+Scanning dependencies of target KalmanFilter
+[ 25%] Building CXX object CMakeFiles/KalmanFilter.dir/src/KalmanFilter.cpp.o
+[ 50%] Linking CXX shared library /root/uav_ws/devel/.private/pozyx_ros/lib/libKalmanFilter.so
+[ 50%] Built target KalmanFilter
+Scanning dependencies of target pozyx_estimator_node
+[ 75%] Building CXX object CMakeFiles/pozyx_estimator_node.dir/src/PozyxEstimator.cpp.o
+[100%] Linking CXX executable /root/uav_ws/devel/.private/pozyx_ros/lib/pozyx_ros/pozyx_estimator_node
+[100%] Built target pozyx_estimator_node

@@ -1,0 +1,1 @@
+/root/uav_ws/devel/.private/ouster_ros/share/gennodejs/ros/ouster_ros/srv/OSConfigSrv.js

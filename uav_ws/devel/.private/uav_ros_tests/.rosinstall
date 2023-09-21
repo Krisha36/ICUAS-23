@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /root/uav_ws/devel/.private/uav_ros_tests/setup.sh

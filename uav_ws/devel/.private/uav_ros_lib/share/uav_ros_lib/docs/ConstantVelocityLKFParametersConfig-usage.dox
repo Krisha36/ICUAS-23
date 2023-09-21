@@ -1,0 +1,9 @@
+\subsubsection usage Usage
+\verbatim
+<node name="uav_ros_lib" pkg="uav_ros_lib" type="uav_ros_lib">
+  <param name="noise_mv" type="double" value="1.0" />
+  <param name="noise_pos" type="double" value="1.0" />
+  <param name="noise_vel" type="double" value="1.0" />
+</node>
+\endverbatim
+

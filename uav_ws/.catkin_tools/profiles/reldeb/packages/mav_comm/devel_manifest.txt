@@ -1,0 +1,2 @@
+uav_ros_simulation/ros_packages/mav_comm/mav_comm
+/root/uav_ws/devel/.private/mav_comm/cmake.lock /root/uav_ws/devel/./cmake.lock

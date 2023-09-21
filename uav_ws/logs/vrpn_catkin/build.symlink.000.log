@@ -1,0 +1,17 @@
+Symlinking /root/uav_ws/devel/lib/libquat.a
+Symlinking /root/uav_ws/devel/lib/libvrpn_catkin.so
+Symlinking /root/uav_ws/devel/lib/libvrpn.a
+Symlinking /root/uav_ws/devel/lib/pkgconfig/vrpn_catkin.pc
+Symlinking /root/uav_ws/devel/share/vrpn_catkin/cmake/vrpn_catkinConfig-version.cmake
+Symlinking /root/uav_ws/devel/share/vrpn_catkin/cmake/vrpn_catkinConfig.cmake
+Symlinking /root/uav_ws/devel/share/vrpn_catkin/cmake/vrpn-extras.cmake
+Symlinking /root/uav_ws/devel/include/vrpn/quat.h
+Symlinking /root/uav_ws/devel/include/vrpn/vrpn_Thread.h
+Symlinking /root/uav_ws/devel/include/vrpn/vrpn_Shared.h
+Symlinking /root/uav_ws/devel/include/vrpn/vrpn_Connection.h
+Symlinking /root/uav_ws/devel/include/vrpn/vrpn_Configure.h
+Symlinking /root/uav_ws/devel/include/vrpn/vrpn_Tracker.h
+Symlinking /root/uav_ws/devel/include/vrpn/vrpn_EndpointContainer.h
+Symlinking /root/uav_ws/devel/include/vrpn/vrpn_Types.h
+Symlinking /root/uav_ws/devel/include/vrpn/vrpn_BaseClass.h
+Symlinking /root/uav_ws/devel/include/vrpn/vrpn_Assert.h

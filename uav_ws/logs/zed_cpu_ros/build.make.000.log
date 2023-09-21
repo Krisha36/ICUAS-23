@@ -1,0 +1,4 @@
+Scanning dependencies of target zed_cpu_ros
+[ 50%] Building CXX object CMakeFiles/zed_cpu_ros.dir/src/zed_cpu_ros.cpp.o
+[100%] Linking CXX executable /root/uav_ws/devel/.private/zed_cpu_ros/lib/zed_cpu_ros/zed_cpu_ros
+[100%] Built target zed_cpu_ros

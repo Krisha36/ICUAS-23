@@ -1,0 +1,8 @@
+prefix=/root/uav_ws/devel/.private/pozyx_ros
+
+Name: pozyx_ros
+Description: Description of pozyx_ros
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy roslib rospack

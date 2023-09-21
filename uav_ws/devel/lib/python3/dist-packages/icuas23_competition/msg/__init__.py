@@ -1,0 +1,1 @@
+/root/uav_ws/devel/.private/icuas23_competition/lib/python3/dist-packages/icuas23_competition/msg/__init__.py

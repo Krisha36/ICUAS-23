@@ -1,0 +1,8 @@
+prefix=/root/uav_ws/devel/.private/ouster_viz
+
+Name: ouster_viz
+Description: Description of ouster_viz
+Version: 0.1.0
+Cflags: -I/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_drivers/ros_packages/ouster_os0_driver/ouster_viz/include -I/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_drivers/ros_packages/ouster_os0_driver/ouster_client/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include
+Libs: -L${prefix}/lib -louster_viz
+Requires: 

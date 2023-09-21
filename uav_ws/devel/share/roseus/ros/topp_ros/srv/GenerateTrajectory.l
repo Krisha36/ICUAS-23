@@ -1,0 +1,1 @@
+/root/uav_ws/devel/.private/topp_ros/share/roseus/ros/topp_ros/srv/GenerateTrajectory.l

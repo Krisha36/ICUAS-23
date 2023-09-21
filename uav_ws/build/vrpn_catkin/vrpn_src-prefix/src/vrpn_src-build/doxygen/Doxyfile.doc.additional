@@ -1,0 +1,23 @@
+@INCLUDE_PATH = "/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/doxygen"
+@INCLUDE = "Doxyfile"
+
+OUTPUT_DIRECTORY = "/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src-build/doxygen/docs-generated"
+GENERATE_LATEX = "NO"
+USE_PDFLATEX = NO
+HAVE_DOT = YES
+DOT_PATH = "/usr/bin"
+MSCGEN_PATH = ""
+LATEX_CMD_NAME = "LATEX_COMPILER-NOTFOUND"
+MAKEINDEX_CMD_NAME = "MAKEINDEX_COMPILER-NOTFOUND"
+
+WARNINGS = YES
+WARN_FORMAT = "$file:$line: $text "
+
+PROJECT_NUMBER = 07.34
+
+INPUT += 
+STRIP_FROM_PATH += 
+STRIP_FROM_INC_PATH += 
+
+LATEX_BATCHMODE = YES
+QUIET = YES

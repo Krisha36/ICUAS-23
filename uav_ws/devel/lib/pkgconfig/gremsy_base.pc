@@ -1,0 +1,1 @@
+/root/uav_ws/devel/.private/gremsy_base/lib/pkgconfig/gremsy_base.pc

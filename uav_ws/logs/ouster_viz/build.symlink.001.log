@@ -1,0 +1,4 @@
+Linked: (/root/uav_ws/devel/.private/ouster_viz/lib/libouster_viz.so, /root/uav_ws/devel/lib/libouster_viz.so)
+Linked: (/root/uav_ws/devel/.private/ouster_viz/lib/pkgconfig/ouster_viz.pc, /root/uav_ws/devel/lib/pkgconfig/ouster_viz.pc)
+Linked: (/root/uav_ws/devel/.private/ouster_viz/share/ouster_viz/cmake/ouster_vizConfig-version.cmake, /root/uav_ws/devel/share/ouster_viz/cmake/ouster_vizConfig-version.cmake)
+Linked: (/root/uav_ws/devel/.private/ouster_viz/share/ouster_viz/cmake/ouster_vizConfig.cmake, /root/uav_ws/devel/share/ouster_viz/cmake/ouster_vizConfig.cmake)

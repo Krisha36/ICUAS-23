@@ -1,0 +1,13 @@
+Symlinking /root/uav_ws/devel/lib/libvelodyne_input.so
+Symlinking /root/uav_ws/devel/lib/libdriver_nodelet.so
+Symlinking /root/uav_ws/devel/lib/pkgconfig/velodyne_driver.pc
+Symlinking /root/uav_ws/devel/lib/velodyne_driver/velodyne_node
+Symlinking /root/uav_ws/devel/lib/python3/dist-packages/velodyne_driver/__init__.py
+Symlinking /root/uav_ws/devel/lib/python3/dist-packages/velodyne_driver/cfg/__init__.py
+Symlinking /root/uav_ws/devel/lib/python3/dist-packages/velodyne_driver/cfg/VelodyneNodeConfig.py
+Symlinking /root/uav_ws/devel/share/velodyne_driver/cmake/velodyne_driverConfig.cmake
+Symlinking /root/uav_ws/devel/share/velodyne_driver/cmake/velodyne_driverConfig-version.cmake
+Symlinking /root/uav_ws/devel/share/velodyne_driver/docs/VelodyneNodeConfig-usage.dox
+Symlinking /root/uav_ws/devel/share/velodyne_driver/docs/VelodyneNodeConfig.dox
+Symlinking /root/uav_ws/devel/share/velodyne_driver/docs/VelodyneNodeConfig.wikidoc
+Symlinking /root/uav_ws/devel/include/velodyne_driver/VelodyneNodeConfig.h

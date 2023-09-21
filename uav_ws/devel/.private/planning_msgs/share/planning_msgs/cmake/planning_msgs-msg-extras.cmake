@@ -1,0 +1,2 @@
+set(planning_msgs_MESSAGE_FILES "/root/uav_ws/src/uav_ros_simulation/ros_packages/mav_comm/planning_msgs/msg/PointCloudWithPose.msg;/root/uav_ws/src/uav_ros_simulation/ros_packages/mav_comm/planning_msgs/msg/PolynomialSegment4D.msg;/root/uav_ws/src/uav_ros_simulation/ros_packages/mav_comm/planning_msgs/msg/PolynomialTrajectory4D.msg")
+set(planning_msgs_SERVICE_FILES "/root/uav_ws/src/uav_ros_simulation/ros_packages/mav_comm/planning_msgs/srv/PlannerService.srv")

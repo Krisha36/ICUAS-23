@@ -1,0 +1,231 @@
+Scanning dependencies of target uav_ros_control_gencfg
+Scanning dependencies of target uav_ros_msgs_generate_messages_nodejs
+Scanning dependencies of target actionlib_msgs_generate_messages_cpp
+Scanning dependencies of target uav_ros_msgs_generate_messages_py
+Scanning dependencies of target uav_ros_msgs_generate_messages_eus
+Scanning dependencies of target trajectory_msgs_generate_messages_cpp
+Scanning dependencies of target trajectory_msgs_generate_messages_nodejs
+Scanning dependencies of target uav_ros_msgs_generate_messages_cpp
+Scanning dependencies of target trajectory_msgs_generate_messages_lisp
+Scanning dependencies of target tf2_msgs_generate_messages_nodejs
+Scanning dependencies of target tf2_msgs_generate_messages_lisp
+Scanning dependencies of target tf2_msgs_generate_messages_cpp
+Scanning dependencies of target geometry_msgs_generate_messages_eus
+Scanning dependencies of target actionlib_generate_messages_nodejs
+Scanning dependencies of target actionlib_generate_messages_cpp
+Scanning dependencies of target std_msgs_generate_messages_nodejs
+[  0%] Built target uav_ros_control_gencfg
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target trajectory_msgs_generate_messages_lisp
+[  0%] Built target uav_ros_msgs_generate_messages_eus
+[  0%] Built target trajectory_msgs_generate_messages_nodejs
+[  0%] Built target uav_ros_msgs_generate_messages_nodejs
+[  0%] Built target trajectory_msgs_generate_messages_cpp
+[  0%] Built target uav_ros_msgs_generate_messages_py
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[  0%] Built target actionlib_generate_messages_nodejs
+[  0%] Built target uav_ros_msgs_generate_messages_cpp
+[  0%] Built target actionlib_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_nodejs
+Scanning dependencies of target nav_msgs_generate_messages_eus
+Scanning dependencies of target actionlib_generate_messages_py
+Scanning dependencies of target diagnostic_msgs_generate_messages_lisp
+Scanning dependencies of target std_msgs_generate_messages_cpp
+Scanning dependencies of target uav_ros_msgs_generate_messages_lisp
+Scanning dependencies of target std_msgs_generate_messages_py
+Scanning dependencies of target diagnostic_msgs_generate_messages_eus
+Scanning dependencies of target actionlib_generate_messages_lisp
+Scanning dependencies of target std_msgs_generate_messages_lisp
+Scanning dependencies of target roscpp_generate_messages_lisp
+Scanning dependencies of target mavros_msgs_generate_messages_eus
+Scanning dependencies of target actionlib_msgs_generate_messages_eus
+Scanning dependencies of target rosgraph_msgs_generate_messages_lisp
+Scanning dependencies of target trajectory_msgs_generate_messages_py
+Scanning dependencies of target diagnostic_msgs_generate_messages_cpp
+Scanning dependencies of target rosgraph_msgs_generate_messages_py
+[  0%] Built target nav_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target uav_ros_msgs_generate_messages_lisp
+[  0%] Built target actionlib_generate_messages_py
+[  0%] Built target diagnostic_msgs_generate_messages_eus
+[  0%] Built target diagnostic_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target actionlib_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target trajectory_msgs_generate_messages_py
+[  0%] Built target mavros_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target diagnostic_msgs_generate_messages_cpp
+Scanning dependencies of target rosgraph_msgs_generate_messages_cpp
+Scanning dependencies of target actionlib_generate_messages_eus
+Scanning dependencies of target uuid_msgs_generate_messages_lisp
+Scanning dependencies of target uav_ros_lib_gencfg
+Scanning dependencies of target diagnostic_msgs_generate_messages_nodejs
+Scanning dependencies of target trajectory_msgs_generate_messages_eus
+Scanning dependencies of target geometry_msgs_generate_messages_cpp
+Scanning dependencies of target roscpp_generate_messages_cpp
+Scanning dependencies of target geometry_msgs_generate_messages_lisp
+Scanning dependencies of target roscpp_generate_messages_py
+Scanning dependencies of target actionlib_msgs_generate_messages_nodejs
+Scanning dependencies of target actionlib_msgs_generate_messages_lisp
+[  0%] Built target uav_ros_lib_gencfg
+[  0%] Built target trajectory_msgs_generate_messages_eus
+[  0%] Built target uuid_msgs_generate_messages_lisp
+Scanning dependencies of target std_msgs_generate_messages_eus
+[  0%] Built target actionlib_generate_messages_eus
+[  0%] Built target diagnostic_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_cpp
+Scanning dependencies of target uuid_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+Scanning dependencies of target uuid_msgs_generate_messages_eus
+Scanning dependencies of target roscpp_generate_messages_eus
+Scanning dependencies of target mavros_msgs_generate_messages_py
+Scanning dependencies of target roscpp_generate_messages_nodejs
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_eus
+Scanning dependencies of target nav_msgs_generate_messages_cpp
+Scanning dependencies of target geometry_msgs_generate_messages_nodejs
+Scanning dependencies of target tf2_msgs_generate_messages_eus
+Scanning dependencies of target geometry_msgs_generate_messages_py
+Scanning dependencies of target sensor_msgs_generate_messages_py
+[  0%] Built target uuid_msgs_generate_messages_cpp
+Scanning dependencies of target nav_msgs_generate_messages_py
+Scanning dependencies of target rosgraph_msgs_generate_messages_nodejs
+Scanning dependencies of target geographic_msgs_generate_messages_cpp
+Scanning dependencies of target geographic_msgs_generate_messages_eus
+[  0%] Built target uuid_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_eus
+Scanning dependencies of target rosgraph_msgs_generate_messages_eus
+[  0%] Built target mavros_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_nodejs
+Scanning dependencies of target geographic_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target nav_msgs_generate_messages_cpp
+[  0%] Built target tf2_msgs_generate_messages_eus
+Scanning dependencies of target diagnostic_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target nav_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target geographic_msgs_generate_messages_cpp
+[  0%] Built target geographic_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+Scanning dependencies of target nav_msgs_generate_messages_nodejs
+Scanning dependencies of target sensor_msgs_generate_messages_cpp
+Scanning dependencies of target geographic_msgs_generate_messages_nodejs
+Scanning dependencies of target geographic_msgs_generate_messages_py
+[  0%] Built target geographic_msgs_generate_messages_lisp
+Scanning dependencies of target sensor_msgs_generate_messages_eus
+Scanning dependencies of target uuid_msgs_generate_messages_nodejs
+Scanning dependencies of target sensor_msgs_generate_messages_lisp
+Scanning dependencies of target actionlib_msgs_generate_messages_py
+Scanning dependencies of target uuid_msgs_generate_messages_py
+Scanning dependencies of target tf2_msgs_generate_messages_py
+Scanning dependencies of target mavros_msgs_generate_messages_cpp
+[  0%] Built target diagnostic_msgs_generate_messages_py
+[  0%] Built target nav_msgs_generate_messages_nodejs
+Scanning dependencies of target mavros_msgs_generate_messages_lisp
+Scanning dependencies of target sensor_msgs_generate_messages_nodejs
+[  0%] Built target geographic_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_cpp
+Scanning dependencies of target mavros_msgs_generate_messages_nodejs
+[  0%] Built target geographic_msgs_generate_messages_py
+Scanning dependencies of target nav_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target uuid_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target uuid_msgs_generate_messages_py
+[  0%] Built target mavros_msgs_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target tf2_msgs_generate_messages_py
+[  0%] Built target mavros_msgs_generate_messages_lisp
+[  0%] Built target mavros_msgs_generate_messages_nodejs
+[  0%] Built target nav_msgs_generate_messages_lisp
+Scanning dependencies of target uav_test_controller
+[ 25%] Building CXX object CMakeFiles/uav_test_controller.dir/src/uav_test_controller.cpp.o
+In file included from /root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_tests/include/uav_ros_tests/uav_test_controller.hpp:8,
+                 from /root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_tests/src/uav_test_controller.cpp:1:
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include/uav_ros_lib/topic_handler.hpp: In instantiation of ‘ros_util::TopicHandler<T>::TopicHandler(ros::NodeHandle&, std::string, std::function<void(const typename T::ConstPtr&)>, double) [with T = nav_msgs::Odometry_<std::allocator<void> >; std::string = std::__cxx11::basic_string<char>; typename T::ConstPtr = boost::shared_ptr<const nav_msgs::Odometry_<std::allocator<void> > >]’:
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include/uav_ros_lib/topic_handler.hpp:242:65:   required from ‘ros_util::TopicHandler<T>::TopicHandler(ros::NodeHandle&, std::string, double) [with T = nav_msgs::Odometry_<std::allocator<void> >; std::string = std::__cxx11::basic_string<char>]’
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_tests/src/uav_test_controller.cpp:58:48:   required from here
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include/uav_ros_lib/topic_handler.hpp:351:52: warning: ‘ros_util::TopicHandler<nav_msgs::Odometry_<std::allocator<void> > >::m_topicName’ will be initialized after [-Wreorder]
+  351 |   std::string                                      m_topicName;
+      |                                                    ^~~~~~~~~~~
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include/uav_ros_lib/topic_handler.hpp:346:14: warning:   ‘double ros_util::TopicHandler<nav_msgs::Odometry_<std::allocator<void> > >::m_topicTimeout’ [-Wreorder]
+  346 |   double     m_topicTimeout, m_lastMessgeTime;
+      |              ^~~~~~~~~~~~~~
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include/uav_ros_lib/topic_handler.hpp:255:3: warning:   when initialized here [-Wreorder]
+  255 |   TopicHandler(ros::NodeHandle&                                 t_nh,
+      |   ^~~~~~~~~~~~
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include/uav_ros_lib/topic_handler.hpp:352:52: warning: ‘ros_util::TopicHandler<nav_msgs::Odometry_<std::allocator<void> > >::m_postCallbackFunction’ will be initialized after [-Wreorder]
+  352 |   std::function<void(const typename T::ConstPtr&)> m_postCallbackFunction;
+      |                                                    ^~~~~~~~~~~~~~~~~~~~~~
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include/uav_ros_lib/topic_handler.hpp:347:30: warning:   ‘bool ros_util::TopicHandler<nav_msgs::Odometry_<std::allocator<void> > >::m_messageRecieved’ [-Wreorder]
+  347 |   bool       m_isResponsive, m_messageRecieved;
+      |                              ^~~~~~~~~~~~~~~~~
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include/uav_ros_lib/topic_handler.hpp:255:3: warning:   when initialized here [-Wreorder]
+  255 |   TopicHandler(ros::NodeHandle&                                 t_nh,
+      |   ^~~~~~~~~~~~
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include/uav_ros_lib/topic_handler.hpp: In instantiation of ‘ros_util::TopicHandler<T>::TopicHandler(ros::NodeHandle&, std::string, std::function<void(const typename T::ConstPtr&)>, double) [with T = mavros_msgs::State_<std::allocator<void> >; std::string = std::__cxx11::basic_string<char>; typename T::ConstPtr = boost::shared_ptr<const mavros_msgs::State_<std::allocator<void> > >]’:
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include/uav_ros_lib/topic_handler.hpp:242:65:   required from ‘ros_util::TopicHandler<T>::TopicHandler(ros::NodeHandle&, std::string, double) [with T = mavros_msgs::State_<std::allocator<void> >; std::string = std::__cxx11::basic_string<char>]’
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_tests/src/uav_test_controller.cpp:58:48:   required from here
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include/uav_ros_lib/topic_handler.hpp:351:52: warning: ‘ros_util::TopicHandler<mavros_msgs::State_<std::allocator<void> > >::m_topicName’ will be initialized after [-Wreorder]
+  351 |   std::string                                      m_topicName;
+      |                                                    ^~~~~~~~~~~
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include/uav_ros_lib/topic_handler.hpp:346:14: warning:   ‘double ros_util::TopicHandler<mavros_msgs::State_<std::allocator<void> > >::m_topicTimeout’ [-Wreorder]
+  346 |   double     m_topicTimeout, m_lastMessgeTime;
+      |              ^~~~~~~~~~~~~~
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include/uav_ros_lib/topic_handler.hpp:255:3: warning:   when initialized here [-Wreorder]
+  255 |   TopicHandler(ros::NodeHandle&                                 t_nh,
+      |   ^~~~~~~~~~~~
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include/uav_ros_lib/topic_handler.hpp:352:52: warning: ‘ros_util::TopicHandler<mavros_msgs::State_<std::allocator<void> > >::m_postCallbackFunction’ will be initialized after [-Wreorder]
+  352 |   std::function<void(const typename T::ConstPtr&)> m_postCallbackFunction;
+      |                                                    ^~~~~~~~~~~~~~~~~~~~~~
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include/uav_ros_lib/topic_handler.hpp:347:30: warning:   ‘bool ros_util::TopicHandler<mavros_msgs::State_<std::allocator<void> > >::m_messageRecieved’ [-Wreorder]
+  347 |   bool       m_isResponsive, m_messageRecieved;
+      |                              ^~~~~~~~~~~~~~~~~
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include/uav_ros_lib/topic_handler.hpp:255:3: warning:   when initialized here [-Wreorder]
+  255 |   TopicHandler(ros::NodeHandle&                                 t_nh,
+      |   ^~~~~~~~~~~~
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include/uav_ros_lib/topic_handler.hpp: In instantiation of ‘ros_util::TopicHandler<T>::TopicHandler(ros::NodeHandle&, std::string, std::function<void(const typename T::ConstPtr&)>, double) [with T = std_msgs::String_<std::allocator<void> >; std::string = std::__cxx11::basic_string<char>; typename T::ConstPtr = boost::shared_ptr<const std_msgs::String_<std::allocator<void> > >]’:
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include/uav_ros_lib/topic_handler.hpp:242:65:   required from ‘ros_util::TopicHandler<T>::TopicHandler(ros::NodeHandle&, std::string, double) [with T = std_msgs::String_<std::allocator<void> >; std::string = std::__cxx11::basic_string<char>]’
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_tests/src/uav_test_controller.cpp:58:48:   required from here
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include/uav_ros_lib/topic_handler.hpp:351:52: warning: ‘ros_util::TopicHandler<std_msgs::String_<std::allocator<void> > >::m_topicName’ will be initialized after [-Wreorder]
+  351 |   std::string                                      m_topicName;
+      |                                                    ^~~~~~~~~~~
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include/uav_ros_lib/topic_handler.hpp:346:14: warning:   ‘double ros_util::TopicHandler<std_msgs::String_<std::allocator<void> > >::m_topicTimeout’ [-Wreorder]
+  346 |   double     m_topicTimeout, m_lastMessgeTime;
+      |              ^~~~~~~~~~~~~~
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include/uav_ros_lib/topic_handler.hpp:255:3: warning:   when initialized here [-Wreorder]
+  255 |   TopicHandler(ros::NodeHandle&                                 t_nh,
+      |   ^~~~~~~~~~~~
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include/uav_ros_lib/topic_handler.hpp:352:52: warning: ‘ros_util::TopicHandler<std_msgs::String_<std::allocator<void> > >::m_postCallbackFunction’ will be initialized after [-Wreorder]
+  352 |   std::function<void(const typename T::ConstPtr&)> m_postCallbackFunction;
+      |                                                    ^~~~~~~~~~~~~~~~~~~~~~
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include/uav_ros_lib/topic_handler.hpp:347:30: warning:   ‘bool ros_util::TopicHandler<std_msgs::String_<std::allocator<void> > >::m_messageRecieved’ [-Wreorder]
+  347 |   bool       m_isResponsive, m_messageRecieved;
+      |                              ^~~~~~~~~~~~~~~~~
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/include/uav_ros_lib/topic_handler.hpp:255:3: warning:   when initialized here [-Wreorder]
+  255 |   TopicHandler(ros::NodeHandle&                                 t_nh,
+      |   ^~~~~~~~~~~~
+[ 50%] Linking CXX shared library /root/uav_ws/devel/.private/uav_ros_tests/lib/libuav_test_controller.so
+[ 50%] Built target uav_test_controller
+Scanning dependencies of target uav_test_controller_node
+[ 75%] Building CXX object CMakeFiles/uav_test_controller_node.dir/nodes/uav_test_controller_node.cpp.o
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_tests/nodes/uav_test_controller_node.cpp: In function ‘int main(int, char**)’:
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_tests/nodes/uav_test_controller_node.cpp:10:8: warning: variable ‘result’ set but not used [-Wunused-but-set-variable]
+   10 |   bool result = false;
+      |        ^~~~~~
+[100%] Linking CXX executable /root/uav_ws/devel/.private/uav_ros_tests/lib/uav_ros_tests/uav_test_controller_node
+[100%] Built target uav_test_controller_node

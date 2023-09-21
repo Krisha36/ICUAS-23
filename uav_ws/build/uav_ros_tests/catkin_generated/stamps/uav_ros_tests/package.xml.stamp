@@ -1,0 +1,18 @@
+<package>
+  <name>uav_ros_tests</name>
+  <version>1.0.0</version>
+  <description>The main testing repository for the "uav_ros_stack" package</description>
+  <maintainer email="lovro.markovic@fer.hr">Lovro Markovic</maintainer>
+
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <test_depend>rostest</test_depend>
+
+  <build_depend>uav_ros_lib</build_depend>
+  <build_depend>uav_ros_control</build_depend>
+
+  <run_depend>uav_ros_lib</run_depend>
+  <run_depend>uav_ros_control</run_depend>
+
+</package>

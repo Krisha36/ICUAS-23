@@ -1,0 +1,14 @@
+Symlinking /root/uav_ws/devel/lib/libvelodyne_rawdata.so
+Symlinking /root/uav_ws/devel/lib/libdata_containers.so
+Symlinking /root/uav_ws/devel/lib/libtransform_nodelet.so
+Symlinking /root/uav_ws/devel/lib/pkgconfig/velodyne_pointcloud.pc
+Symlinking /root/uav_ws/devel/lib/python3/dist-packages/velodyne_pointcloud/__init__.py
+Symlinking /root/uav_ws/devel/lib/python3/dist-packages/velodyne_pointcloud/cfg/__init__.py
+Symlinking /root/uav_ws/devel/lib/python3/dist-packages/velodyne_pointcloud/cfg/TransformNodeConfig.py
+Symlinking /root/uav_ws/devel/lib/velodyne_pointcloud/transform_node
+Symlinking /root/uav_ws/devel/share/velodyne_pointcloud/cmake/velodyne_pointcloudConfig.cmake
+Symlinking /root/uav_ws/devel/share/velodyne_pointcloud/cmake/velodyne_pointcloudConfig-version.cmake
+Symlinking /root/uav_ws/devel/share/velodyne_pointcloud/docs/TransformNodeConfig.dox
+Symlinking /root/uav_ws/devel/share/velodyne_pointcloud/docs/TransformNodeConfig.wikidoc
+Symlinking /root/uav_ws/devel/share/velodyne_pointcloud/docs/TransformNodeConfig-usage.dox
+Symlinking /root/uav_ws/devel/include/velodyne_pointcloud/TransformNodeConfig.h

@@ -1,0 +1,1 @@
+/root/uav_ws/devel/.private/ros_vrpn_client/share/roseus/ros/ros_vrpn_client/msg/viconEstimator.l

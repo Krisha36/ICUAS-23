@@ -1,0 +1,1 @@
+/root/uav_ws/devel/.private/ros_vrpn_client/lib/python3/dist-packages/ros_vrpn_client/msg/__init__.py

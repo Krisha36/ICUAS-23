@@ -1,0 +1,593 @@
+Scanning dependencies of target vrpn_src
+[ 10%] Creating directories for 'vrpn_src'
+[ 20%] Performing download step (download, verify and extract) for 'vrpn_src'
+-- Downloading...
+   dst='/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/version_07.34.zip'
+   timeout='none'
+-- Using src='https://github.com/vrpn/vrpn/archive/version_07.34.zip'
+-- Downloading... done
+-- extracting...
+     src='/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/version_07.34.zip'
+     dst='/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src'
+-- extracting... [tar xfz]
+-- extracting... [analysis]
+-- extracting... [rename]
+-- extracting... [clean up]
+-- extracting... done
+[ 40%] No patch step for 'vrpn_src'
+[ 40%] No update step for 'vrpn_src'
+[ 50%] Performing configure step for 'vrpn_src'
+-- The C compiler identification is GNU 9.4.0
+-- The CXX compiler identification is GNU 9.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring the VRPN suite version 07.34 using the CMake-based build system
+
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+-- Looking for pthread_create in pthreads
+-- Looking for pthread_create in pthreads - not found
+-- Looking for pthread_create in pthread
+-- Looking for pthread_create in pthread - found
+-- Found Threads: TRUE  
+-- Now searching for auto-configurable optional packages...
+
+-- Checking for module 'libusb-1.0'
+--   Found libusb-1.0, version 1.0.23
+-- Found Libusb1: /usr/lib/x86_64-linux-gnu/libusb-1.0.so  
+-- Local HIDAPI submodule not found. To download with Git, run git submodule update --init
+-- Local JSONCPP submodule not found. To download with Git, run git submodule update --init
+-- Could NOT find SWIG (missing: SWIG_EXECUTABLE SWIG_DIR) 
+-- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.8.so (found version "3.8.10") 
+-- Could NOT find Java (missing: Java_JAVAC_EXECUTABLE Java_JAR_EXECUTABLE Java_JAVADOC_EXECUTABLE Development) (found version "11.0.18")
+-- Could NOT find JNI (missing: JAVA_AWT_LIBRARY JAVA_INCLUDE_PATH JAVA_INCLUDE_PATH2 JAVA_AWT_INCLUDE_PATH) 
+-- Found MPI_C: /usr/lib/x86_64-linux-gnu/openmpi/lib/libmpi.so (found version "3.1") 
+-- Found MPI_CXX: /usr/lib/x86_64-linux-gnu/openmpi/lib/libmpi_cxx.so (found version "3.1") 
+-- Found MPI: TRUE (found version "3.1")  
+-- Could NOT find Modbus (missing: MODBUS_LIBRARY MODBUS_INCLUDE_DIR) 
+-- Could NOT find HIDAPI (missing: HIDAPI_LIBRARY HIDAPI_INCLUDE_DIR) 
+-- NOTE: You have VRPN_USE_LOCAL_HIDAPI enabled, but VRPN_USE_HID disabled: HIDAPI will only be built if you enable HID support for VRPN
+-- Could NOT find OpenHaptics (missing: HDAPI_LIBRARY HDAPI_INCLUDE_DIR HDAPI_HDU_INCLUDE_DIR HDAPI_HDU_LIBRARY HLAPI_INCLUDE_DIR HLAPI_LIBRARY HLAPI_HLU_INCLUDE_DIR HLAPI_HLU_LIBRARY HDAPI_PHANToMIO_LIBRARY HDAPI_HDU_SOURCE_DIR HLAPI_HLU_SOURCE_DIR) 
+-- Could NOT find GHOST (missing: GHOST_LIBRARY GHOST_INCLUDE_DIR) 
+-- Found I2CDEV: /usr/include  
+-- Could NOT find WiiUse (missing: WIIUSE_LIBRARY WIIUSE_INCLUDE_DIR) 
+-- Found JsonCpp: /usr/lib/x86_64-linux-gnu/cmake/jsoncpp  
+-- Could NOT find LibNifalcon (missing: LIBNIFALCON_LIBRARY LIBNIFALCON_INCLUDE_DIR) 
+-- Could NOT find GPM (missing: GPM_LIBRARY GPM_INCLUDE_DIR) 
+-- Could NOT find InterSense (missing: INTERSENSE_LIBRARY INTERSENSE_INCLUDE_DIR) 
+-- Could NOT find NIDAQmx (missing: NIDAQMX_LIBRARY NIDAQMX_INCLUDE_DIR) 
+-- Could NOT find ViewPoint (missing: VIEWPOINT_LIBRARY VIEWPOINT_INCLUDE_DIR) 
+-- Looking for C++ include linux/joystick.h
+-- Looking for C++ include linux/joystick.h - found
+-- Looking for C++ include linux/input.h
+-- Looking for C++ include linux/input.h - found
+-- Found Perl: /usr/bin/perl (found version "5.30.0") 
+-- Checking for perl module Parse::RecDescent
+-- Checking for perl module Parse::RecDescent - failed
+-- Could NOT find PerlModules (missing: PERLMODULES_PARSE_RECDESCENT_MODULE) 
+-- Could NOT find LibFreespace (missing: LIBFREESPACE_LIBRARY LIBFREESPACE_INCLUDE_DIR) 
+-- Found quatlib: quat  
+-- Could NOT find ColibriApi (missing: COLIBRIAPI_LIBRARY COLIBRIAPI_INCLUDE_DIR) 
+-- Found GLUT: /usr/lib/x86_64-linux-gnu/libglut.so  
+CMake Warning (dev) at /usr/share/cmake-3.16/Modules/FindOpenGL.cmake:275 (message):
+  Policy CMP0072 is not set: FindOpenGL prefers GLVND by default when
+  available.  Run "cmake --help-policy CMP0072" for policy details.  Use the
+  cmake_policy command to set the policy and suppress this warning.
+
+  FindOpenGL found both a legacy GL library:
+
+    OPENGL_gl_LIBRARY: /usr/lib/x86_64-linux-gnu/libGL.so
+
+  and GLVND libraries for OpenGL and GLX:
+
+    OPENGL_opengl_LIBRARY: /usr/lib/x86_64-linux-gnu/libOpenGL.so
+    OPENGL_glx_LIBRARY: /usr/lib/x86_64-linux-gnu/libGLX.so
+
+  OpenGL_GL_PREFERENCE has not been set to "GLVND" or "LEGACY", so for
+  compatibility with CMake 3.10 and below the legacy GL library will be used.
+Call Stack (most recent call first):
+  client_src/CMakeLists.txt:26 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Found OpenGL: /usr/lib/x86_64-linux-gnu/libOpenGL.so   
+-- Dashboard scripts have been generated for automatic nightly and continuous builds.
+-- You can add these sample lines to your crontab:
+-- 
+
+15 0 * * * "/usr/bin/ctest" -S "/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src-build/Dashboards-buildkitsandbox-root/runNightly.cmake" 
+15 * * * * "/usr/bin/ctest" -S "/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src-build/Dashboards-buildkitsandbox-root/runContinuous.cmake" 
+
+or run this command for an one-off experimental test build:
+"/usr/bin/ctest" -S "/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src-build/Dashboards-buildkitsandbox-root/runExperimental.cmake" -VV
+
+-- 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src-build
+[ 60%] Performing build step for 'vrpn_src'
+make[3]: warning: -j8 forced in submake: resetting jobserver mode.
+Scanning dependencies of target quat
+Scanning dependencies of target gpsnmea
+Scanning dependencies of target vrpn_atmel
+[  2%] Building C object quat/CMakeFiles/quat.dir/quat.c.o
+[  2%] Building C object quat/CMakeFiles/quat.dir/vector.c.o
+[  2%] Building C object quat/CMakeFiles/quat.dir/matrix.c.o
+[  2%] Building C object quat/CMakeFiles/quat.dir/xyzquat.c.o
+[  4%] Building CXX object gpsnmealib/CMakeFiles/gpsnmea.dir/nmeaParser.C.o
+[  4%] Building CXX object gpsnmealib/CMakeFiles/gpsnmea.dir/latLonCoord.C.o
+[  4%] Building CXX object atmellib/CMakeFiles/vrpn_atmel.dir/vrpn_atmellib_iobasic.C.o
+[  4%] Building CXX object atmellib/CMakeFiles/vrpn_atmel.dir/vrpn_atmellib_helper.C.o
+[  5%] Building CXX object gpsnmealib/CMakeFiles/gpsnmea.dir/typedCoord.C.o
+[  5%] Building CXX object atmellib/CMakeFiles/vrpn_atmel.dir/vrpn_atmellib_openclose.C.o
+[  5%] Building CXX object gpsnmealib/CMakeFiles/gpsnmea.dir/utmCoord.C.o
+[  6%] Building CXX object atmellib/CMakeFiles/vrpn_atmel.dir/vrpn_atmellib_register.C.o
+[  6%] Building CXX object atmellib/CMakeFiles/vrpn_atmel.dir/vrpn_atmellib_tester.C.o
+[  7%] Linking CXX static library libvrpn_atmel.a
+[  7%] Built target vrpn_atmel
+[  7%] Linking C static library libquat.a
+[  7%] Built target quat
+Scanning dependencies of target vrpn
+[  7%] Building CXX object CMakeFiles/vrpn.dir/vrpn_Analog.C.o
+[  7%] Building CXX object CMakeFiles/vrpn.dir/vrpn_Analog_Output.C.o
+[  7%] Building CXX object CMakeFiles/vrpn.dir/vrpn_Auxiliary_Logger.C.o
+[  8%] Building CXX object CMakeFiles/vrpn.dir/vrpn_Assert.C.o
+[  9%] Building CXX object CMakeFiles/vrpn.dir/vrpn_BaseClass.C.o
+[  9%] Building CXX object CMakeFiles/vrpn.dir/vrpn_Button.C.o
+[  9%] Building CXX object CMakeFiles/vrpn.dir/vrpn_Connection.C.o
+[ 10%] Building CXX object CMakeFiles/vrpn.dir/vrpn_Dial.C.o
+[ 10%] Linking CXX static library libgpsnmea.a
+[ 10%] Built target gpsnmea
+[ 10%] Building CXX object CMakeFiles/vrpn.dir/vrpn_EndpointContainer.C.o
+[ 11%] Building CXX object CMakeFiles/vrpn.dir/vrpn_FileConnection.C.o
+[ 11%] Building CXX object CMakeFiles/vrpn.dir/vrpn_FileController.C.o
+[ 11%] Building CXX object CMakeFiles/vrpn.dir/vrpn_ForceDevice.C.o
+[ 12%] Building CXX object CMakeFiles/vrpn.dir/vrpn_Forwarder.C.o
+[ 12%] Building CXX object CMakeFiles/vrpn.dir/vrpn_ForwarderController.C.o
+[ 12%] Building CXX object CMakeFiles/vrpn.dir/vrpn_FunctionGenerator.C.o
+[ 13%] Building CXX object CMakeFiles/vrpn.dir/vrpn_Imager.C.o
+Scanning dependencies of target vrpnserver
+[ 13%] Building CXX object CMakeFiles/vrpn.dir/vrpn_LamportClock.C.o
+[ 13%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Analog.C.o
+[ 14%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Analog_Output.C.o
+[ 14%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Assert.C.o
+[ 15%] Building CXX object CMakeFiles/vrpn.dir/vrpn_Mutex.C.o
+[ 15%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Auxiliary_Logger.C.o
+[ 16%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_BaseClass.C.o
+[ 16%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Button.C.o
+[ 16%] Building CXX object CMakeFiles/vrpn.dir/vrpn_Poser.C.o
+In file included from /usr/include/string.h:495,
+                 from /root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Mutex.C:2:
+In function ‘char* strncpy(char*, const char*, size_t)’,
+    inlined from ‘void vrpn_PeerMutex::init(const char*)’ at /root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Mutex.C:1393:12:
+/usr/include/x86_64-linux-gnu/bits/string_fortified.h:106:34: warning: ‘char* __builtin_strncpy(char*, const char*, long unsigned int)’ specified bound depends on the length of the source argument [-Wstringop-overflow=]
+  106 |   return __builtin___strncpy_chk (__dest, __src, __len, __bos (__dest));
+      |          ~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Mutex.C: In member function ‘void vrpn_PeerMutex::init(const char*)’:
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Mutex.C:1393:12: note: length computed here
+ 1393 |     strncpy(d_mutexName, name, strlen(name));
+      |     ~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[ 16%] Building CXX object CMakeFiles/vrpn.dir/vrpn_RedundantTransmission.C.o
+[ 17%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Connection.C.o
+[ 18%] Building CXX object CMakeFiles/vrpn.dir/vrpn_Serial.C.o
+[ 18%] Building CXX object CMakeFiles/vrpn.dir/vrpn_SerialPort.C.o
+[ 19%] Building CXX object CMakeFiles/vrpn.dir/vrpn_Shared.C.o
+[ 19%] Building CXX object CMakeFiles/vrpn.dir/vrpn_SharedObject.C.o
+[ 19%] Building CXX object CMakeFiles/vrpn.dir/vrpn_Sound.C.o
+[ 20%] Building CXX object CMakeFiles/vrpn.dir/vrpn_Text.C.o
+[ 20%] Building CXX object CMakeFiles/vrpn.dir/vrpn_Thread.C.o
+[ 20%] Building CXX object CMakeFiles/vrpn.dir/vrpn_Tracker.C.o
+[ 20%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Dial.C.o
+[ 20%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_EndpointContainer.C.o
+[ 21%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_FileConnection.C.o
+[ 21%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_FileController.C.o
+[ 22%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_ForceDevice.C.o
+[ 22%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Forwarder.C.o
+[ 22%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_ForwarderController.C.o
+[ 23%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_FunctionGenerator.C.o
+[ 23%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Imager.C.o
+[ 23%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_LamportClock.C.o
+[ 24%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Mutex.C.o
+[ 24%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Poser.C.o
+[ 25%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_RedundantTransmission.C.o
+[ 26%] Linking CXX static library libvrpn.a
+[ 26%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Serial.C.o
+[ 26%] Built target vrpn
+In file included from /usr/include/string.h:495,
+                 from /root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Mutex.C:2:
+In function ‘char* strncpy(char*, const char*, size_t)’,
+    inlined from ‘void vrpn_PeerMutex::init(const char*)’ at /root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Mutex.C:1393:12:
+/usr/include/x86_64-linux-gnu/bits/string_fortified.h:106:34: warning: ‘char* __builtin_strncpy(char*, const char*, long unsigned int)’ specified bound depends on the length of the source argument [-Wstringop-overflow=]
+  106 |   return __builtin___strncpy_chk (__dest, __src, __len, __bos (__dest));
+      |          ~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Mutex.C: In member function ‘void vrpn_PeerMutex::init(const char*)’:
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Mutex.C:1393:12: note: length computed here
+ 1393 |     strncpy(d_mutexName, name, strlen(name));
+      |     ~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[ 26%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_SerialPort.C.o
+[ 27%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Shared.C.o
+[ 27%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_SharedObject.C.o
+[ 28%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Sound.C.o
+[ 28%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Text.C.o
+[ 28%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Thread.C.o
+[ 29%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Tracker.C.o
+[ 29%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_3DConnexion.C.o
+[ 30%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_3DMicroscribe.C.o
+[ 30%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_3Space.C.o
+[ 30%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_5DT16.C.o
+[ 31%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Adafruit.C.o
+[ 31%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_ADBox.C.o
+[ 31%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Analog_5dt.C.o
+[ 32%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Analog_5dtUSB.C.o
+[ 32%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Analog_Radamec_SPI.C.o
+[ 33%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Analog_USDigital_A2.C.o
+[ 33%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Atmel.C.o
+[ 33%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_BiosciencesTools.C.o
+[ 34%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Button_NI_DIO24.C.o
+[ 34%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Button_USB.cpp.o
+[ 35%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_CerealBox.C.o
+[ 35%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_CHProducts_Controller_Raw.C.o
+Scanning dependencies of target run_auxiliary_logger
+Scanning dependencies of target printvals
+[ 36%] Building CXX object client_src/CMakeFiles/run_auxiliary_logger.dir/run_auxiliary_logger.C.o
+[ 37%] Building CXX object client_src/CMakeFiles/printvals.dir/printvals.C.o
+[ 37%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Contour.C.o
+[ 38%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_DevInput.C.o
+[ 38%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_DirectXFFJoystick.C.o
+[ 38%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_DirectXRumblePad.C.o
+[ 39%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_DreamCheeky.C.o
+Scanning dependencies of target testSharedObject
+[ 39%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Dyna.C.o
+[ 40%] Building CXX object client_src/CMakeFiles/testSharedObject.dir/testSharedObject.C.o
+[ 41%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Event_Analog.C.o
+[ 41%] Linking CXX executable run_auxiliary_logger
+[ 41%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Event.C.o
+[ 41%] Linking CXX executable printvals
+[ 41%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Event_Mouse.C.o
+[ 41%] Built target run_auxiliary_logger
+Scanning dependencies of target phan_client
+Scanning dependencies of target checklogfile
+[ 41%] Building CXX object client_src/CMakeFiles/phan_client.dir/phan_client.C.o
+[ 41%] Linking CXX executable testSharedObject
+[ 42%] Building CXX object client_src/CMakeFiles/checklogfile.dir/checklogfile.C.o
+[ 42%] Built target printvals
+[ 43%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Flock.C.o
+Scanning dependencies of target forwarderClient
+[ 43%] Building CXX object client_src/CMakeFiles/forwarderClient.dir/forwarderClient.C.o
+Scanning dependencies of target test_Zaber
+[ 43%] Built target testSharedObject
+[ 44%] Building CXX object client_src/CMakeFiles/test_Zaber.dir/test_Zaber.C.o
+Scanning dependencies of target forcedevice_test_client
+[ 44%] Building CXX object client_src/CMakeFiles/forcedevice_test_client.dir/forcedevice_test_client.cpp.o
+[ 44%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Flock_Parallel.C.o
+[ 44%] Linking CXX executable checklogfile
+[ 45%] Linking CXX executable phan_client
+[ 45%] Built target checklogfile
+Scanning dependencies of target logfiletypes
+[ 46%] Linking CXX executable forwarderClient
+[ 46%] Building CXX object client_src/CMakeFiles/logfiletypes.dir/logfiletypes.C.o
+[ 46%] Built target phan_client
+[ 46%] Linking CXX executable test_Zaber
+Scanning dependencies of target vrpn_ping
+[ 46%] Building CXX object client_src/CMakeFiles/vrpn_ping.dir/vrpn_ping.C.o
+[ 47%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_ForceDeviceServer.C.o
+[ 47%] Built target forwarderClient
+Scanning dependencies of target vrpn_print_performance
+[ 48%] Building CXX object client_src/CMakeFiles/vrpn_print_performance.dir/vrpn_print_performance.C.o
+[ 48%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Freespace.C.o
+[ 49%] Linking CXX executable forcedevice_test_client
+[ 49%] Linking CXX executable logfiletypes
+[ 49%] Built target test_Zaber
+Scanning dependencies of target vrpn_print_messages
+Scanning dependencies of target sound_client
+[ 49%] Building CXX object client_src/CMakeFiles/vrpn_print_messages.dir/vrpn_print_messages.C.o
+[ 49%] Building CXX object client_src/CMakeFiles/sound_client.dir/sound_client.C.o
+[ 49%] Built target logfiletypes
+[ 50%] Linking CXX executable vrpn_ping
+Scanning dependencies of target bdbox_client
+[ 51%] Building CXX object client_src/CMakeFiles/bdbox_client.dir/bdbox_client.C.o
+[ 51%] Built target forcedevice_test_client
+Scanning dependencies of target sphere_client
+[ 51%] Building CXX object client_src/CMakeFiles/sphere_client.dir/sphere_client.C.o
+[ 51%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Futaba.C.o
+[ 51%] Linking CXX executable vrpn_print_messages
+[ 51%] Built target vrpn_ping
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/client_src/sound_client.C: In function ‘int main(int, char**)’:
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/client_src/sound_client.C:78:7: warning: ignoring return value of ‘int scanf(const char*, ...)’, declared with attribute warn_unused_result [-Wunused-result]
+   78 |  scanf("%s", server);
+      |  ~~~~~^~~~~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/client_src/sound_client.C:80:7: warning: ignoring return value of ‘int scanf(const char*, ...)’, declared with attribute warn_unused_result [-Wunused-result]
+   80 |  scanf("%s", device);
+      |  ~~~~~^~~~~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/client_src/sound_client.C:117:8: warning: ignoring return value of ‘int scanf(const char*, ...)’, declared with attribute warn_unused_result [-Wunused-result]
+  117 |   scanf("%d", &command);
+      |   ~~~~~^~~~~~~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/client_src/sound_client.C:123:10: warning: ignoring return value of ‘int scanf(const char*, ...)’, declared with attribute warn_unused_result [-Wunused-result]
+  123 |     scanf("%s", dummy);
+      |     ~~~~~^~~~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/client_src/sound_client.C:132:9: warning: ignoring return value of ‘int scanf(const char*, ...)’, declared with attribute warn_unused_result [-Wunused-result]
+  132 |    scanf("%d", &id);
+      |    ~~~~~^~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/client_src/sound_client.C:140:9: warning: ignoring return value of ‘int scanf(const char*, ...)’, declared with attribute warn_unused_result [-Wunused-result]
+  140 |    scanf("%d", &id);
+      |    ~~~~~^~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/client_src/sound_client.C:142:9: warning: ignoring return value of ‘int scanf(const char*, ...)’, declared with attribute warn_unused_result [-Wunused-result]
+  142 |    scanf("%d", &repeat);
+      |    ~~~~~^~~~~~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/client_src/sound_client.C:148:9: warning: ignoring return value of ‘int scanf(const char*, ...)’, declared with attribute warn_unused_result [-Wunused-result]
+  148 |    scanf("%d", &id);
+      |    ~~~~~^~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/client_src/sound_client.C:154:9: warning: ignoring return value of ‘int scanf(const char*, ...)’, declared with attribute warn_unused_result [-Wunused-result]
+  154 |    scanf("%d", &id);
+      |    ~~~~~^~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/client_src/sound_client.C:156:9: warning: ignoring return value of ‘int scanf(const char*, ...)’, declared with attribute warn_unused_result [-Wunused-result]
+  156 |    scanf("%d", &volume);
+      |    ~~~~~^~~~~~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/client_src/sound_client.C:162:9: warning: ignoring return value of ‘int scanf(const char*, ...)’, declared with attribute warn_unused_result [-Wunused-result]
+  162 |    scanf("%d", &id);
+      |    ~~~~~^~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/client_src/sound_client.C:164:9: warning: ignoring return value of ‘int scanf(const char*, ...)’, declared with attribute warn_unused_result [-Wunused-result]
+  164 |    scanf("%lf %lf %lf", &position[0], &position[1], &position[2]);
+      |    ~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/client_src/sound_client.C:170:9: warning: ignoring return value of ‘int scanf(const char*, ...)’, declared with attribute warn_unused_result [-Wunused-result]
+  170 |    scanf("%d", &id);
+      |    ~~~~~^~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/client_src/sound_client.C:172:9: warning: ignoring return value of ‘int scanf(const char*, ...)’, declared with attribute warn_unused_result [-Wunused-result]
+  172 |    scanf("%lf %lf %lf %lf", &orientation[0], &orientation[1], &orientation[2], &orientation[3]);
+      |    ~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/client_src/sound_client.C:178:9: warning: ignoring return value of ‘int scanf(const char*, ...)’, declared with attribute warn_unused_result [-Wunused-result]
+  178 |    scanf("%d", &id);
+      |    ~~~~~^~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/client_src/sound_client.C:180:9: warning: ignoring return value of ‘int scanf(const char*, ...)’, declared with attribute warn_unused_result [-Wunused-result]
+  180 |    scanf("%lf %lf %lf %lf", &velocity[0], &velocity[1], &velocity[2], &velocity[3]);
+      |    ~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/client_src/sound_client.C:186:9: warning: ignoring return value of ‘int scanf(const char*, ...)’, declared with attribute warn_unused_result [-Wunused-result]
+  186 |    scanf("%lf %lf %lf", &Lposition[0], &Lposition[1], &Lposition[2]);
+      |    ~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/client_src/sound_client.C:192:9: warning: ignoring return value of ‘int scanf(const char*, ...)’, declared with attribute warn_unused_result [-Wunused-result]
+  192 |    scanf("%lf %lf %lf %lf", &Lorientation[0], &Lorientation[1], &Lorientation[2], &Lorientation[3]);
+      |    ~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/client_src/sound_client.C:198:9: warning: ignoring return value of ‘int scanf(const char*, ...)’, declared with attribute warn_unused_result [-Wunused-result]
+  198 |    scanf("%lf %lf %lf %lf", &Lvelocity[0], &Lvelocity[1], &Lvelocity[2], &Lvelocity[3]);
+      |    ~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/client_src/sound_client.C:204:9: warning: ignoring return value of ‘int scanf(const char*, ...)’, declared with attribute warn_unused_result [-Wunused-result]
+  204 |    scanf("%d", &id);
+      |    ~~~~~^~~~~~~~~~~
+Scanning dependencies of target ff_client
+[ 52%] Building CXX object client_src/CMakeFiles/ff_client.dir/ff_client.C.o
+[ 53%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_GlobalHapticsOrb.C.o
+[ 53%] Linking CXX executable bdbox_client
+[ 53%] Built target vrpn_print_messages
+[ 54%] Linking CXX executable sound_client
+Scanning dependencies of target add_vrpn_cookie
+[ 54%] Linking CXX executable vrpn_print_performance
+[ 54%] Building CXX object client_src/CMakeFiles/add_vrpn_cookie.dir/add_vrpn_cookie.C.o
+[ 54%] Built target bdbox_client
+[ 54%] Linking CXX executable sphere_client
+Scanning dependencies of target vrpn_LamportClock
+[ 55%] Building CXX object client_src/CMakeFiles/vrpn_LamportClock.dir/vrpn_LamportClock.t.C.o
+[ 55%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Griffin.C.o
+[ 55%] Built target vrpn_print_performance
+[ 55%] Built target sound_client
+Scanning dependencies of target test_mutex
+Scanning dependencies of target printcereal
+[ 55%] Building CXX object client_src/CMakeFiles/test_mutex.dir/test_mutex.C.o
+[ 55%] Building CXX object client_src/CMakeFiles/printcereal.dir/printcereal.C.o
+[ 55%] Linking CXX executable add_vrpn_cookie
+[ 55%] Built target sphere_client
+Scanning dependencies of target c_interface_example
+[ 55%] Building C object client_src/CMakeFiles/c_interface_example.dir/c_interface_example.c.o
+[ 56%] Linking CXX executable test_mutex
+[ 56%] Linking CXX executable ff_client
+[ 57%] Building CXX object client_src/CMakeFiles/c_interface_example.dir/c_interface.cpp.o
+[ 57%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_HumanInterface.C.o
+[ 57%] Built target add_vrpn_cookie
+[ 58%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_IDEA.C.o
+Scanning dependencies of target clock_drift_estimator
+Scanning dependencies of target test_imager
+[ 58%] Built target test_mutex
+[ 58%] Building CXX object client_src/CMakeFiles/clock_drift_estimator.dir/clock_drift_estimator.C.o
+[ 58%] Building CXX object client_src/CMakeFiles/test_imager.dir/test_imager.C.o
+Scanning dependencies of target text
+[ 58%] Linking CXX executable printcereal
+[ 59%] Building CXX object client_src/CMakeFiles/text.dir/text.C.o
+[ 59%] Built target ff_client
+Scanning dependencies of target logfilesenders
+[ 59%] Linking CXX executable vrpn_LamportClock
+[ 60%] Building CXX object client_src/CMakeFiles/logfilesenders.dir/logfilesenders.C.o
+[ 60%] Linking CXX executable c_interface_example
+[ 60%] Built target vrpn_LamportClock
+Scanning dependencies of target testimager_client
+[ 60%] Built target printcereal
+[ 60%] Building CXX object client_src/CMakeFiles/testimager_client.dir/testimager_client.C.o
+Scanning dependencies of target tracker_to_poser
+[ 60%] Building CXX object client_src/CMakeFiles/tracker_to_poser.dir/tracker_to_poser.cpp.o
+[ 60%] Linking CXX executable text
+[ 60%] Built target c_interface_example
+Scanning dependencies of target vrpn_orientation
+[ 61%] Building CXX object client_src/CMakeFiles/vrpn_orientation.dir/vrpn_orientation.C.o
+[ 61%] Linking CXX executable logfilesenders
+[ 62%] Linking CXX executable test_imager
+[ 63%] Linking CXX executable clock_drift_estimator
+[ 63%] Built target logfilesenders
+[ 63%] Built target text
+Scanning dependencies of target vrpn_average_analogs
+Scanning dependencies of target vrpn_print_devices
+[ 63%] Building CXX object client_src/CMakeFiles/vrpn_average_analogs.dir/vrpn_average_analogs.C.o
+[ 63%] Building CXX object client_src/CMakeFiles/vrpn_print_devices.dir/vrpn_print_devices.C.o
+[ 63%] Built target test_imager
+[ 64%] Linking CXX executable tracker_to_poser
+Scanning dependencies of target vrpn_streamPrint
+[ 65%] Building CXX object util/printStream/CMakeFiles/vrpn_streamPrint.dir/vrpn_streamPrint.cpp.o
+[ 65%] Built target clock_drift_estimator
+[ 65%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Imager_Stream_Buffer.C.o
+[ 65%] Built target tracker_to_poser
+[ 65%] Linking CXX executable testimager_client
+[ 66%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_ImmersionBox.C.o
+[ 66%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_inertiamouse.C.o
+[ 66%] Linking CXX executable vrpn_streamPrint
+[ 66%] Linking CXX executable vrpn_average_analogs
+[ 66%] Built target testimager_client
+[ 66%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_JoyFly.C.o
+[ 67%] Linking CXX executable vrpn_print_devices
+[ 67%] Built target vrpn_streamPrint
+[ 67%] Built target vrpn_average_analogs
+[ 68%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Joywin32.C.o
+[ 68%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Joylin.C.o
+[ 69%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Keyboard.C.o
+[ 69%] Built target vrpn_print_devices
+[ 69%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Laputa.C.o
+[ 69%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_LUDL.C.o
+[ 70%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Logitech_Controller_Raw.C.o
+[ 70%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Magellan.C.o
+[ 70%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Microsoft_Controller_Raw.C.o
+[ 70%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_NationalInstruments.C.o
+[ 71%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Mouse.C.o
+[ 72%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Nidaq.C.o
+[ 72%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_nikon_controls.C.o
+[ 72%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_nVidia_shield_controller.C.o
+[ 72%] Linking CXX executable vrpn_orientation
+[ 73%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Oculus.C.o
+[ 73%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_OzzMaker.C.o
+[ 73%] Built target vrpn_orientation
+[ 74%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_OmegaTemperature.C.o
+[ 74%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Poser_Analog.C.o
+[ 74%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Poser_Tek4662.C.o
+[ 75%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_raw_sgibox.C.o
+[ 75%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Retrolink.C.o
+[ 76%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Saitek_Controller_Raw.C.o
+[ 76%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_sgibox.C.o
+[ 76%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Spaceball.C.o
+[ 77%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Streaming_Arduino.C.o
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Poser_Tek4662.C: In member function ‘void vrpn_Poser_Tek4662::reset()’:
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Poser_Tek4662.C:180:51: warning: ‘strlen’ argument missing terminating nul [-Wstringop-overflow=]
+  180 |   vrpn_write_characters( d_serial_fd, GIN, strlen((const char*)GIN) );
+      |                                                   ^~~~~~~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Poser_Tek4662.C:42:21: note: referenced argument declared here
+   42 | const unsigned char GIN[] = { ESC, DEVICE, 'M' };
+      |                     ^~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Poser_Tek4662.C: In member function ‘void vrpn_Poser_Tek4662::run()’:
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Poser_Tek4662.C:256:52: warning: ‘strlen’ argument missing terminating nul [-Wstringop-overflow=]
+  256 |     vrpn_write_characters(d_serial_fd, GIN, strlen((const char*)GIN) );
+      |                                                    ^~~~~~~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Poser_Tek4662.C:42:21: note: referenced argument declared here
+   42 | const unsigned char GIN[] = { ESC, DEVICE, 'M' };
+      |                     ^~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Poser_Tek4662.C:341:54: warning: ‘strlen’ argument missing terminating nul [-Wstringop-overflow=]
+  341 |       vrpn_write_characters(d_serial_fd, GIN, strlen((const char*)GIN) );
+      |                                                      ^~~~~~~~~~~~~~~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Poser_Tek4662.C:42:21: note: referenced argument declared here
+   42 | const unsigned char GIN[] = { ESC, DEVICE, 'M' };
+      |                     ^~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Poser_Tek4662.C: In member function ‘void vrpn_Poser_Tek4662::reset()’:
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Poser_Tek4662.C:180:64: warning: ‘strlen’ argument missing terminating nul [-Wstringop-overflow=]
+  180 |   vrpn_write_characters( d_serial_fd, GIN, strlen((const char*)GIN) );
+      |                                                                ^~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Poser_Tek4662.C:42:21: note: referenced argument declared here
+   42 | const unsigned char GIN[] = { ESC, DEVICE, 'M' };
+      |                     ^~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Poser_Tek4662.C: In member function ‘void vrpn_Poser_Tek4662::run()’:
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Poser_Tek4662.C:256:65: warning: ‘strlen’ argument missing terminating nul [-Wstringop-overflow=]
+  256 |     vrpn_write_characters(d_serial_fd, GIN, strlen((const char*)GIN) );
+      |                                                                 ^~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Poser_Tek4662.C:42:21: note: referenced argument declared here
+   42 | const unsigned char GIN[] = { ESC, DEVICE, 'M' };
+      |                     ^~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Poser_Tek4662.C:341:67: warning: ‘strlen’ argument missing terminating nul [-Wstringop-overflow=]
+  341 |       vrpn_write_characters(d_serial_fd, GIN, strlen((const char*)GIN) );
+      |                                                                   ^~~
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Poser_Tek4662.C:42:21: note: referenced argument declared here
+   42 | const unsigned char GIN[] = { ESC, DEVICE, 'M' };
+      |                     ^~~
+[ 77%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Tng3.C.o
+[ 77%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Tracker_3DMouse.C.o
+[ 78%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Tracker_AnalogFly.C.o
+[ 78%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Tracker_ButtonFly.C.o
+[ 79%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Tracker_Crossbow.C.o
+[ 79%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Tracker_DTrack.C.o
+[ 79%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Tracker_Fastrak.C.o
+[ 80%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Tracker_Filter.C.o
+[ 80%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Tracker_GameTrak.C.o
+[ 81%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Tracker_GPS.C.o
+[ 81%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Tracker_IMU.C.o
+[ 81%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Tracker_isense.C.o
+[ 82%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Tracker_Isotrak.C.o
+[ 82%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Tracker_JsonNet.C.o
+[ 82%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Tracker_Liberty.C.o
+[ 83%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Tracker_MotionNode.C.o
+[ 83%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Tracker_NDI_Polaris.C.o
+[ 84%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Tracker_NovintFalcon.C.o
+[ 84%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Tracker_OSVRHackerDevKit.C.o
+[ 84%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Tracker_PDI.C.o
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Tracker_JsonNet.C: In member function ‘bool vrpn_Tracker_JsonNet::_parse(const char*, int)’:
+/root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Tracker_JsonNet.C:135:47: warning: ‘std::string Json::Reader::getFormatedErrorMessages() const’ is deprecated: Use getFormattedErrorMessages() instead. [-Wdeprecated-declarations]
+  135 |        _pJsonReader->getFormatedErrorMessages().c_str());
+      |                                               ^
+In file included from /usr/include/jsoncpp/json/json.h:11,
+                 from /root/uav_ws/build/vrpn_catkin/vrpn_src-prefix/src/vrpn_src/vrpn_Tracker_JsonNet.C:19:
+/usr/include/jsoncpp/json/reader.h:114:18: note: declared here
+  114 |   JSONCPP_STRING getFormatedErrorMessages() const;
+      |                  ^~~~~~~~~~~~~~~~~~~~~~~~
+[ 85%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Tracker_PhaseSpace.C.o
+[ 85%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Tracker_RazerHydra.C.o
+[ 86%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Tracker_ThalmicLabsMyo.C.o
+[ 86%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Tracker_SpacePoint.C.o
+[ 86%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Tracker_Wintracker.C.o
+[ 87%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Tracker_Colibri.C.o
+[ 87%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Tracker_TrivisioColibri.C.o
+[ 87%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Tracker_WiimoteHead.C.o
+[ 88%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Tracker_zSight.C.o
+[ 88%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Tracker_ViewPoint.C.o
+[ 89%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_UNC_Joystick.C.o
+[ 89%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_VPJoystick.C.o
+[ 89%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Wanda.C.o
+[ 90%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_WiiMote.C.o
+[ 90%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_XInputGamepad.C.o
+[ 91%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Xkeys.C.o
+[ 91%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Tracker_LibertyHS.C.o
+[ 91%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_YEI_3Space.C.o
+[ 92%] Building CXX object CMakeFiles/vrpnserver.dir/vrpn_Zaber.C.o
+[ 92%] Building CXX object CMakeFiles/vrpnserver.dir/server_src/vrpn_Generic_server_object.C.o
+[ 93%] Linking CXX static library libvrpnserver.a
+[ 93%] Built target vrpnserver
+Scanning dependencies of target time_test
+Scanning dependencies of target vrpn-python
+[ 94%] Building CXX object CMakeFiles/time_test.dir/time_test.cpp.o
+[ 95%] Building CXX object python/CMakeFiles/vrpn-python.dir/Device.cpp.o
+[ 95%] Building CXX object python/CMakeFiles/vrpn-python.dir/Connection.cpp.o
+[ 96%] Building CXX object python/CMakeFiles/vrpn-python.dir/quaternion/quaternion.cpp.o
+[ 96%] Building CXX object python/CMakeFiles/vrpn-python.dir/interface.cpp.o
+[ 96%] Building CXX object python/CMakeFiles/vrpn-python.dir/Base.cpp.o
+[ 97%] Building CXX object python/CMakeFiles/vrpn-python.dir/receiver/Analog.cpp.o
+[ 97%] Building CXX object python/CMakeFiles/vrpn-python.dir/callback.cpp.o
+[ 97%] Linking CXX executable time_test
+[ 97%] Built target time_test
+[ 97%] Building CXX object python/CMakeFiles/vrpn-python.dir/receiver/Button.cpp.o
+[ 97%] Building CXX object python/CMakeFiles/vrpn-python.dir/receiver/Dial.cpp.o
+[ 98%] Building CXX object python/CMakeFiles/vrpn-python.dir/receiver/Text_Receiver.cpp.o
+[ 98%] Building CXX object python/CMakeFiles/vrpn-python.dir/receiver/receiver.cpp.o
+[ 98%] Building CXX object python/CMakeFiles/vrpn-python.dir/receiver/Tracker.cpp.o
+[ 99%] Building CXX object python/CMakeFiles/vrpn-python.dir/sender/Poser.cpp.o
+[ 99%] Building CXX object python/CMakeFiles/vrpn-python.dir/sender/Text_Sender.cpp.o
+[100%] Building CXX object python/CMakeFiles/vrpn-python.dir/sender/sender.cpp.o
+[100%] Building CXX object python/CMakeFiles/vrpn-python.dir/tools.cpp.o
+[100%] Linking CXX shared module vrpn.so
+[100%] Built target vrpn-python
+[ 70%] Performing install step for 'vrpn_src'
+[ 80%] Completed 'vrpn_src'
+[ 80%] Built target vrpn_src
+Scanning dependencies of target vrpn_catkin
+[ 90%] Building CXX object CMakeFiles/vrpn_catkin.dir/src/dependency_tracker.cc.o
+[100%] Linking CXX shared library /root/uav_ws/devel/.private/vrpn_catkin/lib/libvrpn_catkin.so
+[100%] Built target vrpn_catkin

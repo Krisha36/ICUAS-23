@@ -1,0 +1,8 @@
+prefix=/root/uav_ws/devel/.private/velodyne_driver
+
+Name: velodyne_driver
+Description: Description of velodyne_driver
+Version: 1.7.0
+Cflags: -I/root/uav_ws/devel/.private/velodyne_driver/include -I/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_drivers/ros_packages/velodyne/velodyne_driver/include
+Libs: -L${prefix}/lib -lvelodyne_input
+Requires: diagnostic_updater dynamic_reconfigure nodelet roscpp tf velodyne_msgs

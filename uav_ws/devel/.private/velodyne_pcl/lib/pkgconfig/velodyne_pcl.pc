@@ -1,0 +1,8 @@
+prefix=/root/uav_ws/devel/.private/velodyne_pcl
+
+Name: velodyne_pcl
+Description: Description of velodyne_pcl
+Version: 1.7.0
+Cflags: -I/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_drivers/ros_packages/velodyne/velodyne_pcl/include
+Libs: -L${prefix}/lib 
+Requires: pcl_ros

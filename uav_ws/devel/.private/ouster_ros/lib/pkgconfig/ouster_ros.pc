@@ -1,0 +1,8 @@
+prefix=/root/uav_ws/devel/.private/ouster_ros
+
+Name: ouster_ros
+Description: Description of ouster_ros
+Version: 0.1.0
+Cflags: -I/root/uav_ws/devel/.private/ouster_ros/include -I/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_drivers/ros_packages/ouster_os0_driver/ouster_ros/include
+Libs: -L${prefix}/lib -louster_ros
+Requires: roscpp message_runtime pcl_ros std_msgs sensor_msgs geometry_msgs

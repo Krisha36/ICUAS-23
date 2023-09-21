@@ -1,0 +1,25 @@
+Scanning dependencies of target velodyne_pointcloud_gencfg
+Scanning dependencies of target velodyne_rawdata
+[  7%] Generating dynamic reconfigure files from cfg/TransformNode.cfg: /root/uav_ws/devel/.private/velodyne_pointcloud/include/velodyne_pointcloud/TransformNodeConfig.h /root/uav_ws/devel/.private/velodyne_pointcloud/lib/python3/dist-packages/velodyne_pointcloud/cfg/TransformNodeConfig.py
+[ 23%] Building CXX object src/lib/CMakeFiles/velodyne_rawdata.dir/calibration.cc.o
+[ 23%] Building CXX object src/lib/CMakeFiles/velodyne_rawdata.dir/rawdata.cc.o
+Generating reconfiguration files for TransformNode in velodyne_pointcloud
+Wrote header file in /root/uav_ws/devel/.private/velodyne_pointcloud/include/velodyne_pointcloud/TransformNodeConfig.h
+[ 23%] Built target velodyne_pointcloud_gencfg
+[ 30%] Linking CXX shared library /root/uav_ws/devel/.private/velodyne_pointcloud/lib/libvelodyne_rawdata.so
+[ 30%] Built target velodyne_rawdata
+Scanning dependencies of target data_containers
+[ 46%] Building CXX object src/conversions/CMakeFiles/data_containers.dir/pointcloudXYZIRT.cc.o
+[ 46%] Building CXX object src/conversions/CMakeFiles/data_containers.dir/organized_cloudXYZIRT.cc.o
+[ 53%] Linking CXX shared library /root/uav_ws/devel/.private/velodyne_pointcloud/lib/libdata_containers.so
+[ 53%] Built target data_containers
+Scanning dependencies of target transform_nodelet
+Scanning dependencies of target transform_node
+[ 84%] Building CXX object src/conversions/CMakeFiles/transform_node.dir/transform.cc.o
+[ 84%] Building CXX object src/conversions/CMakeFiles/transform_nodelet.dir/transform_nodelet.cc.o
+[ 84%] Building CXX object src/conversions/CMakeFiles/transform_node.dir/transform_node.cc.o
+[ 84%] Building CXX object src/conversions/CMakeFiles/transform_nodelet.dir/transform.cc.o
+[ 92%] Linking CXX shared library /root/uav_ws/devel/.private/velodyne_pointcloud/lib/libtransform_nodelet.so
+[ 92%] Built target transform_nodelet
+[100%] Linking CXX executable /root/uav_ws/devel/.private/velodyne_pointcloud/lib/velodyne_pointcloud/transform_node
+[100%] Built target transform_node

@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -O2 -g -DNDEBUG  -shared -Wl,-soname,libmpc_cvxgen.so -o /root/uav_ws/devel/.private/uav_ros_tracker/lib/libmpc_cvxgen.so CMakeFiles/mpc_cvxgen.dir/src/cvxgen/ldl.c.o CMakeFiles/mpc_cvxgen.dir/src/cvxgen/matrix_support.c.o CMakeFiles/mpc_cvxgen.dir/src/cvxgen/solver.c.o CMakeFiles/mpc_cvxgen.dir/src/cvxgen/util.c.o 

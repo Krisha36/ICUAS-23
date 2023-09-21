@@ -1,0 +1,8 @@
+prefix=/root/uav_ws/devel/.private/uav_ros_control
+
+Name: uav_ros_control
+Description: Description of uav_ros_control
+Version: 0.0.0
+Cflags: -I/root/uav_ws/devel/.private/uav_ros_control/include -I/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_control/include
+Libs: -L${prefix}/lib -luav_pid -luav_util
+Requires: uav_ros_msgs

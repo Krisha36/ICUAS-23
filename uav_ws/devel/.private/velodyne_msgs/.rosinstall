@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /root/uav_ws/devel/.private/velodyne_msgs/setup.sh

@@ -1,0 +1,8 @@
+prefix=/root/uav_ws/install
+
+Name: ros_vrpn_client
+Description: Description of ros_vrpn_client
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lvicon_estimator
+Requires: roscpp tf2_ros tf2_geometry_msgs tf2_eigen geometry_msgs nav_msgs vrpn_catkin cmake_modules message_runtime eigen_conversions glog_catkin

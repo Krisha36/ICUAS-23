@@ -1,0 +1,255 @@
+Scanning dependencies of target mavros_msgs_generate_messages_nodejs
+Scanning dependencies of target tf2_msgs_generate_messages_lisp
+Scanning dependencies of target trajectory_msgs_generate_messages_lisp
+Scanning dependencies of target trajectory_msgs_generate_messages_cpp
+Scanning dependencies of target tf2_msgs_generate_messages_nodejs
+Scanning dependencies of target nav_msgs_generate_messages_lisp
+Scanning dependencies of target actionlib_generate_messages_cpp
+Scanning dependencies of target nav_msgs_generate_messages_eus
+Scanning dependencies of target actionlib_generate_messages_nodejs
+Scanning dependencies of target actionlib_msgs_generate_messages_cpp
+Scanning dependencies of target nav_msgs_generate_messages_py
+Scanning dependencies of target nav_msgs_generate_messages_cpp
+Scanning dependencies of target sensor_msgs_generate_messages_py
+Scanning dependencies of target tf2_msgs_generate_messages_eus
+Scanning dependencies of target trajectory_msgs_generate_messages_nodejs
+Scanning dependencies of target sensor_msgs_generate_messages_nodejs
+[  0%] Built target trajectory_msgs_generate_messages_nodejs
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[  0%] Built target trajectory_msgs_generate_messages_lisp
+[  0%] Built target actionlib_generate_messages_cpp
+[  0%] Built target trajectory_msgs_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target mavros_msgs_generate_messages_nodejs
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_generate_messages_nodejs
+[  0%] Built target nav_msgs_generate_messages_py
+[  0%] Built target nav_msgs_generate_messages_lisp
+[  0%] Built target tf2_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target nav_msgs_generate_messages_eus
+[  0%] Built target nav_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_py
+Scanning dependencies of target tf2_msgs_generate_messages_cpp
+Scanning dependencies of target geographic_msgs_generate_messages_nodejs
+Scanning dependencies of target uav_ros_msgs_generate_messages_nodejs
+Scanning dependencies of target dynamic_reconfigure_generate_messages_lisp
+Scanning dependencies of target uav_ros_msgs_generate_messages_cpp
+Scanning dependencies of target uav_ros_msgs_generate_messages_eus
+Scanning dependencies of target std_msgs_generate_messages_nodejs
+Scanning dependencies of target std_msgs_generate_messages_py
+Scanning dependencies of target sensor_msgs_generate_messages_cpp
+Scanning dependencies of target nav_msgs_generate_messages_nodejs
+Scanning dependencies of target geometry_msgs_generate_messages_eus
+Scanning dependencies of target diagnostic_msgs_generate_messages_py
+Scanning dependencies of target std_msgs_generate_messages_cpp
+Scanning dependencies of target roscpp_generate_messages_lisp
+Scanning dependencies of target actionlib_generate_messages_lisp
+Scanning dependencies of target std_msgs_generate_messages_lisp
+[  0%] Built target dynamic_reconfigure_generate_messages_lisp
+[  0%] Built target uav_ros_msgs_generate_messages_nodejs
+[  0%] Built target uav_ros_msgs_generate_messages_cpp
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target nav_msgs_generate_messages_nodejs
+[  0%] Built target geographic_msgs_generate_messages_nodejs
+[  0%] Built target uav_ros_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target diagnostic_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target actionlib_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_lisp
+Scanning dependencies of target dynamic_reconfigure_generate_messages_py
+Scanning dependencies of target actionlib_msgs_generate_messages_eus
+Scanning dependencies of target rosgraph_msgs_generate_messages_lisp
+Scanning dependencies of target uav_ros_msgs_generate_messages_py
+Scanning dependencies of target diagnostic_msgs_generate_messages_cpp
+Scanning dependencies of target rosgraph_msgs_generate_messages_py
+Scanning dependencies of target roscpp_generate_messages_py
+Scanning dependencies of target trajectory_msgs_generate_messages_eus
+Scanning dependencies of target dynamic_reconfigure_gencfg
+Scanning dependencies of target sensor_msgs_generate_messages_lisp
+Scanning dependencies of target roscpp_generate_messages_cpp
+Scanning dependencies of target sensor_msgs_generate_messages_eus
+Scanning dependencies of target dynamic_reconfigure_generate_messages_cpp
+Scanning dependencies of target actionlib_msgs_generate_messages_py
+Scanning dependencies of target mavros_msgs_generate_messages_lisp
+Scanning dependencies of target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target dynamic_reconfigure_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target trajectory_msgs_generate_messages_eus
+[  0%] Built target uav_ros_msgs_generate_messages_py
+[  0%] Built target dynamic_reconfigure_gencfg
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target diagnostic_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target dynamic_reconfigure_generate_messages_cpp
+[  0%] Built target mavros_msgs_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+Scanning dependencies of target actionlib_msgs_generate_messages_lisp
+Scanning dependencies of target std_msgs_generate_messages_eus
+Scanning dependencies of target mavros_msgs_generate_messages_py
+Scanning dependencies of target uuid_msgs_generate_messages_cpp
+Scanning dependencies of target roscpp_generate_messages_eus
+Scanning dependencies of target uuid_msgs_generate_messages_eus
+Scanning dependencies of target roscpp_generate_messages_nodejs
+Scanning dependencies of target trajectory_msgs_generate_messages_py
+Scanning dependencies of target rosgraph_msgs_generate_messages_cpp
+Scanning dependencies of target actionlib_generate_messages_eus
+Scanning dependencies of target geographic_msgs_generate_messages_lisp
+Scanning dependencies of target rosgraph_msgs_generate_messages_eus
+Scanning dependencies of target diagnostic_msgs_generate_messages_eus
+Scanning dependencies of target uav_ros_lib_gencfg
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+Scanning dependencies of target uav_ros_msgs_generate_messages_lisp
+[  0%] Built target uuid_msgs_generate_messages_cpp
+Scanning dependencies of target actionlib_generate_messages_py
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target mavros_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target uuid_msgs_generate_messages_eus
+[  0%] Built target trajectory_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target actionlib_generate_messages_eus
+[  0%] Built target geographic_msgs_generate_messages_lisp
+Scanning dependencies of target diagnostic_msgs_generate_messages_lisp
+Scanning dependencies of target uuid_msgs_generate_messages_lisp
+[  0%] Built target uav_ros_lib_gencfg
+[  0%] Built target uav_ros_msgs_generate_messages_lisp
+[  0%] Built target diagnostic_msgs_generate_messages_eus
+Scanning dependencies of target diagnostic_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_generate_messages_py
+Scanning dependencies of target mavros_msgs_generate_messages_eus
+Scanning dependencies of target geometry_msgs_generate_messages_lisp
+Scanning dependencies of target dynamic_reconfigure_generate_messages_eus
+Scanning dependencies of target geometry_msgs_generate_messages_cpp
+Scanning dependencies of target geometry_msgs_generate_messages_py
+Scanning dependencies of target geometry_msgs_generate_messages_nodejs
+Scanning dependencies of target geographic_msgs_generate_messages_cpp
+Scanning dependencies of target rosgraph_msgs_generate_messages_nodejs
+Scanning dependencies of target geographic_msgs_generate_messages_py
+Scanning dependencies of target geographic_msgs_generate_messages_eus
+[  0%] Built target uuid_msgs_generate_messages_lisp
+[  0%] Built target diagnostic_msgs_generate_messages_lisp
+Scanning dependencies of target uuid_msgs_generate_messages_nodejs
+[  0%] Built target diagnostic_msgs_generate_messages_nodejs
+[  0%] Built target mavros_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_cpp
+Scanning dependencies of target uuid_msgs_generate_messages_py
+[  0%] Built target dynamic_reconfigure_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_lisp
+Scanning dependencies of target tf2_msgs_generate_messages_py
+[  0%] Built target geographic_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target geographic_msgs_generate_messages_eus
+[  0%] Built target geographic_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+Scanning dependencies of target dynamic_reconfigure_generate_messages_nodejs
+Scanning dependencies of target mavros_msgs_generate_messages_cpp
+Scanning dependencies of target control_manager
+[  0%] Built target uuid_msgs_generate_messages_nodejs
+Scanning dependencies of target uav_pid
+Scanning dependencies of target uav_util
+Scanning dependencies of target control_mpc_cvxgen
+[  0%] Built target uuid_msgs_generate_messages_py
+Scanning dependencies of target uav_ros_control_gencfg
+[  0%] Built target tf2_msgs_generate_messages_py
+[  0%] Built target dynamic_reconfigure_generate_messages_nodejs
+[  0%] Built target mavros_msgs_generate_messages_cpp
+[  1%] Generating dynamic reconfigure files from config/control/PositionControlParameters.cfg: /root/uav_ws/devel/.private/uav_ros_control/include/uav_ros_control/PositionControlParametersConfig.h /root/uav_ws/devel/.private/uav_ros_control/lib/python3/dist-packages/uav_ros_control/cfg/PositionControlParametersConfig.py
+[  3%] Generating dynamic reconfigure files from config/control/DistanceControlParameters.cfg: /root/uav_ws/devel/.private/uav_ros_control/include/uav_ros_control/DistanceControlParametersConfig.h /root/uav_ws/devel/.private/uav_ros_control/lib/python3/dist-packages/uav_ros_control/cfg/DistanceControlParametersConfig.py
+[  5%] Building C object CMakeFiles/control_mpc_cvxgen.dir/src/control/cvxgen/ldl.c.o
+[  7%] Building C object CMakeFiles/control_mpc_cvxgen.dir/src/control/cvxgen/util.c.o
+[ 11%] Building C object CMakeFiles/control_mpc_cvxgen.dir/src/control/cvxgen/solver.c.o
+[ 11%] Building C object CMakeFiles/control_mpc_cvxgen.dir/src/control/cvxgen/matrix_support.c.o
+Scanning dependencies of target uav_manager_nodelet
+[ 13%] Building CXX object CMakeFiles/uav_pid.dir/src/control/PID.cpp.o
+[ 15%] Building CXX object CMakeFiles/uav_util.dir/src/util/uav_util.cpp.o
+[ 16%] Building CXX object CMakeFiles/uav_util.dir/src/util/AutomaticTakeoff.cpp.o
+[ 18%] Building CXX object CMakeFiles/control_manager.dir/nodes/control/ControlManagerNode.cpp.o
+[ 20%] Building CXX object CMakeFiles/uav_manager_nodelet.dir/nodes/util/uav_manager.cpp.o
+Generating reconfiguration files for PositionControlParameters in uav_ros_control
+Generating reconfiguration files for DistanceControlParameters in uav_ros_control
+Wrote header file in /root/uav_ws/devel/.private/uav_ros_control/include/uav_ros_control/DistanceControlParametersConfig.h
+Wrote header file in /root/uav_ws/devel/.private/uav_ros_control/include/uav_ros_control/PositionControlParametersConfig.h
+[ 20%] Built target uav_ros_control_gencfg
+[ 22%] Linking CXX shared library /root/uav_ws/devel/.private/uav_ros_control/lib/libuav_pid.so
+[ 22%] Built target uav_pid
+Scanning dependencies of target pid_cascade_node_px4_yawrate
+Scanning dependencies of target reference_lib
+Scanning dependencies of target pid_cascade_node_px4
+Scanning dependencies of target distance_control_node
+Scanning dependencies of target pid_cascade_node
+Scanning dependencies of target pid_cascade_rotor_tilt
+Scanning dependencies of target pid_cascade_node_yawrate
+[ 26%] Building CXX object CMakeFiles/pid_cascade_node_px4_yawrate.dir/src/control/CascadePID.cpp.o
+[ 26%] Building CXX object CMakeFiles/pid_cascade_node_px4_yawrate.dir/nodes/control/PositionControlNode_px4_yawrate.cpp.o
+[ 28%] Building CXX object CMakeFiles/pid_cascade_node_px4_yawrate.dir/src/control/ControlBase.cpp.o
+[ 30%] Building CXX object CMakeFiles/pid_cascade_node_yawrate.dir/nodes/control/PositionControlNode_yawrate.cpp.o
+[ 33%] Building CXX object CMakeFiles/pid_cascade_node.dir/nodes/control/PositionControlNode.cpp.o
+[ 33%] Building CXX object CMakeFiles/pid_cascade_node_px4.dir/nodes/control/PositionControlNode_px4.cpp.o
+[ 37%] Building CXX object CMakeFiles/pid_cascade_rotor_tilt.dir/nodes/control/PositionControlNode_rotor_tilt.cpp.o
+[ 37%] Building CXX object CMakeFiles/pid_cascade_node_px4.dir/src/control/CascadePID.cpp.o
+[ 41%] Building CXX object CMakeFiles/distance_control_node.dir/nodes/control/DistanceControlNode.cpp.o
+[ 41%] Building CXX object CMakeFiles/pid_cascade_node_yawrate.dir/src/control/CascadePID.cpp.o
+[ 43%] Building CXX object CMakeFiles/reference_lib.dir/src/reference/CarrotReference.cpp.o
+[ 45%] Building CXX object CMakeFiles/pid_cascade_node_yawrate.dir/src/control/ControlBase.cpp.o
+[ 47%] Linking CXX shared library /root/uav_ws/devel/.private/uav_ros_control/lib/libuav_util.so
+[ 49%] Building CXX object CMakeFiles/pid_cascade_node_px4.dir/src/control/ControlBase.cpp.o
+[ 49%] Built target uav_util
+[ 50%] Building CXX object CMakeFiles/pid_cascade_rotor_tilt.dir/src/control/CascadePID.cpp.o
+[ 52%] Building CXX object CMakeFiles/pid_cascade_node.dir/src/control/CascadePID.cpp.o
+[ 54%] Building CXX object CMakeFiles/pid_cascade_rotor_tilt.dir/src/control/ControlBase.cpp.o
+[ 56%] Building CXX object CMakeFiles/distance_control_node.dir/src/control/CascadePID.cpp.o
+[ 58%] Building CXX object CMakeFiles/distance_control_node.dir/src/control/DistanceController.cpp.o
+[ 60%] Building CXX object CMakeFiles/distance_control_node.dir/src/control/ControlBase.cpp.o
+[ 62%] Building CXX object CMakeFiles/pid_cascade_node.dir/src/control/ControlBase.cpp.o
+[ 64%] Linking CXX shared library /root/uav_ws/devel/.private/uav_ros_control/lib/libuav_manager_nodelet.so
+[ 64%] Built target uav_manager_nodelet
+[ 66%] Building CXX object CMakeFiles/reference_lib.dir/src/reference/GeoFence.cpp.o
+[ 67%] Building CXX object CMakeFiles/reference_lib.dir/src/reference/JoyControlInput.cpp.o
+[ 69%] Linking CXX executable /root/uav_ws/devel/.private/uav_ros_control/lib/uav_ros_control/control_manager
+[ 69%] Built target control_manager
+[ 71%] Linking CXX shared library /root/uav_ws/devel/.private/uav_ros_control/lib/libreference_lib.so
+[ 71%] Built target reference_lib
+Scanning dependencies of target geo_fence_node
+Scanning dependencies of target carrot_reference_node
+[ 73%] Building CXX object CMakeFiles/carrot_reference_node.dir/nodes/reference/CarrotReferenceNode.cpp.o
+[ 75%] Building CXX object CMakeFiles/geo_fence_node.dir/nodes/reference/GeoFenceNode.cpp.o
+[ 77%] Linking CXX executable /root/uav_ws/devel/.private/uav_ros_control/lib/uav_ros_control/pid_cascade_node_yawrate
+[ 77%] Built target pid_cascade_node_yawrate
+[ 79%] Linking CXX executable /root/uav_ws/devel/.private/uav_ros_control/lib/uav_ros_control/pid_cascade_node_px4
+[ 79%] Built target pid_cascade_node_px4
+[ 81%] Linking CXX executable /root/uav_ws/devel/.private/uav_ros_control/lib/uav_ros_control/carrot_reference_node
+[ 81%] Built target carrot_reference_node
+[ 83%] Linking CXX executable /root/uav_ws/devel/.private/uav_ros_control/lib/uav_ros_control/pid_cascade_node_px4_yawrate
+[ 83%] Built target pid_cascade_node_px4_yawrate
+[ 84%] Linking CXX executable /root/uav_ws/devel/.private/uav_ros_control/lib/uav_ros_control/geo_fence_node
+[ 84%] Built target geo_fence_node
+[ 86%] Linking CXX executable /root/uav_ws/devel/.private/uav_ros_control/lib/uav_ros_control/distance_control_node
+[ 88%] Linking CXX executable /root/uav_ws/devel/.private/uav_ros_control/lib/uav_ros_control/pid_cascade_rotor_tilt
+[ 88%] Built target distance_control_node
+[ 88%] Built target pid_cascade_rotor_tilt
+[ 90%] Linking CXX executable /root/uav_ws/devel/.private/uav_ros_control/lib/uav_ros_control/pid_cascade_node
+[ 90%] Built target pid_cascade_node
+[ 92%] Linking C shared library /root/uav_ws/devel/.private/uav_ros_control/lib/libcontrol_mpc_cvxgen.so
+[ 92%] Built target control_mpc_cvxgen
+Scanning dependencies of target control_cvx_wrapper
+[ 94%] Building CXX object CMakeFiles/control_cvx_wrapper.dir/src/control/cvx_wrapper.cpp.o
+[ 96%] Linking CXX shared library /root/uav_ws/devel/.private/uav_ros_control/lib/libcontrol_cvx_wrapper.so
+[ 96%] Built target control_cvx_wrapper
+Scanning dependencies of target uav_mpc
+[ 98%] Building CXX object CMakeFiles/uav_mpc.dir/src/control/ModelPredictiveControl.cpp.o
+[100%] Linking CXX shared library /root/uav_ws/devel/.private/uav_ros_control/lib/libuav_mpc.so
+[100%] Built target uav_mpc

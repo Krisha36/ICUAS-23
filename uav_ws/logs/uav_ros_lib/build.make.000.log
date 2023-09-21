@@ -1,0 +1,208 @@
+Scanning dependencies of target nav_msgs_generate_messages_lisp
+Scanning dependencies of target trajectory_msgs_generate_messages_lisp
+Scanning dependencies of target tf2_msgs_generate_messages_nodejs
+Scanning dependencies of target trajectory_msgs_generate_messages_cpp
+Scanning dependencies of target actionlib_generate_messages_nodejs
+Scanning dependencies of target tf2_msgs_generate_messages_lisp
+Scanning dependencies of target nav_msgs_generate_messages_eus
+Scanning dependencies of target actionlib_generate_messages_py
+Scanning dependencies of target nav_msgs_generate_messages_py
+Scanning dependencies of target actionlib_generate_messages_cpp
+Scanning dependencies of target actionlib_msgs_generate_messages_cpp
+Scanning dependencies of target diagnostic_msgs_generate_messages_lisp
+Scanning dependencies of target actionlib_msgs_generate_messages_eus
+Scanning dependencies of target trajectory_msgs_generate_messages_nodejs
+Scanning dependencies of target std_msgs_generate_messages_cpp
+Scanning dependencies of target dynamic_reconfigure_gencfg
+[  0%] Built target trajectory_msgs_generate_messages_lisp
+[  0%] Built target nav_msgs_generate_messages_lisp
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[  0%] Built target actionlib_generate_messages_nodejs
+[  0%] Built target trajectory_msgs_generate_messages_cpp
+[  0%] Built target nav_msgs_generate_messages_eus
+[  0%] Built target trajectory_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target actionlib_generate_messages_py
+[  0%] Built target nav_msgs_generate_messages_py
+[  0%] Built target actionlib_generate_messages_cpp
+[  0%] Built target diagnostic_msgs_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target dynamic_reconfigure_gencfg
+[  0%] Built target std_msgs_generate_messages_cpp
+Scanning dependencies of target dynamic_reconfigure_generate_messages_py
+Scanning dependencies of target tf2_msgs_generate_messages_cpp
+Scanning dependencies of target std_msgs_generate_messages_lisp
+Scanning dependencies of target dynamic_reconfigure_generate_messages_lisp
+Scanning dependencies of target geographic_msgs_generate_messages_nodejs
+Scanning dependencies of target std_msgs_generate_messages_nodejs
+Scanning dependencies of target diagnostic_msgs_generate_messages_eus
+Scanning dependencies of target sensor_msgs_generate_messages_cpp
+Scanning dependencies of target nav_msgs_generate_messages_nodejs
+Scanning dependencies of target std_msgs_generate_messages_py
+Scanning dependencies of target geometry_msgs_generate_messages_eus
+Scanning dependencies of target actionlib_generate_messages_lisp
+Scanning dependencies of target diagnostic_msgs_generate_messages_py
+Scanning dependencies of target rosgraph_msgs_generate_messages_lisp
+Scanning dependencies of target roscpp_generate_messages_lisp
+Scanning dependencies of target diagnostic_msgs_generate_messages_cpp
+[  0%] Built target dynamic_reconfigure_generate_messages_py
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[  0%] Built target geographic_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target dynamic_reconfigure_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target diagnostic_msgs_generate_messages_eus
+[  0%] Built target nav_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target diagnostic_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target actionlib_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target diagnostic_msgs_generate_messages_cpp
+Scanning dependencies of target rosgraph_msgs_generate_messages_py
+Scanning dependencies of target trajectory_msgs_generate_messages_eus
+Scanning dependencies of target roscpp_generate_messages_py
+Scanning dependencies of target dynamic_reconfigure_generate_messages_cpp
+Scanning dependencies of target actionlib_msgs_generate_messages_py
+Scanning dependencies of target roscpp_generate_messages_cpp
+Scanning dependencies of target actionlib_msgs_generate_messages_lisp
+Scanning dependencies of target std_msgs_generate_messages_eus
+Scanning dependencies of target mavros_msgs_generate_messages_lisp
+Scanning dependencies of target roscpp_generate_messages_eus
+Scanning dependencies of target uuid_msgs_generate_messages_cpp
+Scanning dependencies of target uuid_msgs_generate_messages_eus
+Scanning dependencies of target actionlib_msgs_generate_messages_nodejs
+Scanning dependencies of target mavros_msgs_generate_messages_py
+Scanning dependencies of target roscpp_generate_messages_nodejs
+Scanning dependencies of target uav_ros_lib_gencfg
+[  0%] Built target trajectory_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target dynamic_reconfigure_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  4%] Built target mavros_msgs_generate_messages_py
+[  4%] Built target std_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_eus
+[  4%] Built target roscpp_generate_messages_nodejs
+[  4%] Built target actionlib_msgs_generate_messages_nodejs
+[  4%] Built target mavros_msgs_generate_messages_lisp
+[  4%] Built target uuid_msgs_generate_messages_eus
+[  4%] Built target uuid_msgs_generate_messages_cpp
+[  4%] Generating dynamic reconfigure files from cfg/ConstantVelocityLKFParameters.cfg: /root/uav_ws/devel/.private/uav_ros_lib/include/uav_ros_lib/ConstantVelocityLKFParametersConfig.h /root/uav_ws/devel/.private/uav_ros_lib/lib/python3/dist-packages/uav_ros_lib/cfg/ConstantVelocityLKFParametersConfig.py
+[  8%] Generating dynamic reconfigure files from cfg/ConstantAccelerationLKFParameters.cfg: /root/uav_ws/devel/.private/uav_ros_lib/include/uav_ros_lib/ConstantAccelerationLKFParametersConfig.h /root/uav_ws/devel/.private/uav_ros_lib/lib/python3/dist-packages/uav_ros_lib/cfg/ConstantAccelerationLKFParametersConfig.py
+Scanning dependencies of target trajectory_msgs_generate_messages_py
+[ 12%] Generating dynamic reconfigure files from cfg/ConstantAccelerationUKFParameters.cfg: /root/uav_ws/devel/.private/uav_ros_lib/include/uav_ros_lib/ConstantAccelerationUKFParametersConfig.h /root/uav_ws/devel/.private/uav_ros_lib/lib/python3/dist-packages/uav_ros_lib/cfg/ConstantAccelerationUKFParametersConfig.py
+Scanning dependencies of target rosgraph_msgs_generate_messages_cpp
+Scanning dependencies of target actionlib_generate_messages_eus
+Scanning dependencies of target rosgraph_msgs_generate_messages_eus
+Scanning dependencies of target geographic_msgs_generate_messages_lisp
+Scanning dependencies of target mavros_msgs_generate_messages_eus
+Scanning dependencies of target geometry_msgs_generate_messages_cpp
+Scanning dependencies of target nav_msgs_generate_messages_cpp
+Scanning dependencies of target uuid_msgs_generate_messages_lisp
+Scanning dependencies of target diagnostic_msgs_generate_messages_nodejs
+Scanning dependencies of target dynamic_reconfigure_generate_messages_eus
+Scanning dependencies of target geometry_msgs_generate_messages_lisp
+[ 12%] Built target trajectory_msgs_generate_messages_py
+Scanning dependencies of target geometry_msgs_generate_messages_nodejs
+[ 12%] Built target actionlib_generate_messages_eus
+[ 12%] Built target rosgraph_msgs_generate_messages_cpp
+[ 12%] Built target geographic_msgs_generate_messages_lisp
+[ 12%] Built target rosgraph_msgs_generate_messages_eus
+[ 12%] Built target mavros_msgs_generate_messages_eus
+[ 12%] Built target uuid_msgs_generate_messages_lisp
+[ 12%] Built target nav_msgs_generate_messages_cpp
+[ 12%] Built target geometry_msgs_generate_messages_cpp
+[ 12%] Built target diagnostic_msgs_generate_messages_nodejs
+[ 12%] Built target geometry_msgs_generate_messages_lisp
+[ 12%] Built target dynamic_reconfigure_generate_messages_eus
+[ 12%] Built target geometry_msgs_generate_messages_nodejs
+Scanning dependencies of target geometry_msgs_generate_messages_py
+Scanning dependencies of target sensor_msgs_generate_messages_py
+Scanning dependencies of target tf2_msgs_generate_messages_eus
+Scanning dependencies of target geographic_msgs_generate_messages_cpp
+Scanning dependencies of target rosgraph_msgs_generate_messages_nodejs
+Scanning dependencies of target geographic_msgs_generate_messages_py
+Scanning dependencies of target geographic_msgs_generate_messages_eus
+Scanning dependencies of target uuid_msgs_generate_messages_py
+Scanning dependencies of target uuid_msgs_generate_messages_nodejs
+Scanning dependencies of target sensor_msgs_generate_messages_eus
+Scanning dependencies of target sensor_msgs_generate_messages_lisp
+[ 12%] Built target geometry_msgs_generate_messages_py
+Scanning dependencies of target tf2_msgs_generate_messages_py
+Scanning dependencies of target dynamic_reconfigure_generate_messages_nodejs
+[ 12%] Built target tf2_msgs_generate_messages_eus
+[ 12%] Built target sensor_msgs_generate_messages_py
+[ 12%] Built target geographic_msgs_generate_messages_cpp
+[ 12%] Built target uuid_msgs_generate_messages_nodejs
+[ 12%] Built target geographic_msgs_generate_messages_eus
+[ 12%] Built target geographic_msgs_generate_messages_py
+[ 12%] Built target rosgraph_msgs_generate_messages_nodejs
+[ 12%] Built target sensor_msgs_generate_messages_lisp
+[ 12%] Built target sensor_msgs_generate_messages_eus
+[ 12%] Built target uuid_msgs_generate_messages_py
+[ 12%] Built target tf2_msgs_generate_messages_py
+[ 12%] Built target dynamic_reconfigure_generate_messages_nodejs
+Scanning dependencies of target mavros_msgs_generate_messages_nodejs
+Scanning dependencies of target mavros_msgs_generate_messages_cpp
+Scanning dependencies of target sensor_msgs_generate_messages_nodejs
+Scanning dependencies of target dkf_vanilla
+Scanning dependencies of target ros_convert
+Scanning dependencies of target param_util
+Scanning dependencies of target nfilt
+Scanning dependencies of target global_to_local
+[ 12%] Built target mavros_msgs_generate_messages_nodejs
+[ 12%] Built target mavros_msgs_generate_messages_cpp
+[ 12%] Built target sensor_msgs_generate_messages_nodejs
+[ 16%] Building CXX object CMakeFiles/dkf_vanilla.dir/src/kalman_filter_vanilla.cpp.o
+[ 20%] Building CXX object CMakeFiles/nfilt.dir/src/nonlinear_filters.cpp.o
+Generating reconfiguration files for ConstantVelocityLKFParameters in uav_ros_lib
+Generating reconfiguration files for ConstantAccelerationLKFParameters in uav_ros_lib
+Wrote header file in /root/uav_ws/devel/.private/uav_ros_lib/include/uav_ros_lib/ConstantVelocityLKFParametersConfig.h
+Wrote header file in /root/uav_ws/devel/.private/uav_ros_lib/include/uav_ros_lib/ConstantAccelerationLKFParametersConfig.h
+Generating reconfiguration files for ConstantAccelerationUKFParameters in uav_ros_lib
+Wrote header file in /root/uav_ws/devel/.private/uav_ros_lib/include/uav_ros_lib/ConstantAccelerationUKFParametersConfig.h
+[ 25%] Building CXX object CMakeFiles/param_util.dir/src/param_util.cpp.o
+[ 29%] Building CXX object CMakeFiles/ros_convert.dir/src/ros_convert.cpp.o
+[ 29%] Built target uav_ros_lib_gencfg
+[ 33%] Building CXX object CMakeFiles/global_to_local.dir/src/global_to_local.cpp.o
+[ 37%] Building CXX object CMakeFiles/ros_convert.dir/src/attitude_converter.cpp.o
+Scanning dependencies of target constant_acceleration_ukf
+Scanning dependencies of target constant_velocity_lkf
+Scanning dependencies of target constant_acceleration_lkf
+[ 41%] Building CXX object CMakeFiles/constant_acceleration_ukf.dir/src/constant_acceleration_ukf.cpp.o
+[ 45%] Building CXX object CMakeFiles/constant_acceleration_lkf.dir/src/constant_acceleration_lkf.cpp.o
+[ 50%] Building CXX object CMakeFiles/constant_velocity_lkf.dir/src/constant_velocity_lkf.cpp.o
+[ 54%] Linking CXX shared library /root/uav_ws/devel/.private/uav_ros_lib/lib/libdkf_vanilla.so
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/src/nonlinear_filters.cpp: In function ‘double nonlinear_filters::deadzone(double, double, double)’:
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_lib/src/nonlinear_filters.cpp:24:1: warning: control reaches end of non-void function [-Wreturn-type]
+   24 | }
+      | ^
+[ 54%] Built target dkf_vanilla
+[ 58%] Linking CXX shared library /root/uav_ws/devel/.private/uav_ros_lib/lib/libnfilt.so
+[ 58%] Built target nfilt
+[ 62%] Linking CXX shared library /root/uav_ws/devel/.private/uav_ros_lib/lib/libparam_util.so
+[ 62%] Built target param_util
+[ 66%] Linking CXX shared library /root/uav_ws/devel/.private/uav_ros_lib/lib/libglobal_to_local.so
+[ 66%] Built target global_to_local
+[ 70%] Linking CXX shared library /root/uav_ws/devel/.private/uav_ros_lib/lib/libconstant_velocity_lkf.so
+[ 70%] Built target constant_velocity_lkf
+[ 75%] Linking CXX shared library /root/uav_ws/devel/.private/uav_ros_lib/lib/libconstant_acceleration_lkf.so
+[ 75%] Built target constant_acceleration_lkf
+[ 79%] Linking CXX shared library /root/uav_ws/devel/.private/uav_ros_lib/lib/libros_convert.so
+[ 79%] Built target ros_convert
+Scanning dependencies of target attitude_converter_example
+Scanning dependencies of target trajectory_helper
+[ 83%] Building CXX object CMakeFiles/trajectory_helper.dir/src/trajectory_helper.cpp.o
+[ 87%] Building CXX object CMakeFiles/attitude_converter_example.dir/examples/attitude_converter_example.cpp.o
+[ 91%] Linking CXX shared library /root/uav_ws/devel/.private/uav_ros_lib/lib/libconstant_acceleration_ukf.so
+[ 95%] Linking CXX shared library /root/uav_ws/devel/.private/uav_ros_lib/lib/libtrajectory_helper.so
+[ 95%] Built target trajectory_helper
+[ 95%] Built target constant_acceleration_ukf
+[100%] Linking CXX executable /root/uav_ws/devel/.private/uav_ros_lib/lib/uav_ros_lib/attitude_converter_example
+[100%] Built target attitude_converter_example

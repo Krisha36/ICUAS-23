@@ -1,0 +1,5 @@
+Gazebo version: 11.11
+WARNING: Target "ArduCopterPlugin" requests linking to directory "/root/uav_ws/build/ardupilot_gazebo".  Targets may link only to libraries.  CMake is dropping the item.
+WARNING: Target "ArduPilotPlugin" requests linking to directory "/root/uav_ws/build/ardupilot_gazebo".  Targets may link only to libraries.  CMake is dropping the item.
+WARNING: Target "GazeboGimbalPlugin" requests linking to directory "/root/uav_ws/build/ardupilot_gazebo".  Targets may link only to libraries.  CMake is dropping the item.
+WARNING: Target "ArduCopterIRLockPlugin" requests linking to directory "/root/uav_ws/build/ardupilot_gazebo".  Targets may link only to libraries.  CMake is dropping the item.

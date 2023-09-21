@@ -1,0 +1,8 @@
+prefix=/root/uav_ws/devel/.private/ouster_client
+
+Name: ouster_client
+Description: Description of ouster_client
+Version: 0.1.0
+Cflags: -I/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_drivers/ros_packages/ouster_os0_driver/ouster_client/include
+Libs: -L${prefix}/lib -louster_client
+Requires: 

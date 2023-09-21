@@ -1,0 +1,20 @@
+\subsubsection usage Usage
+\verbatim
+<node name="uav_ros_tracker" pkg="uav_ros_tracker" type="uav_ros_tracker">
+  <param name="xy_velocity" type="double" value="0.0" />
+  <param name="xy_acceleration" type="double" value="0.0" />
+  <param name="xy_jerk" type="double" value="0.0" />
+  <param name="xy_snap" type="double" value="0.0" />
+  <param name="z_velocity" type="double" value="0.0" />
+  <param name="z_acceleration" type="double" value="0.0" />
+  <param name="z_jerk" type="double" value="0.0" />
+  <param name="z_snap" type="double" value="0.0" />
+  <param name="heading_velocity" type="double" value="0.0" />
+  <param name="heading_acceleration" type="double" value="0.0" />
+  <param name="heading_jerk" type="double" value="0.0" />
+  <param name="heading_snap" type="double" value="0.0" />
+  <param name="enable_breaking" type="bool" value="True" />
+  <param name="Q_vel_breaking" type="double" value="0.0" />
+</node>
+\endverbatim
+

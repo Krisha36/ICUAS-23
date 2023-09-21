@@ -1,0 +1,5 @@
+Symlinking /root/uav_ws/devel/lib/libuav_test_controller.so
+Symlinking /root/uav_ws/devel/lib/pkgconfig/uav_ros_tests.pc
+Symlinking /root/uav_ws/devel/lib/uav_ros_tests/uav_test_controller_node
+Symlinking /root/uav_ws/devel/share/uav_ros_tests/cmake/uav_ros_testsConfig-version.cmake
+Symlinking /root/uav_ws/devel/share/uav_ros_tests/cmake/uav_ros_testsConfig.cmake

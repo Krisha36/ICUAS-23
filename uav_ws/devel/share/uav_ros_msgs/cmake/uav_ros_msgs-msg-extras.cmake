@@ -1,0 +1,1 @@
+/root/uav_ws/devel/.private/uav_ros_msgs/share/uav_ros_msgs/cmake/uav_ros_msgs-msg-extras.cmake

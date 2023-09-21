@@ -1,0 +1,9 @@
+Symlinking /root/uav_ws/devel/lib/pkgconfig/uav_ros_general.pc
+Symlinking /root/uav_ws/devel/lib/uav_ros_general/velocity_estimation_node
+Symlinking /root/uav_ws/devel/lib/uav_ros_general/rc_override_node
+Symlinking /root/uav_ws/devel/lib/uav_ros_general/rc_to_joy_node
+Symlinking /root/uav_ws/devel/lib/uav_ros_general/kalman_const_acc_node
+Symlinking /root/uav_ws/devel/lib/uav_ros_general/kalman_const_acc_ukf_node
+Symlinking /root/uav_ws/devel/lib/uav_ros_general/map2transform
+Symlinking /root/uav_ws/devel/share/uav_ros_general/cmake/uav_ros_generalConfig.cmake
+Symlinking /root/uav_ws/devel/share/uav_ros_general/cmake/uav_ros_generalConfig-version.cmake

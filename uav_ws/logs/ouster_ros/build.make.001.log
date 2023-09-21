@@ -1,0 +1,29 @@
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target _ouster_ros_generate_messages_check_deps_OSConfigSrv
+[  0%] Built target _ouster_ros_generate_messages_check_deps_PacketMsg
+[ 17%] Built target ouster_ros_generate_messages_nodejs
+[ 21%] Built target ouster_ros_generate_messages_eus
+[ 39%] Built target ouster_ros_generate_messages_py
+[ 56%] Built target ouster_ros_generate_messages_lisp
+[ 56%] Built target ouster_ros_generate_messages_cpp
+[ 56%] Built target ouster_ros_gencpp
+[ 56%] Built target ouster_ros_generate_messages
+[ 65%] Built target ouster_ros
+[ 73%] Built target viz_node
+[100%] Built target os_cloud_node
+[100%] Built target img_node
+[100%] Built target os_node

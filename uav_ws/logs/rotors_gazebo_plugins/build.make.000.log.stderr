@@ -1,0 +1,20 @@
+In file included from /opt/ros/noetic/include/ros/assert.h:35,
+                 from /opt/ros/noetic/include/ros/common.h:36,
+                 from /opt/ros/noetic/include/ros/callback_queue_interface.h:39,
+                 from /opt/ros/noetic/include/ros/callback_queue.h:38,
+                 from /root/uav_ws/src/uav_ros_simulation/ros_packages/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_motor_model.h:35,
+                 from /root/uav_ws/src/uav_ros_simulation/ros_packages/rotors_simulator/rotors_gazebo_plugins/src/gazebo_motor_model.cpp:21:
+/root/uav_ws/src/uav_ros_simulation/ros_packages/rotors_simulator/rotors_gazebo_plugins/src/gazebo_motor_model.cpp: In member function ‘void gazebo::GazeboMotorModel::VelocityCallback(const ActuatorsConstPtr&)’:
+/root/uav_ws/src/uav_ros_simulation/ros_packages/rotors_simulator/rotors_gazebo_plugins/src/gazebo_motor_model.cpp:129:18: warning: format ‘%d’ expects argument of type ‘int’, but argument 9 has type ‘std::vector<double>::size_type’ {aka ‘long unsigned int’} [-Wformat=]
+  129 |                  "You tried to access index %d of the MotorSpeed message array which is of size %d.",
+      |                  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  130 |                  motor_number_, rot_velocities->angular_velocities.size());
+      |                                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      |                                                                        |
+      |                                                                        std::vector<double>::size_type {aka long unsigned int}
+/root/uav_ws/src/uav_ros_simulation/ros_packages/rotors_simulator/rotors_gazebo_plugins/src/gazebo_motor_model.cpp:129:98: note: format string is defined here
+  129 |                  "You tried to access index %d of the MotorSpeed message array which is of size %d.",
+      |                                                                                                 ~^
+      |                                                                                                  |
+      |                                                                                                  int
+      |                                                                                                 %ld

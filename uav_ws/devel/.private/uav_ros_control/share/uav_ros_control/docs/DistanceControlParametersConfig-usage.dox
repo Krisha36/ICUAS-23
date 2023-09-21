@@ -1,0 +1,16 @@
+\subsubsection usage Usage
+\verbatim
+<node name="uav_ros_control" pkg="uav_ros_control" type="uav_ros_control">
+  <param name="k_p_dist" type="double" value="5.0" />
+  <param name="k_i_dist" type="double" value="5.0" />
+  <param name="k_d_dist" type="double" value="5.0" />
+  <param name="lim_high_dist" type="double" value="0.5" />
+  <param name="lim_low_dist" type="double" value="-0.5" />
+  <param name="k_p_vdist" type="double" value="5.0" />
+  <param name="k_i_vdist" type="double" value="5.0" />
+  <param name="k_d_vdist" type="double" value="5.0" />
+  <param name="lim_high_vdist" type="double" value="0.5" />
+  <param name="lim_low_vdist" type="double" value="-0.5" />
+</node>
+\endverbatim
+

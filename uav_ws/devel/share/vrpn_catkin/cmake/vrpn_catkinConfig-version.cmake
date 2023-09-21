@@ -1,0 +1,1 @@
+/root/uav_ws/devel/.private/vrpn_catkin/share/vrpn_catkin/cmake/vrpn_catkinConfig-version.cmake

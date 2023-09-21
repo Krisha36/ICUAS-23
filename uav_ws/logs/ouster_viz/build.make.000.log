@@ -1,0 +1,7 @@
+Scanning dependencies of target ouster_viz
+[ 80%] Building CXX object CMakeFiles/ouster_viz.dir/src/camera.cpp.o
+[ 80%] Building CXX object CMakeFiles/ouster_viz.dir/src/point_viz.cpp.o
+[ 80%] Building CXX object CMakeFiles/ouster_viz.dir/src/cloud.cpp.o
+[ 80%] Building CXX object CMakeFiles/ouster_viz.dir/src/image.cpp.o
+[100%] Linking CXX shared library /root/uav_ws/devel/.private/ouster_viz/lib/libouster_viz.so
+[100%] Built target ouster_viz

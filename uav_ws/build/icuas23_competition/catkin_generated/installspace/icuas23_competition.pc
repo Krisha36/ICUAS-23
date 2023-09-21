@@ -1,0 +1,8 @@
+prefix=/root/uav_ws/install
+
+Name: icuas23_competition
+Description: Description of icuas23_competition
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs

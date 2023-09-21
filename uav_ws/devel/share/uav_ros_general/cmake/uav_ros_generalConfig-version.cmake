@@ -1,0 +1,1 @@
+/root/uav_ws/devel/.private/uav_ros_general/share/uav_ros_general/cmake/uav_ros_generalConfig-version.cmake

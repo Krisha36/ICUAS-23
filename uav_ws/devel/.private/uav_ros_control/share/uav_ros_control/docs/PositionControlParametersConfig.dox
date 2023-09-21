@@ -1,0 +1,37 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~hover" : \b [double] Hover thrust min: 0.0, default: 0.0, max: 1.0
+- \b "~k_p_xy" : \b [double] Position controller (xy-axes) proportional gain min: 0.0, default: 5.0, max: 100.0
+- \b "~k_i_xy" : \b [double] Position controller (xy-axes) integrator gain min: 0.0, default: 5.0, max: 10.0
+- \b "~k_d_xy" : \b [double] Position controller (xy-axes) derivator gain min: 0.0, default: 5.0, max: 10.0
+- \b "~lim_high_xy" : \b [double] Position controller (xy-axes) limit - high min: 0.0, default: 0.5, max: 400.0
+- \b "~lim_low_xy" : \b [double] Position controller (xy-axes) limit - low min: -400.0, default: -0.5, max: 0.0
+- \b "~k_p_vxy" : \b [double] Velocity controller (xy-axes) proportional gain min: 0.0, default: 5.0, max: 100.0
+- \b "~k_i_vxy" : \b [double] Velocity controller (xy-axes) integrator gain min: 0.0, default: 5.0, max: 10.0
+- \b "~k_d_vxy" : \b [double] Velocity controller (xy-axes) derivator gain min: 0.0, default: 5.0, max: 10.0
+- \b "~lim_high_vxy" : \b [double] Velocity controller (xy-axes) limit - high min: 0.0, default: 0.5, max: 400.0
+- \b "~lim_low_vxy" : \b [double] Velocity controller (xy-axes) limit - low min: -400.0, default: -0.5, max: 0.0
+- \b "~k_p_z" : \b [double] Position controller (z-axis) proportional gain min: 0.0, default: 5.0, max: 100.0
+- \b "~k_i_z" : \b [double] Position controller (z-axis) integrator gain min: 0.0, default: 5.0, max: 100.0
+- \b "~k_d_z" : \b [double] Position controller (z-axis) derivator gain min: 0.0, default: 5.0, max: 100.0
+- \b "~lim_high_z" : \b [double] Position controller (z-axis) limit - high min: 0.0, default: 0.5, max: 50.0
+- \b "~lim_low_z" : \b [double] Position controller (z-axis) limit - low min: -50.0, default: -0.5, max: 0.0
+- \b "~k_p_vz" : \b [double] Velocity controller (z-axis) proportional gain min: 0.0, default: 5.0, max: 10.0
+- \b "~k_i_vz" : \b [double] Velocity controller (z-axis) integrator gain min: 0.0, default: 5.0, max: 10.0
+- \b "~k_d_vz" : \b [double] Velocity controller (z-axis) derivator gain min: 0.0, default: 5.0, max: 10.0
+- \b "~lim_high_vz" : \b [double] Velocity controller (z-axis) limit - high min: 0.0, default: 0.5, max: 50.0
+- \b "~lim_low_vz" : \b [double] Velocity controller (z-axis) limit - low min: -50.0, default: -0.5, max: 0.0
+- \b "~yaw_rate_p" : \b [double] Yaw-rate controller proportional gain min: 0.0, default: 5.0, max: 10.0
+- \b "~yaw_rate_i" : \b [double] Yaw-rate controller integrator gain min: 0.0, default: 5.0, max: 10.0
+- \b "~yaw_rate_d" : \b [double] Yaw-rate controller derivator gain min: 0.0, default: 5.0, max: 10.0
+- \b "~yaw_rate_lim_high" : \b [double] Yaw-rate controller limit - high min: 0.0, default: 0.5, max: 50.0
+- \b "~yaw_rate_lim_low" : \b [double] Yaw-rate controller limit - low min: -50.0, default: -0.5, max: 0.0
+- \b "~ff_vel_x" : \b [double] Feed-forward velocity gain - x axis min: 0.0, default: 0.0, max: 10.0
+- \b "~ff_vel_y" : \b [double] Feed-forward velocity gain - y axis min: 0.0, default: 0.0, max: 10.0
+- \b "~ff_vel_z" : \b [double] Feed-forward velocity gain - z axis min: 0.0, default: 0.0, max: 10.0
+- \b "~ff_acc_x" : \b [double] Feed-forward acceleration gain - x axis min: 0.0, default: 0.0, max: 10.0
+- \b "~ff_acc_y" : \b [double] Feed-forward acceleration gain - y axis min: 0.0, default: 0.0, max: 10.0
+- \b "~ff_acc_z" : \b [double] Feed-forward acceleration gain - z axis min: 0.0, default: 0.0, max: 10.0
+

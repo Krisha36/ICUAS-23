@@ -1,0 +1,17 @@
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_drivers/ros_packages/rplidar_ros/sdk/src/sl_tcp_channel.cpp:33:9: warning: #pragma once in main file
+   33 | #pragma once
+      |         ^~~~
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_drivers/ros_packages/rplidar_ros/sdk/src/sl_udp_channel.cpp:33:9: warning: #pragma once in main file
+   33 | #pragma once
+      |         ^~~~
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_drivers/ros_packages/rplidar_ros/sdk/src/sl_serial_channel.cpp:33:9: warning: #pragma once in main file
+   33 | #pragma once
+      |         ^~~~
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_drivers/ros_packages/rplidar_ros/sdk/src/arch/linux/net_serial.cpp: In member function ‘virtual void rp::arch::net::raw_serial::cancelOperation()’:
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_drivers/ros_packages/rplidar_ros/sdk/src/arch/linux/net_serial.cpp:428:12: warning: ignoring return value of ‘ssize_t write(int, const void*, size_t)’, declared with attribute warn_unused_result [-Wunused-result]
+  428 |     ::write(_selfpipe[1], "x", 1);
+      |     ~~~~~~~^~~~~~~~~~~~~~~~~~~~~~
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_drivers/ros_packages/rplidar_ros/src/node.cpp: In function ‘bool checkRPLIDARHealth(sl::ILidarDriver*)’:
+/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_drivers/ros_packages/rplidar_ros/src/node.cpp:172:1: warning: control reaches end of non-void function [-Wreturn-type]
+  172 | }
+      | ^

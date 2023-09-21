@@ -1,0 +1,8 @@
+prefix=/root/uav_ws/devel/.private/uav_ros_general
+
+Name: uav_ros_general
+Description: Description of uav_ros_general
+Version: 0.0.1
+Cflags: -I/root/uav_ws/src/uav_ros_simulation/ros_packages/uav_ros_stack/ros_packages/uav_ros_general/src
+Libs: -L${prefix}/lib 
+Requires: roscpp roslib rospack

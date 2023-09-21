@@ -1,0 +1,8 @@
+prefix=/root/uav_ws/install
+
+Name: uav_ros_lib
+Description: Description of uav_ros_lib
+Version: 0.0.0
+Cflags: -I${prefix}/include -I/usr/include/eigen3
+Libs: -L${prefix}/lib -lnfilt -ldkf_vanilla -lglobal_to_local -lros_convert -ltrajectory_helper -lconstant_velocity_lkf -lconstant_acceleration_lkf -lconstant_acceleration_ukf -lparam_util
+Requires: mavros

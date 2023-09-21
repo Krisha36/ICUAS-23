@@ -1,0 +1,1 @@
+/root/uav_ws/devel/.private/ouster_viz/lib/pkgconfig/ouster_viz.pc

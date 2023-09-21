@@ -1,0 +1,12 @@
+Symlinking /root/uav_ws/devel/lib/libvelodyne_laserscan.so
+Symlinking /root/uav_ws/devel/lib/pkgconfig/velodyne_laserscan.pc
+Symlinking /root/uav_ws/devel/lib/python3/dist-packages/velodyne_laserscan/__init__.py
+Symlinking /root/uav_ws/devel/lib/python3/dist-packages/velodyne_laserscan/cfg/__init__.py
+Symlinking /root/uav_ws/devel/lib/python3/dist-packages/velodyne_laserscan/cfg/VelodyneLaserScanConfig.py
+Symlinking /root/uav_ws/devel/lib/velodyne_laserscan/velodyne_laserscan_node
+Symlinking /root/uav_ws/devel/share/velodyne_laserscan/cmake/velodyne_laserscanConfig.cmake
+Symlinking /root/uav_ws/devel/share/velodyne_laserscan/cmake/velodyne_laserscanConfig-version.cmake
+Symlinking /root/uav_ws/devel/share/velodyne_laserscan/docs/VelodyneLaserScanConfig-usage.dox
+Symlinking /root/uav_ws/devel/share/velodyne_laserscan/docs/VelodyneLaserScanConfig.wikidoc
+Symlinking /root/uav_ws/devel/share/velodyne_laserscan/docs/VelodyneLaserScanConfig.dox
+Symlinking /root/uav_ws/devel/include/velodyne_laserscan/VelodyneLaserScanConfig.h
