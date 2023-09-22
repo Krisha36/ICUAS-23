@@ -11,4 +11,4 @@ Run ```roscd icuas23_competition/startup/challenge``` ##You are in the challenge
 Run ```./start.sh``` 	#Simulation will begin <br>
 
 Gdrive links for weights of yolov7: <br>
-``````
+```https://drive.google.com/drive/folders/1Rr2pz4D0GzOwizh2JdO0TSBISVkM3Mtw```
